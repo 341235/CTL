@@ -33,7 +33,7 @@ ProjectCTL/
 
 ## Setup
 
-1. **Python environment** (Python 3.11+):
+1. **Python environment** (Python 3.11):
    ```bash
    python -m venv .venv
    .venv\Scripts\activate          # Windows  (macOS/Linux: source .venv/bin/activate)
