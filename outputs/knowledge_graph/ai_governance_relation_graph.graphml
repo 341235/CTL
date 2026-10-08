@@ -1,0 +1,1675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="evidence" attr.type="string" />
+  <key id="d4" for="edge" attr.name="date" attr.type="string" />
+  <key id="d3" for="edge" attr.name="record_id" attr.type="long" />
+  <key id="d2" for="edge" attr.name="relation" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ORG::Meta">
+      <data key="d0">Meta</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Llama 3.2">
+      <data key="d0">Llama 3.2</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::CrowdStrike">
+      <data key="d0">CrowdStrike</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Amazon Web Services">
+      <data key="d0">Amazon Web Services</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::NVIDIA">
+      <data key="d0">NVIDIA</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::European Union">
+      <data key="d0">European Union</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="LAW::EU AI Act">
+      <data key="d0">EU AI Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="TECHNOLOGY::Artificial Intelligence">
+      <data key="d0">Artificial Intelligence</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PERSON::Gavin Newsom">
+      <data key="d0">Gavin Newsom</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="LAW::Senate Bill 1047">
+      <data key="d0">Senate Bill 1047</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="LAW::Corporate Sustainability Reporting Directive">
+      <data key="d0">Corporate Sustainability Reporting Directive</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::Microsoft">
+      <data key="d0">Microsoft</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::advanced, responsible AI">
+      <data key="d0">advanced, responsible AI</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::Microsoft Fabric">
+      <data key="d0">Microsoft Fabric</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PRODUCT::DAX Copilot">
+      <data key="d0">DAX Copilot</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="LAW::American Privacy Rights Act">
+      <data key="d0">American Privacy Rights Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::companies">
+      <data key="d0">companies</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="LAW::CCPA">
+      <data key="d0">CCPA</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="PERSON::individuals">
+      <data key="d0">individuals</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="LAW::Protecting Americans’ Data from Foreign Adversaries Act of 2024">
+      <data key="d0">Protecting Americans’ Data from Foreign Adversaries Act of 2024</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::data brokers">
+      <data key="d0">data brokers</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::OpenAI">
+      <data key="d0">OpenAI</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::GPT">
+      <data key="d0">GPT</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::ChatGPT">
+      <data key="d0">ChatGPT</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Anthropic">
+      <data key="d0">Anthropic</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Claude">
+      <data key="d0">Claude</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="LAW::GDPR">
+      <data key="d0">GDPR</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="GPE::Colorado">
+      <data key="d0">Colorado</data>
+      <data key="d1">GPE</data>
+    </node>
+    <node id="TECHNOLOGY::employment AI tools">
+      <data key="d0">employment AI tools</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="TECHNOLOGY::artificial intelligence">
+      <data key="d0">artificial intelligence</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::banking sector in Romania">
+      <data key="d0">banking sector in Romania</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::AI-based solutions">
+      <data key="d0">AI-based solutions</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="LAW::National AI Strategy 2024-2027">
+      <data key="d0">National AI Strategy 2024-2027</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="TECHNOLOGY::emerging technologies">
+      <data key="d0">emerging technologies</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::organisations">
+      <data key="d0">organisations</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Keymakr">
+      <data key="d0">Keymakr</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::transformative technology">
+      <data key="d0">transformative technology</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::ChatGPT">
+      <data key="d0">ChatGPT</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::DeepSeek">
+      <data key="d0">DeepSeek</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::DeepSeek-R1">
+      <data key="d0">DeepSeek-R1</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="REGULATOR::European Commission">
+      <data key="d0">European Commission</data>
+      <data key="d1">REGULATOR</data>
+    </node>
+    <node id="LAW::Digital Omnibus">
+      <data key="d0">Digital Omnibus</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="PERSON::Josh Gottheimer and Darin LaHood">
+      <data key="d0">Josh Gottheimer and Darin LaHood</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="LAW::No DeepSeek on Government Devices Act">
+      <data key="d0">No DeepSeek on Government Devices Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="MODEL::DeepSeek AI model">
+      <data key="d0">DeepSeek AI model</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Apple">
+      <data key="d0">Apple</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::Siri">
+      <data key="d0">Siri</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="GPE::Canada">
+      <data key="d0">Canada</data>
+      <data key="d1">GPE</data>
+    </node>
+    <node id="LAW::Council of Europe Framework Convention">
+      <data key="d0">Council of Europe Framework Convention</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::AT&amp;T">
+      <data key="d0">AT&amp;T</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Broadcom">
+      <data key="d0">Broadcom</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Workday">
+      <data key="d0">Workday</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::agentic AI">
+      <data key="d0">agentic AI</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="LAW::Digital Services Act">
+      <data key="d0">Digital Services Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::online platforms and search engines">
+      <data key="d0">online platforms and search engines</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Google DeepMind">
+      <data key="d0">Google DeepMind</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Gemini 2.5 Pro">
+      <data key="d0">Gemini 2.5 Pro</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Ai2">
+      <data key="d0">Ai2</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::Google Cloud">
+      <data key="d0">Google Cloud</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::Salesforce">
+      <data key="d0">Salesforce</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::AI Energy Score">
+      <data key="d0">AI Energy Score</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::Hugging Face">
+      <data key="d0">Hugging Face</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Cohere">
+      <data key="d0">Cohere</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Carnegie Mellon University">
+      <data key="d0">Carnegie Mellon University</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Llama 4">
+      <data key="d0">Llama 4</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="LAW::Online Safety Act">
+      <data key="d0">Online Safety Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="PRODUCT::videos">
+      <data key="d0">videos</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="TECHNOLOGY::ClaudeBot">
+      <data key="d0">ClaudeBot</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::Ziff Davis">
+      <data key="d0">Ziff Davis</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::SentinelOne">
+      <data key="d0">SentinelOne</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::Purple AI">
+      <data key="d0">Purple AI</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PRODUCT::Purple AI Athena">
+      <data key="d0">Purple AI Athena</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::US Congress">
+      <data key="d0">US Congress</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="LAW::Privacy Act of 1974">
+      <data key="d0">Privacy Act of 1974</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::Google">
+      <data key="d0">Google</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Gemini 2.5">
+      <data key="d0">Gemini 2.5</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Gemma">
+      <data key="d0">Gemma</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Gemini">
+      <data key="d0">Gemini</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="PERSON::Sam Altman">
+      <data key="d0">Sam Altman</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="ORG::Accenture">
+      <data key="d0">Accenture</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::Dynamics 365 Sales Copilot">
+      <data key="d0">Dynamics 365 Sales Copilot</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="GPE::California">
+      <data key="d0">California</data>
+      <data key="d1">GPE</data>
+    </node>
+    <node id="LAW::Transparency in Frontier Artificial Intelligence Act">
+      <data key="d0">Transparency in Frontier Artificial Intelligence Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="GPE::New York">
+      <data key="d0">New York</data>
+      <data key="d1">GPE</data>
+    </node>
+    <node id="LAW::Responsible AI Safety and Education Act">
+      <data key="d0">Responsible AI Safety and Education Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="STANDARD::Model Context Protocol">
+      <data key="d0">Model Context Protocol</data>
+      <data key="d1">STANDARD</data>
+    </node>
+    <node id="LAW::RAISE Act">
+      <data key="d0">RAISE Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="MODEL::frontier models">
+      <data key="d0">frontier models</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Apurva.ai">
+      <data key="d0">Apurva.ai</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::New Longevity BrAIn">
+      <data key="d0">New Longevity BrAIn</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::green claims">
+      <data key="d0">green claims</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::xAI">
+      <data key="d0">xAI</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Grok 4">
+      <data key="d0">Grok 4</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="LAW::GENIUS Act">
+      <data key="d0">GENIUS Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="TECHNOLOGY::stablecoins">
+      <data key="d0">stablecoins</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="MODEL::GPT-5">
+      <data key="d0">GPT-5</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Sonnet 4">
+      <data key="d0">Sonnet 4</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="STANDARD::Responsible AI Standard">
+      <data key="d0">Responsible AI Standard</data>
+      <data key="d1">STANDARD</data>
+    </node>
+    <node id="TECHNOLOGY::AI agents">
+      <data key="d0">AI agents</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::organizations">
+      <data key="d0">organizations</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::general-purpose AI models">
+      <data key="d0">general-purpose AI models</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="REGULATOR::FTC">
+      <data key="d0">FTC</data>
+      <data key="d1">REGULATOR</data>
+    </node>
+    <node id="ORG::Marriott">
+      <data key="d0">Marriott</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::GitHub">
+      <data key="d0">GitHub</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="TECHNOLOGY::MCP server">
+      <data key="d0">MCP server</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::Claude Desktop">
+      <data key="d0">Claude Desktop</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="MODEL::GPT-4o">
+      <data key="d0">GPT-4o</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="LAW::Digital Markets Act">
+      <data key="d0">Digital Markets Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="MODEL::Sora">
+      <data key="d0">Sora</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::IBM">
+      <data key="d0">IBM</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::IBM AI models">
+      <data key="d0">IBM AI models</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="PRODUCT::Opal">
+      <data key="d0">Opal</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::Delta Air Lines">
+      <data key="d0">Delta Air Lines</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::AI models">
+      <data key="d0">AI models</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::AMD">
+      <data key="d0">AMD</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PERSON::Chuck Schumer">
+      <data key="d0">Chuck Schumer</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="LAW::MIND Act">
+      <data key="d0">MIND Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::neurotech industry">
+      <data key="d0">neurotech industry</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Duolingo">
+      <data key="d0">Duolingo</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::personality-driven interfaces">
+      <data key="d0">personality-driven interfaces</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::NATO">
+      <data key="d0">NATO</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PRODUCT::pay or consent model">
+      <data key="d0">pay or consent model</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="MODEL::Gemini 3">
+      <data key="d0">Gemini 3</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Runway">
+      <data key="d0">Runway</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::Runway AI video generator">
+      <data key="d0">Runway AI video generator</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::Kling">
+      <data key="d0">Kling</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::Kling AI video generator">
+      <data key="d0">Kling AI video generator</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="STANDARD::Secure AI Framework">
+      <data key="d0">Secure AI Framework</data>
+      <data key="d1">STANDARD</data>
+    </node>
+    <node id="ORG::Coalition for Secure AI">
+      <data key="d0">Coalition for Secure AI</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::AI systems">
+      <data key="d0">AI systems</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::European Parliament">
+      <data key="d0">European Parliament</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="PERSON::Elon Musk">
+      <data key="d0">Elon Musk</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="MODEL::Grok">
+      <data key="d0">Grok</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="PRODUCT::Cowork">
+      <data key="d0">Cowork</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PRODUCT::Frontier">
+      <data key="d0">Frontier</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::Mercor">
+      <data key="d0">Mercor</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="STANDARD::APEX-Agents">
+      <data key="d0">APEX-Agents</data>
+      <data key="d1">STANDARD</data>
+    </node>
+    <node id="LAW::AI Transparency Act">
+      <data key="d0">AI Transparency Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="ORG::AWS">
+      <data key="d0">AWS</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::Strands">
+      <data key="d0">Strands</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="TECHNOLOGY::automotive AI systems">
+      <data key="d0">automotive AI systems</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="ORG::Pentagon">
+      <data key="d0">Pentagon</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::Anthropic AI systems">
+      <data key="d0">Anthropic AI systems</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::Code Review">
+      <data key="d0">Code Review</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PERSON::Palmer Luckey">
+      <data key="d0">Palmer Luckey</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="PRODUCT::Oculus VR">
+      <data key="d0">Oculus VR</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="ORG::Anduril">
+      <data key="d0">Anduril</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::autonomous weapons systems">
+      <data key="d0">autonomous weapons systems</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::Oculus Rift">
+      <data key="d0">Oculus Rift</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PERSON::Raúl Torrez">
+      <data key="d0">Raúl Torrez</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <node id="MODEL::Veo 3">
+      <data key="d0">Veo 3</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Hedra">
+      <data key="d0">Hedra</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Character-3">
+      <data key="d0">Character-3</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Sora 2">
+      <data key="d0">Sora 2</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Jest">
+      <data key="d0">Jest</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::Player 01">
+      <data key="d0">Player 01</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="LAW::Digital Omnibus on AI">
+      <data key="d0">Digital Omnibus on AI</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="TECHNOLOGY::ASSERT">
+      <data key="d0">ASSERT</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="TECHNOLOGY::Microsoft Security multi-model agentic scanning harness">
+      <data key="d0">Microsoft Security multi-model agentic scanning harness</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::Gemini CLI">
+      <data key="d0">Gemini CLI</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="MODEL::Anthropic AI models">
+      <data key="d0">Anthropic AI models</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Fable 5">
+      <data key="d0">Fable 5</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="MODEL::Mythos 5">
+      <data key="d0">Mythos 5</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::U.S. government">
+      <data key="d0">U.S. government</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="ORG::Zhipu">
+      <data key="d0">Zhipu</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="MODEL::GLM 5.2">
+      <data key="d0">GLM 5.2</data>
+      <data key="d1">MODEL</data>
+    </node>
+    <node id="ORG::Red Hat">
+      <data key="d0">Red Hat</data>
+      <data key="d1">ORG</data>
+    </node>
+    <node id="TECHNOLOGY::emotion recognition and biometric categorisation systems">
+      <data key="d0">emotion recognition and biometric categorisation systems</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="TECHNOLOGY::biometric data">
+      <data key="d0">biometric data</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="LAW::Biometric Information Privacy Act">
+      <data key="d0">Biometric Information Privacy Act</data>
+      <data key="d1">LAW</data>
+    </node>
+    <node id="TECHNOLOGY::face geometry">
+      <data key="d0">face geometry</data>
+      <data key="d1">TECHNOLOGY</data>
+    </node>
+    <node id="PRODUCT::MediaPipe Face Landmarker">
+      <data key="d0">MediaPipe Face Landmarker</data>
+      <data key="d1">PRODUCT</data>
+    </node>
+    <node id="PERSON::Mobley">
+      <data key="d0">Mobley</data>
+      <data key="d1">PERSON</data>
+    </node>
+    <edge source="ORG::Meta" target="MODEL::Llama 3.2" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">168977</data>
+      <data key="d4">2024-09-18</data>
+      <data key="d5">distributed by Meta</data>
+    </edge>
+    <edge source="ORG::Meta" target="MODEL::Llama 4" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">169415</data>
+      <data key="d4">2025-04-23</data>
+      <data key="d5">Meta distributed Llama 4</data>
+    </edge>
+    <edge source="ORG::Meta" target="LAW::GDPR" id="0">
+      <data key="d2">COMPLIES_WITH</data>
+      <data key="d3">156132</data>
+      <data key="d4">2025-11-17</data>
+      <data key="d5">Meta’s update aligns with requirements</data>
+    </edge>
+    <edge source="ORG::Meta" target="PRODUCT::pay or consent model" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">156213</data>
+      <data key="d4">2025-12-08</data>
+      <data key="d5">Meta Platforms Inc. has proposed a revamped approach to its “ pay or consent ” model</data>
+    </edge>
+    <edge source="ORG::Meta" target="ORG::European Union" id="0">
+      <data key="d2">COMPLIES_WITH</data>
+      <data key="d3">156213</data>
+      <data key="d4">2025-12-08</data>
+      <data key="d5">designed to comply with evolving EU rules</data>
+    </edge>
+    <edge source="ORG::CrowdStrike" target="ORG::Amazon Web Services" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">163182</data>
+      <data key="d4">2024-09-19</data>
+      <data key="d5">CrowdStrike also announced Monday that it is partnering with Amazon Web Services and NVIDIA</data>
+    </edge>
+    <edge source="ORG::CrowdStrike" target="ORG::NVIDIA" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">163182</data>
+      <data key="d4">2024-09-19</data>
+      <data key="d5">CrowdStrike also announced Monday that it is partnering with Amazon Web Services and NVIDIA</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::EU AI Act" id="0">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">100583</data>
+      <data key="d4">2024-09-24</data>
+      <data key="d5">the European Union’s AI Act</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::EU AI Act" id="1">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">45108</data>
+      <data key="d4">2025-04-10</data>
+      <data key="d5">including the EU AI Act</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::EU AI Act" id="2">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">167623</data>
+      <data key="d4">2025-07-08</data>
+      <data key="d5">Europe’s regulations (namely, the EU AI Act</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::EU AI Act" id="3">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">67189</data>
+      <data key="d4">2026-05-07</data>
+      <data key="d5">the AI Act, adopted in 2024</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::Corporate Sustainability Reporting Directive" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">173341</data>
+      <data key="d4">2024-10-07</data>
+      <data key="d5">Corporate Sustainability Reporting Directive (CSRD) introduced by the European Union</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::GDPR" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">32675</data>
+      <data key="d4">2024-11-14</data>
+      <data key="d5">The European Union's General Data Protection Regulation</data>
+    </edge>
+    <edge source="ORG::European Union" target="LAW::Digital Markets Act" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">99243</data>
+      <data key="d4">2025-09-26</data>
+      <data key="d5">the Digital Markets Act is a regulation that the European Union introduced</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::Artificial Intelligence" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">172313</data>
+      <data key="d4">2024-09-26</data>
+      <data key="d5">EU AI Act regulates AI</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::Artificial Intelligence" id="1">
+      <data key="d2">REGULATES</data>
+      <data key="d3">57524</data>
+      <data key="d4">2026-08-02</data>
+      <data key="d5">The AI Act is a comprehensive legal framework</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::artificial intelligence" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">157259</data>
+      <data key="d4">2024-12-04</data>
+      <data key="d5">The European Union’s Artificial Intelligence Act (EU AI Act) is poised to become the global standard for regulating artificial intelligence</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::artificial intelligence" id="1">
+      <data key="d2">REGULATES</data>
+      <data key="d3">32199</data>
+      <data key="d4">2025-02-21</data>
+      <data key="d5">AI Act, a landmark EU law</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="ORG::organisations" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">142008</data>
+      <data key="d4">2024-12-28</data>
+      <data key="d5">EU AI Act beginning to come into force</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="ORG::Meta" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">53745</data>
+      <data key="d4">2025-01-20</data>
+      <data key="d5">Meta teams knew there could be blowback and potential fines under the EU AI Act</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="ORG::organizations" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">70218</data>
+      <data key="d4">2025-08-25</data>
+      <data key="d5">EU Artificial Intelligence Act brings additional requirements</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="MODEL::general-purpose AI models" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">147840</data>
+      <data key="d4">2025-09-03</data>
+      <data key="d5">the AI Act... will go into full effect in August 2026</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="MODEL::general-purpose AI models" id="1">
+      <data key="d2">REGULATES</data>
+      <data key="d3">67242</data>
+      <data key="d4">2026-08-11</data>
+      <data key="d5">Artificial Intelligence Act entered a new enforcement phase</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::AI systems" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">106159</data>
+      <data key="d4">2026-01-22</data>
+      <data key="d5">European Union has allowed regulators to ban AI systems... under its Artificial Intelligence Act</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::automotive AI systems" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">88099</data>
+      <data key="d4">2026-02-24</data>
+      <data key="d5">EU AI Act's high-risk classification for automotive AI systems</data>
+    </edge>
+    <edge source="LAW::EU AI Act" target="TECHNOLOGY::emotion recognition and biometric categorisation systems" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">72268</data>
+      <data key="d4">2026-08-11</data>
+      <data key="d5">EU AI Act’s transparency obligations came into effect</data>
+    </edge>
+    <edge source="PERSON::Gavin Newsom" target="LAW::Senate Bill 1047" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">68037</data>
+      <data key="d4">2024-09-30</data>
+      <data key="d5">California Governor Gavin Newsom vetoed a contentious AI safety regulation</data>
+    </edge>
+    <edge source="ORG::Microsoft" target="TECHNOLOGY::advanced, responsible AI" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171543</data>
+      <data key="d4">2024-10-10</data>
+      <data key="d5">Microsoft is leading the development of advanced, responsible AI</data>
+    </edge>
+    <edge source="ORG::Microsoft" target="PRODUCT::Dynamics 365 Sales Copilot" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">101817</data>
+      <data key="d4">2025-06-12</data>
+      <data key="d5">Take Microsoft Dynamics 365 Sales Copilot</data>
+    </edge>
+    <edge source="ORG::Microsoft" target="STANDARD::Responsible AI Standard" id="0">
+      <data key="d2">COMPLIES_WITH</data>
+      <data key="d3">104296</data>
+      <data key="d4">2025-08-21</data>
+      <data key="d5">Microsoft embeds Responsible AI principles into its development lifecycle by following the Responsible AI Standard</data>
+    </edge>
+    <edge source="ORG::Microsoft" target="TECHNOLOGY::ASSERT" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">52983</data>
+      <data key="d4">2026-06-02</data>
+      <data key="d5">ASSERT is Microsoft’s open-source framework</data>
+    </edge>
+    <edge source="ORG::Microsoft" target="TECHNOLOGY::Microsoft Security multi-model agentic scanning harness" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171658</data>
+      <data key="d4">2026-06-02</data>
+      <data key="d5">we developed the Microsoft Security multi-model agentic scanning harness</data>
+    </edge>
+    <edge source="PRODUCT::Microsoft Fabric" target="PRODUCT::DAX Copilot" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171543</data>
+      <data key="d4">2024-10-10</data>
+      <data key="d5">Microsoft Fabric’s healthcare data solutions now integrate DAX Copilot data</data>
+    </edge>
+    <edge source="LAW::American Privacy Rights Act" target="ORG::companies" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">41115</data>
+      <data key="d4">2024-10-14</data>
+      <data key="d5">draft ARPA would require large companies to regularly assess algorithms</data>
+    </edge>
+    <edge source="LAW::American Privacy Rights Act" target="LAW::CCPA" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">41115</data>
+      <data key="d4">2024-10-14</data>
+      <data key="d5">draft APRA proposes overriding any state statutes</data>
+    </edge>
+    <edge source="LAW::American Privacy Rights Act" target="PERSON::individuals" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">41115</data>
+      <data key="d4">2024-10-14</data>
+      <data key="d5">APRA proposes enabling individuals to seek legal recourse</data>
+    </edge>
+    <edge source="LAW::CCPA" target="TECHNOLOGY::AI agents" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">20802</data>
+      <data key="d4">2025-08-25</data>
+      <data key="d5">meet regulatory obligations like CCPA</data>
+    </edge>
+    <edge source="LAW::Protecting Americans’ Data from Foreign Adversaries Act of 2024" target="ORG::data brokers" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">57272</data>
+      <data key="d4">2024-11-08</data>
+      <data key="d5">Protecting Americans’ Data from Foreign Adversaries Act of 2024</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::GPT" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">74687</data>
+      <data key="d4">2024-11-08</data>
+      <data key="d5">OpenAI released its first GPT model</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::ChatGPT" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">32675</data>
+      <data key="d4">2024-11-14</data>
+      <data key="d5">OpenAI's ChatGPT</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::ChatGPT" id="1">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">153483</data>
+      <data key="d4">2025-03-13</data>
+      <data key="d5">OpenAI released the first version of ChatGPT</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::ChatGPT" id="2">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">3507</data>
+      <data key="d4">2026-03-04</data>
+      <data key="d5">OpenAI products have drawn much of their early momentum from consumer adoption of ChatGPT</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="PRODUCT::ChatGPT" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">157263</data>
+      <data key="d4">2025-01-09</data>
+      <data key="d5">tools such as ChatGPT</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::GPT-5" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">68388</data>
+      <data key="d4">2025-08-15</data>
+      <data key="d5">OpenAI’s release of GPT-5</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="STANDARD::Model Context Protocol" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">113224</data>
+      <data key="d4">2025-09-16</data>
+      <data key="d5">Anthropic and OpenAI have built it into their products</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::GPT-4o" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">150953</data>
+      <data key="d4">2025-09-23</data>
+      <data key="d5">OpenAI's ChatGPT, running on the GPT-4o model</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::Sora" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">147876</data>
+      <data key="d4">2025-10-06</data>
+      <data key="d5">launch of the Sora video creation app</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::Sora" id="1">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">165751</data>
+      <data key="d4">2026-03-26</data>
+      <data key="d5">OpenAI developed Sora</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::Sora" id="2">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">51074</data>
+      <data key="d4">2026-04-04</data>
+      <data key="d5">OpenAI's Sora 1 and Sora 2</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="PRODUCT::Frontier" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48257</data>
+      <data key="d4">2026-02-05</data>
+      <data key="d5">OpenAI launched Frontier</data>
+    </edge>
+    <edge source="ORG::OpenAI" target="MODEL::Sora 2" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">51074</data>
+      <data key="d4">2026-04-04</data>
+      <data key="d5">OpenAI's Sora 2 model</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">32675</data>
+      <data key="d4">2024-11-14</data>
+      <data key="d5">Anthropic's Claude</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="1">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171766</data>
+      <data key="d4">2025-10-08</data>
+      <data key="d5">IBM has teamed up with Anthropic to integrate Anthropic's Claude family of AI models</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="2">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">115343</data>
+      <data key="d4">2026-02-25</data>
+      <data key="d5">Anthropic’s Claude would be deployed within the military’s classified systems</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="3">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">76262</data>
+      <data key="d4">2026-02-26</data>
+      <data key="d5">maker of the AI chatbot Claude</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="4">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">114159</data>
+      <data key="d4">2026-03-13</data>
+      <data key="d5">Anthropic published its New Constitution for Claude</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Claude" id="5">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">140118</data>
+      <data key="d4">2026-03-30</data>
+      <data key="d5">moral precepts for Anthropic’s chatbot, Claude</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="TECHNOLOGY::ClaudeBot" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">53818</data>
+      <data key="d4">2025-04-28</data>
+      <data key="d5">Anthropic’s ClaudeBot</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="STANDARD::Model Context Protocol" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">160599</data>
+      <data key="d4">2025-06-23</data>
+      <data key="d5">Anthropic has raised the bar with its Model Context Protocol</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="STANDARD::Model Context Protocol" id="1">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">113224</data>
+      <data key="d4">2025-09-16</data>
+      <data key="d5">Anthropic’s Model Context Protocol (MCP) was released in November 2024</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="STANDARD::Model Context Protocol" id="2">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">69079</data>
+      <data key="d4">2025-12-10</data>
+      <data key="d5">Anthropic’s Model Context Protocol (MCP)</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="STANDARD::Model Context Protocol" id="3">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">148194</data>
+      <data key="d4">2026-03-14</data>
+      <data key="d5">Anthropic introduced the protocol</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Sonnet 4" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">68388</data>
+      <data key="d4">2025-08-15</data>
+      <data key="d5">Anthropic's expanded Sonnet 4</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::AI models" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">114509</data>
+      <data key="d4">2025-10-17</data>
+      <data key="d5">Anthropic evaluated 16 major AI models</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="PRODUCT::Cowork" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48257</data>
+      <data key="d4">2026-02-05</data>
+      <data key="d5">Anthropic released Cowork</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="ORG::Pentagon" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">115343</data>
+      <data key="d4">2026-02-25</data>
+      <data key="d5">Anthropic signed a $ 200 million contract with the Pentagon</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="TECHNOLOGY::Anthropic AI systems" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">3507</data>
+      <data key="d4">2026-03-04</data>
+      <data key="d5">Anthropic develops AI systems</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="PRODUCT::Code Review" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">151349</data>
+      <data key="d4">2026-03-12</data>
+      <data key="d5">Anthropic introduced Code Review</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Anthropic AI models" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">76679</data>
+      <data key="d4">2026-06-17</data>
+      <data key="d5">Anthropic's newest and most powerful artificial intelligence models</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Fable 5" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">76679</data>
+      <data key="d4">2026-06-17</data>
+      <data key="d5">Anthropic to take its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Mythos 5" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">76679</data>
+      <data key="d4">2026-06-17</data>
+      <data key="d5">Anthropic to take its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="MODEL::Mythos 5" id="1">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">1209</data>
+      <data key="d4">2026-06-30</data>
+      <data key="d5">Anthropic released its powerful Mythos 5 model</data>
+    </edge>
+    <edge source="ORG::Anthropic" target="ORG::U.S. government" id="0">
+      <data key="d2">COMPLIES_WITH</data>
+      <data key="d3">1209</data>
+      <data key="d4">2026-06-30</data>
+      <data key="d5">Anthropic adheres to the U.S. government's national security concerns</data>
+    </edge>
+    <edge source="LAW::GDPR" target="ORG::Meta" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">32199</data>
+      <data key="d4">2025-02-21</data>
+      <data key="d5">GDPR — the EU's data privacy framework</data>
+    </edge>
+    <edge source="LAW::GDPR" target="TECHNOLOGY::AI agents" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">20802</data>
+      <data key="d4">2025-08-25</data>
+      <data key="d5">meet regulatory obligations like GDPR</data>
+    </edge>
+    <edge source="LAW::GDPR" target="ORG::companies" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">74549</data>
+      <data key="d4">2025-11-07</data>
+      <data key="d5">General Data Protection Regulation (GDPR) in Europe, companies must ensure that their AI systems comply with data protection regulations</data>
+    </edge>
+    <edge source="LAW::GDPR" target="TECHNOLOGY::biometric data" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">72268</data>
+      <data key="d4">2026-08-11</data>
+      <data key="d5">GDPR Article 9, biometric data processed for the purpose of uniquely identifying a person is a special category</data>
+    </edge>
+    <edge source="GPE::Colorado" target="TECHNOLOGY::employment AI tools" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">104053</data>
+      <data key="d4">2024-11-22</data>
+      <data key="d5">Colorado, New York City, and Illinois have already passed legislation in recent years regulating the use of AI in employment decisions</data>
+    </edge>
+    <edge source="ORG::banking sector in Romania" target="TECHNOLOGY::AI-based solutions" id="0">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">87692</data>
+      <data key="d4">2024-12-10</data>
+      <data key="d5">adopting AI-based solutions</data>
+    </edge>
+    <edge source="LAW::National AI Strategy 2024-2027" target="TECHNOLOGY::emerging technologies" id="0">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">87692</data>
+      <data key="d4">2024-12-10</data>
+      <data key="d5">National AI Strategy 2024-2027, which aims to adopt emerging technologies</data>
+    </edge>
+    <edge source="ORG::Keymakr" target="TECHNOLOGY::transformative technology" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">103657</data>
+      <data key="d4">2024-12-31</data>
+      <data key="d5">Keymakr studio supports the development of transformative technology</data>
+    </edge>
+    <edge source="ORG::DeepSeek" target="MODEL::DeepSeek-R1" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">168234</data>
+      <data key="d4">2025-01-30</data>
+      <data key="d5">DeepSeek released the weights to a frontier-level reasoning model</data>
+    </edge>
+    <edge source="ORG::DeepSeek" target="MODEL::DeepSeek AI model" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">75924</data>
+      <data key="d4">2025-02-06</data>
+      <data key="d5">the Chinese software company in December published an AI model</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="LAW::Digital Omnibus" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">54288</data>
+      <data key="d4">2025-02-02</data>
+      <data key="d5">European Commission proposed the Digital Omnibus</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="PRODUCT::green claims" id="0">
+      <data key="d2">INVESTIGATES</data>
+      <data key="d3">143205</data>
+      <data key="d4">2025-07-10</data>
+      <data key="d5">The European Commission found 42% of all green claims were exaggerated, false, or deceptive.</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="LAW::Digital Markets Act" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">156213</data>
+      <data key="d4">2025-12-08</data>
+      <data key="d5">The European Commission, which oversees compliance with the bloc’s stringent Digital Markets Act (DMA)</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="LAW::Digital Markets Act" id="1">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">41595</data>
+      <data key="d4">2025-12-22</data>
+      <data key="d5">the European Commission’s initial proposal</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="LAW::Digital Omnibus on AI" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">67189</data>
+      <data key="d4">2026-05-07</data>
+      <data key="d5">The Commission had proposed the Digital Omnibus on AI</data>
+    </edge>
+    <edge source="REGULATOR::European Commission" target="MODEL::ChatGPT" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">128489</data>
+      <data key="d4">2026-08-31</data>
+      <data key="d5">The European Commission designated ChatGPT as a very large online search engine</data>
+    </edge>
+    <edge source="PERSON::Josh Gottheimer and Darin LaHood" target="LAW::No DeepSeek on Government Devices Act" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">75924</data>
+      <data key="d4">2025-02-06</data>
+      <data key="d5">Reps. Josh Gottheimer, D-N.J., and Darin LaHood, R-Ill., on Thursday introduced the “ No DeepSeek on Government Devices Act, ”</data>
+    </edge>
+    <edge source="ORG::Apple" target="TECHNOLOGY::Siri" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">177531</data>
+      <data key="d4">2025-02-11</data>
+      <data key="d5">Apple developed Siri</data>
+    </edge>
+    <edge source="GPE::Canada" target="LAW::Council of Europe Framework Convention" id="0">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">151751</data>
+      <data key="d4">2025-02-12</data>
+      <data key="d5">Canada signed the Council of Europe’s Framework Convention</data>
+    </edge>
+    <edge source="ORG::AT&amp;T" target="ORG::Broadcom" id="0">
+      <data key="d2">SUES</data>
+      <data key="d3">68173</data>
+      <data key="d4">2025-03-14</data>
+      <data key="d5">AT &amp; T took to the courts last summer... in a suit</data>
+    </edge>
+    <edge source="ORG::Workday" target="TECHNOLOGY::agentic AI" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">157295</data>
+      <data key="d4">2025-03-15</data>
+      <data key="d5">Workday, we build agentic AI</data>
+    </edge>
+    <edge source="LAW::Digital Services Act" target="ORG::online platforms and search engines" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">74622</data>
+      <data key="d4">2025-04-07</data>
+      <data key="d5">Digital Services Act</data>
+    </edge>
+    <edge source="LAW::Digital Services Act" target="MODEL::Grok" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">76157</data>
+      <data key="d4">2026-01-26</data>
+      <data key="d5">Regulators will examine whether Grok is living up to its obligations under the Digital Services Act</data>
+    </edge>
+    <edge source="LAW::Digital Services Act" target="MODEL::ChatGPT" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">128489</data>
+      <data key="d4">2026-08-31</data>
+      <data key="d5">The European Commission designated ChatGPT as a very large online search engine under the Digital Services Act</data>
+    </edge>
+    <edge source="ORG::Google DeepMind" target="MODEL::Gemini 2.5 Pro" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">68745</data>
+      <data key="d4">2025-04-12</data>
+      <data key="d5">Google DeepMind research</data>
+    </edge>
+    <edge source="ORG::Ai2" target="PRODUCT::Google Cloud" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">68745</data>
+      <data key="d4">2025-04-12</data>
+      <data key="d5">Ai2 announced a partnership with Google Cloud</data>
+    </edge>
+    <edge source="ORG::Salesforce" target="PRODUCT::AI Energy Score" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">66797</data>
+      <data key="d4">2025-04-16</data>
+      <data key="d5">Salesforce launched the AI Energy Score</data>
+    </edge>
+    <edge source="ORG::Salesforce" target="ORG::Hugging Face" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">66797</data>
+      <data key="d4">2025-04-16</data>
+      <data key="d5">In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score</data>
+    </edge>
+    <edge source="ORG::Salesforce" target="ORG::Cohere" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">66797</data>
+      <data key="d4">2025-04-16</data>
+      <data key="d5">In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score</data>
+    </edge>
+    <edge source="ORG::Salesforce" target="ORG::Carnegie Mellon University" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">66797</data>
+      <data key="d4">2025-04-16</data>
+      <data key="d5">In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score</data>
+    </edge>
+    <edge source="LAW::Online Safety Act" target="PRODUCT::videos" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">57632</data>
+      <data key="d4">2025-04-24</data>
+      <data key="d5">Online Safety Act</data>
+    </edge>
+    <edge source="ORG::Ziff Davis" target="ORG::OpenAI" id="0">
+      <data key="d2">SUES</data>
+      <data key="d3">53818</data>
+      <data key="d4">2025-04-28</data>
+      <data key="d5">lawsuit filed by Ziff Davis</data>
+    </edge>
+    <edge source="ORG::SentinelOne" target="PRODUCT::Purple AI" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">40204</data>
+      <data key="d4">2025-05-06</data>
+      <data key="d5">SentinelOne unveiled a set of new agentic capabilities as part of debuting the next version of its Purple AI security operations technology</data>
+    </edge>
+    <edge source="ORG::SentinelOne" target="PRODUCT::Purple AI Athena" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">40204</data>
+      <data key="d4">2025-05-06</data>
+      <data key="d5">The new release, Purple AI Athena, includes agentic AI functionality</data>
+    </edge>
+    <edge source="ORG::US Congress" target="LAW::Privacy Act of 1974" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">123163</data>
+      <data key="d4">2025-05-07</data>
+      <data key="d5">Congress implemented the Privacy Act of 1974</data>
+    </edge>
+    <edge source="ORG::Google" target="MODEL::Gemini 2.5" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">128113</data>
+      <data key="d4">2025-05-07</data>
+      <data key="d5">Google launching Gemini 2.5</data>
+    </edge>
+    <edge source="ORG::Google" target="MODEL::Gemma" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">44425</data>
+      <data key="d4">2025-05-09</data>
+      <data key="d5">Gemma is a family of lightweight, state-of-the-art open models from Google</data>
+    </edge>
+    <edge source="ORG::Google" target="MODEL::Gemini" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">44425</data>
+      <data key="d4">2025-05-09</data>
+      <data key="d5">used to create the Gemini models</data>
+    </edge>
+    <edge source="ORG::Google" target="PRODUCT::Opal" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171766</data>
+      <data key="d4">2025-10-08</data>
+      <data key="d5">Google has expanded the release of its vibe-coding tool Opal</data>
+    </edge>
+    <edge source="ORG::Google" target="MODEL::Gemini 3" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">69079</data>
+      <data key="d4">2025-12-10</data>
+      <data key="d5">launch of Gemini 3</data>
+    </edge>
+    <edge source="ORG::Google" target="STANDARD::Secure AI Framework" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">69083</data>
+      <data key="d4">2026-01-17</data>
+      <data key="d5">we developed the Secure AI Framework</data>
+    </edge>
+    <edge source="ORG::Google" target="ORG::Coalition for Secure AI" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">69083</data>
+      <data key="d4">2026-01-17</data>
+      <data key="d5">we’ve contributed SAIF components to the Coalition for Secure AI (CoSAI)</data>
+    </edge>
+    <edge source="ORG::Google" target="MODEL::Veo 3" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">51074</data>
+      <data key="d4">2026-04-04</data>
+      <data key="d5">Google's Veo 3</data>
+    </edge>
+    <edge source="ORG::Google" target="PRODUCT::Gemini CLI" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">51569</data>
+      <data key="d4">2026-06-10</data>
+      <data key="d5">Google built Gemini CLI</data>
+    </edge>
+    <edge source="ORG::Google" target="PRODUCT::MediaPipe Face Landmarker" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">72268</data>
+      <data key="d4">2026-08-11</data>
+      <data key="d5">Google’s MediaPipe Face Landmarker</data>
+    </edge>
+    <edge source="PERSON::Sam Altman" target="ORG::OpenAI" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">123179</data>
+      <data key="d4">2025-05-14</data>
+      <data key="d5">OpenAI CEO Sam Altman said</data>
+    </edge>
+    <edge source="ORG::Accenture" target="ORG::Workday" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">157316</data>
+      <data key="d4">2025-06-03</data>
+      <data key="d5">Accenture, Adobe, Amazon Web Services (AWS), Auditoria.AI, Compa, Deloitte, Glean, Google Cloud, IBM, Kainos, KPMG, Microsoft, Paradox, PwC, and WorkBoardAI are among the first to partner with Workday</data>
+    </edge>
+    <edge source="GPE::California" target="LAW::Transparency in Frontier Artificial Intelligence Act" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">110591</data>
+      <data key="d4">2025-06-18</data>
+      <data key="d5">California's law, the Transparency in Frontier Artificial Intelligence Act (TFAIA), was signed by the governor</data>
+    </edge>
+    <edge source="GPE::California" target="LAW::AI Transparency Act" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">151056</data>
+      <data key="d4">2026-02-19</data>
+      <data key="d5">California’s AI Transparency Act</data>
+    </edge>
+    <edge source="GPE::New York" target="LAW::Responsible AI Safety and Education Act" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">110591</data>
+      <data key="d4">2025-06-18</data>
+      <data key="d5">New York's law, the Responsible AI Safety and Education Act (RAISE Act), was signed</data>
+    </edge>
+    <edge source="STANDARD::Model Context Protocol" target="MODEL::GPT-5" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">47151</data>
+      <data key="d4">2025-10-09</data>
+      <data key="d5">connecting models like GPT-5 or Claude to the business knowledge</data>
+    </edge>
+    <edge source="STANDARD::Model Context Protocol" target="MODEL::Claude" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">47151</data>
+      <data key="d4">2025-10-09</data>
+      <data key="d5">connecting models like GPT-5 or Claude to the business knowledge</data>
+    </edge>
+    <edge source="LAW::RAISE Act" target="MODEL::frontier models" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">57411</data>
+      <data key="d4">2025-07-01</data>
+      <data key="d5">RAISE Act will establish the first set of legally mandated transparency standards for AI frontier models</data>
+    </edge>
+    <edge source="ORG::Apurva.ai" target="TECHNOLOGY::New Longevity BrAIn" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">55496</data>
+      <data key="d4">2025-07-04</data>
+      <data key="d5">Created by Ashoka New Longevity and Apurva.ai, the New Longevity BrAIn</data>
+    </edge>
+    <edge source="ORG::xAI" target="MODEL::Grok 4" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">55153</data>
+      <data key="d4">2025-07-15</data>
+      <data key="d5">xAI... has unveiled Grok 4</data>
+    </edge>
+    <edge source="LAW::GENIUS Act" target="TECHNOLOGY::stablecoins" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">77402</data>
+      <data key="d4">2025-07-23</data>
+      <data key="d5">a bill that regulates stablecoins</data>
+    </edge>
+    <edge source="REGULATOR::FTC" target="ORG::Marriott" id="0">
+      <data key="d2">INVESTIGATES</data>
+      <data key="d3">60129</data>
+      <data key="d4">2025-09-15</data>
+      <data key="d5">the Federal Trade Commission settled a yearslong investigation into a series of Marriott breaches</data>
+    </edge>
+    <edge source="REGULATOR::FTC" target="ORG::companies" id="0">
+      <data key="d2">INVESTIGATES</data>
+      <data key="d3">152223</data>
+      <data key="d4">2025-10-14</data>
+      <data key="d5">An FTC investigation found that companies track highly personal consumer behaviors</data>
+    </edge>
+    <edge source="PRODUCT::GitHub" target="TECHNOLOGY::MCP server" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">113224</data>
+      <data key="d4">2025-09-16</data>
+      <data key="d5">GitHub released an MCP server</data>
+    </edge>
+    <edge source="PRODUCT::Claude Desktop" target="MODEL::Claude" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">113224</data>
+      <data key="d4">2025-09-16</data>
+      <data key="d5">Claude Desktop, which allows the Claude models to interact</data>
+    </edge>
+    <edge source="LAW::Digital Markets Act" target="ORG::Meta" id="0">
+      <data key="d2">FINES</data>
+      <data key="d3">156213</data>
+      <data key="d4">2025-12-08</data>
+      <data key="d5">Meta faces a €200 million fine imposed earlier this year for alleged DMA violations</data>
+    </edge>
+    <edge source="ORG::IBM" target="ORG::Anthropic" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">171766</data>
+      <data key="d4">2025-10-08</data>
+      <data key="d5">IBM has teamed up with Anthropic</data>
+    </edge>
+    <edge source="ORG::IBM" target="MODEL::IBM AI models" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">171766</data>
+      <data key="d4">2025-10-08</data>
+      <data key="d5">IBM's own AI models</data>
+    </edge>
+    <edge source="ORG::Delta Air Lines" target="TECHNOLOGY::artificial intelligence" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">152223</data>
+      <data key="d4">2025-10-14</data>
+      <data key="d5">Delta Air Lines’ announcement that it will use artificial intelligence</data>
+    </edge>
+    <edge source="ORG::AMD" target="ORG::OpenAI" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">40518</data>
+      <data key="d4">2025-11-03</data>
+      <data key="d5">AMD ... AI partnerships such as with OpenAI</data>
+    </edge>
+    <edge source="PERSON::Chuck Schumer" target="LAW::MIND Act" id="0">
+      <data key="d2">PROPOSES</data>
+      <data key="d3">41551</data>
+      <data key="d4">2025-11-04</data>
+      <data key="d5">Senator Chuck Schumer, Senator Maria Cantwell, and Senator Ed Markey announced their plan to introduce the Management of Individuals’ Neural Data of 2025 Act</data>
+    </edge>
+    <edge source="LAW::MIND Act" target="REGULATOR::FTC" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">41551</data>
+      <data key="d4">2025-11-04</data>
+      <data key="d5">the MIND Act would direct the Federal Trade Commission (FTC)</data>
+    </edge>
+    <edge source="LAW::MIND Act" target="ORG::neurotech industry" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">41551</data>
+      <data key="d4">2025-11-04</data>
+      <data key="d5">The proposed MIND Act marks Congress’s first serious attempt to regulate the emerging neurotech industry</data>
+    </edge>
+    <edge source="ORG::Duolingo" target="PRODUCT::personality-driven interfaces" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">71347</data>
+      <data key="d4">2025-11-19</data>
+      <data key="d5">Brands like Duolingo are creating personality-driven interfaces</data>
+    </edge>
+    <edge source="ORG::NATO" target="PRODUCT::Google Cloud" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">156167</data>
+      <data key="d4">2025-11-24</data>
+      <data key="d5">NATO has inked a landmark multi-million-dollar agreement with Google Cloud</data>
+    </edge>
+    <edge source="ORG::Runway" target="TECHNOLOGY::Runway AI video generator" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">156254</data>
+      <data key="d4">2025-12-18</data>
+      <data key="d5">AI video generators like Runway and Kling</data>
+    </edge>
+    <edge source="ORG::Kling" target="TECHNOLOGY::Kling AI video generator" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">156254</data>
+      <data key="d4">2025-12-18</data>
+      <data key="d5">AI video generators like Runway and Kling</data>
+    </edge>
+    <edge source="ORG::European Parliament" target="LAW::EU AI Act" id="0">
+      <data key="d2">ADOPTS</data>
+      <data key="d3">106159</data>
+      <data key="d4">2026-01-22</data>
+      <data key="d5">European Parliament says it adopted the “ world’s first rules on AI ”</data>
+    </edge>
+    <edge source="PERSON::Elon Musk" target="MODEL::Grok" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">106159</data>
+      <data key="d4">2026-01-22</data>
+      <data key="d5">Elon Musk’s Grok AI chatbot drew outrage and bans in several countries</data>
+    </edge>
+    <edge source="ORG::Mercor" target="STANDARD::APEX-Agents" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48257</data>
+      <data key="d4">2026-02-05</data>
+      <data key="d5">benchmark developed by researchers at Mercor</data>
+    </edge>
+    <edge source="ORG::AWS" target="TECHNOLOGY::Strands" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">148146</data>
+      <data key="d4">2026-02-20</data>
+      <data key="d5">AWS released Strands</data>
+    </edge>
+    <edge source="ORG::Pentagon" target="ORG::Google" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">76262</data>
+      <data key="d4">2026-02-26</data>
+      <data key="d5">also has contracts with Google</data>
+    </edge>
+    <edge source="ORG::Pentagon" target="ORG::OpenAI" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">76262</data>
+      <data key="d4">2026-02-26</data>
+      <data key="d5">contracts with Google, OpenAI and Elon Musk’s xAI</data>
+    </edge>
+    <edge source="ORG::Pentagon" target="ORG::xAI" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">76262</data>
+      <data key="d4">2026-02-26</data>
+      <data key="d5">contracts with Google, OpenAI and Elon Musk’s xAI</data>
+    </edge>
+    <edge source="PERSON::Palmer Luckey" target="PRODUCT::Oculus VR" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48427</data>
+      <data key="d4">2026-03-25</data>
+      <data key="d5">Palmer Luckey, the creator of Oculus VR</data>
+    </edge>
+    <edge source="PERSON::Palmer Luckey" target="PRODUCT::Oculus Rift" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48427</data>
+      <data key="d4">2026-03-25</data>
+      <data key="d5">Palmer Luckey, who developed the virtual reality headset Oculus Rift</data>
+    </edge>
+    <edge source="ORG::Anduril" target="TECHNOLOGY::autonomous weapons systems" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">48427</data>
+      <data key="d4">2026-03-25</data>
+      <data key="d5">Anduril develops autonomous weapons systems</data>
+    </edge>
+    <edge source="PERSON::Raúl Torrez" target="ORG::Meta" id="0">
+      <data key="d2">SUES</data>
+      <data key="d3">152429</data>
+      <data key="d4">2026-03-26</data>
+      <data key="d5">New Mexico Attorney General Raúl Torrez ... sued Meta</data>
+    </edge>
+    <edge source="ORG::Hedra" target="MODEL::Character-3" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">51074</data>
+      <data key="d4">2026-04-04</data>
+      <data key="d5">Hedra's Character-3</data>
+    </edge>
+    <edge source="ORG::Jest" target="MODEL::Player 01" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">71973</data>
+      <data key="d4">2026-05-06</data>
+      <data key="d5">Jest ... is pioneering an agentic approach to game quality assurance with Player 01</data>
+    </edge>
+    <edge source="ORG::Zhipu" target="MODEL::GLM 5.2" id="0">
+      <data key="d2">DEVELOPS</data>
+      <data key="d3">1209</data>
+      <data key="d4">2026-06-30</data>
+      <data key="d5">Zhipu's GLM 5.2, released earlier this month</data>
+    </edge>
+    <edge source="ORG::Red Hat" target="ORG::NVIDIA" id="0">
+      <data key="d2">PARTNERS_WITH</data>
+      <data key="d3">97774</data>
+      <data key="d4">2026-07-24</data>
+      <data key="d5">Red Hat and NVIDIA’s work as members of the Open Secure AI Alliance</data>
+    </edge>
+    <edge source="LAW::Biometric Information Privacy Act" target="TECHNOLOGY::face geometry" id="0">
+      <data key="d2">REGULATES</data>
+      <data key="d3">72268</data>
+      <data key="d4">2026-08-11</data>
+      <data key="d5">Illinois’ Biometric Information Privacy Act attaches statutory damages to a scan of face geometry</data>
+    </edge>
+    <edge source="PERSON::Mobley" target="ORG::Workday" id="0">
+      <data key="d2">SUES</data>
+      <data key="d3">54339</data>
+      <data key="d4">2026-08-25</data>
+      <data key="d5">The suit, Mobley v. Workday, is being argued in federal court</data>
+    </edge>
+  </graph>
+</graphml>

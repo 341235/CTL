@@ -1,0 +1,163 @@
+record_id,date,domain,subject,subject_type,predicate,object,object_type,evidence,char_start,char_end
+168977,2024-09-18,huggingface,Meta,ORG,DEVELOPS,Llama 3.2,MODEL,distributed by Meta,443,462
+163182,2024-09-19,healthcareitnews,CrowdStrike,ORG,PARTNERS_WITH,Amazon Web Services,ORG,CrowdStrike also announced Monday that it is partnering with Amazon Web Services and NVIDIA,2413,2504
+163182,2024-09-19,healthcareitnews,CrowdStrike,ORG,PARTNERS_WITH,NVIDIA,ORG,CrowdStrike also announced Monday that it is partnering with Amazon Web Services and NVIDIA,2413,2504
+100583,2024-09-24,sloanreview.mit,European Union,ORG,ADOPTS,EU AI Act,LAW,the European Union’s AI Act,830,857
+172313,2024-09-26,netguru,EU AI Act,LAW,REGULATES,Artificial Intelligence,TECHNOLOGY,EU AI Act regulates AI,15,24
+68037,2024-09-30,ciodive,Gavin Newsom,PERSON,PROPOSES,Senate Bill 1047,LAW,California Governor Gavin Newsom vetoed a contentious AI safety regulation,308,382
+173341,2024-10-07,supplychaindigital,European Union,ORG,PROPOSES,Corporate Sustainability Reporting Directive,LAW,Corporate Sustainability Reporting Directive (CSRD) introduced by the European Union,482,566
+171543,2024-10-10,microsoft,Microsoft,ORG,DEVELOPS,"advanced, responsible AI",TECHNOLOGY,"Microsoft is leading the development of advanced, responsible AI",147,211
+171543,2024-10-10,microsoft,Microsoft Fabric,PRODUCT,DEVELOPS,DAX Copilot,PRODUCT,Microsoft Fabric’s healthcare data solutions now integrate DAX Copilot data,1376,1451
+41115,2024-10-14,csis,American Privacy Rights Act,LAW,REGULATES,companies,ORG,draft ARPA would require large companies to regularly assess algorithms,1280,1351
+41115,2024-10-14,csis,American Privacy Rights Act,LAW,PROPOSES,CCPA,LAW,draft APRA proposes overriding any state statutes,2230,2235
+41115,2024-10-14,csis,American Privacy Rights Act,LAW,PROPOSES,individuals,PERSON,APRA proposes enabling individuals to seek legal recourse,2805,2862
+57272,2024-11-08,bakermckenzie,Protecting Americans’ Data from Foreign Adversaries Act of 2024,LAW,REGULATES,data brokers,ORG,Protecting Americans’ Data from Foreign Adversaries Act of 2024,1338,1401
+74687,2024-11-08,altexsoft,OpenAI,ORG,DEVELOPS,GPT,MODEL,OpenAI released its first GPT model,2924,2959
+32675,2024-11-14,cnbc,OpenAI,ORG,DEVELOPS,ChatGPT,MODEL,OpenAI's ChatGPT,663,679
+32675,2024-11-14,cnbc,Anthropic,ORG,DEVELOPS,Claude,MODEL,Anthropic's Claude,684,702
+32675,2024-11-14,cnbc,European Union,ORG,REGULATES,GDPR,LAW,The European Union's General Data Protection Regulation,1176,1231
+104053,2024-11-22,lawandtheworkplace,Colorado,GPE,REGULATES,employment AI tools,TECHNOLOGY,"Colorado, New York City, and Illinois have already passed legislation in recent years regulating the use of AI in employment decisions",2261,2395
+157259,2024-12-04,workday,EU AI Act,LAW,REGULATES,artificial intelligence,TECHNOLOGY,The European Union’s Artificial Intelligence Act (EU AI Act) is poised to become the global standard for regulating artificial intelligence,622,761
+87692,2024-12-10,fintechweekly,banking sector in Romania,ORG,ADOPTS,AI-based solutions,TECHNOLOGY,adopting AI-based solutions,841,868
+87692,2024-12-10,fintechweekly,National AI Strategy 2024-2027,LAW,ADOPTS,emerging technologies,TECHNOLOGY,"National AI Strategy 2024-2027, which aims to adopt emerging technologies",1245,1318
+142008,2024-12-28,thetimes,EU AI Act,LAW,REGULATES,organisations,ORG,EU AI Act beginning to come into force,433,471
+103657,2024-12-31,labelvisor,Keymakr,ORG,DEVELOPS,transformative technology,TECHNOLOGY,Keymakr studio supports the development of transformative technology,1128,1196
+157263,2025-01-09,workday,OpenAI,ORG,DEVELOPS,ChatGPT,PRODUCT,tools such as ChatGPT,1328,1349
+53745,2025-01-20,digiday,EU AI Act,LAW,REGULATES,Meta,ORG,Meta teams knew there could be blowback and potential fines under the EU AI Act,2765,2844
+168234,2025-01-30,hiddenlayer,DeepSeek,ORG,DEVELOPS,DeepSeek-R1,MODEL,DeepSeek released the weights to a frontier-level reasoning model,43,51
+54288,2025-02-02,digital-strategy.ec.europa,European Commission,REGULATOR,PROPOSES,Digital Omnibus,LAW,European Commission proposed the Digital Omnibus,1925,1973
+75924,2025-02-06,apnews,Josh Gottheimer and Darin LaHood,PERSON,PROPOSES,No DeepSeek on Government Devices Act,LAW,"Reps. Josh Gottheimer, D-N.J., and Darin LaHood, R-Ill., on Thursday introduced the “ No DeepSeek on Government Devices Act, ”",722,848
+75924,2025-02-06,apnews,DeepSeek,ORG,DEVELOPS,DeepSeek AI model,MODEL,the Chinese software company in December published an AI model,1477,1539
+177531,2025-02-11,tech-stack,Apple,ORG,DEVELOPS,Siri,TECHNOLOGY,Apple developed Siri,2725,2745
+151751,2025-02-12,theconversation,Canada,GPE,ADOPTS,Council of Europe Framework Convention,LAW,Canada signed the Council of Europe’s Framework Convention,2940,2998
+32199,2025-02-21,cnbc,EU AI Act,LAW,REGULATES,artificial intelligence,TECHNOLOGY,"AI Act, a landmark EU law",1730,1755
+32199,2025-02-21,cnbc,GDPR,LAW,REGULATES,Meta,ORG,GDPR — the EU's data privacy framework,1912,1950
+153483,2025-03-13,thefastmode,OpenAI,ORG,DEVELOPS,ChatGPT,MODEL,OpenAI released the first version of ChatGPT,595,639
+68173,2025-03-14,ciodive,AT&T,ORG,SUES,Broadcom,ORG,AT & T took to the courts last summer... in a suit,1413,1450
+157295,2025-03-15,workday,Workday,ORG,DEVELOPS,agentic AI,TECHNOLOGY,"Workday, we build agentic AI",2131,2159
+74622,2025-04-07,algorithmwatch,Digital Services Act,LAW,REGULATES,online platforms and search engines,ORG,Digital Services Act,503,523
+45108,2025-04-10,aijourn,European Union,ORG,ADOPTS,EU AI Act,LAW,including the EU AI Act,566,589
+68745,2025-04-12,cloud.google,Google DeepMind,ORG,DEVELOPS,Gemini 2.5 Pro,MODEL,Google DeepMind research,1323,1347
+68745,2025-04-12,cloud.google,Ai2,ORG,PARTNERS_WITH,Google Cloud,PRODUCT,Ai2 announced a partnership with Google Cloud,2623,2668
+66797,2025-04-16,esgnews,Salesforce,ORG,DEVELOPS,AI Energy Score,PRODUCT,Salesforce launched the AI Energy Score,0,10
+66797,2025-04-16,esgnews,Salesforce,ORG,PARTNERS_WITH,Hugging Face,ORG,"In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score",1355,1457
+66797,2025-04-16,esgnews,Salesforce,ORG,PARTNERS_WITH,Cohere,ORG,"In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score",1355,1457
+66797,2025-04-16,esgnews,Salesforce,ORG,PARTNERS_WITH,Carnegie Mellon University,ORG,"In partnership with Hugging Face, Cohere, and Carnegie Mellon, Salesforce launched the AI Energy Score",1355,1457
+169415,2025-04-23,huggingface,Meta,ORG,DEVELOPS,Llama 4,MODEL,Meta distributed Llama 4,0,4
+57632,2025-04-24,bbc,Online Safety Act,LAW,REGULATES,videos,PRODUCT,Online Safety Act,458,475
+53818,2025-04-28,digiday,Anthropic,ORG,DEVELOPS,ClaudeBot,TECHNOLOGY,Anthropic’s ClaudeBot,1646,1667
+53818,2025-04-28,digiday,Ziff Davis,ORG,SUES,OpenAI,ORG,lawsuit filed by Ziff Davis,2619,2646
+40204,2025-05-06,crn,SentinelOne,ORG,DEVELOPS,Purple AI,PRODUCT,SentinelOne unveiled a set of new agentic capabilities as part of debuting the next version of its Purple AI security operations technology,830,969
+40204,2025-05-06,crn,SentinelOne,ORG,DEVELOPS,Purple AI Athena,PRODUCT,"The new release, Purple AI Athena, includes agentic AI functionality",971,1039
+123163,2025-05-07,gizmodo,US Congress,ORG,PROPOSES,Privacy Act of 1974,LAW,Congress implemented the Privacy Act of 1974,1168,1212
+128113,2025-05-07,searchenginejournal,Google,ORG,DEVELOPS,Gemini 2.5,MODEL,Google launching Gemini 2.5,1434,1440
+44425,2025-05-09,ai.google,Google,ORG,DEVELOPS,Gemma,MODEL,"Gemma is a family of lightweight, state-of-the-art open models from Google",85,159
+44425,2025-05-09,ai.google,Google,ORG,DEVELOPS,Gemini,MODEL,used to create the Gemini models,205,237
+123179,2025-05-14,gizmodo,Sam Altman,PERSON,DEVELOPS,OpenAI,ORG,OpenAI CEO Sam Altman said,1469,1495
+157316,2025-06-03,workday,Accenture,ORG,PARTNERS_WITH,Workday,ORG,"Accenture, Adobe, Amazon Web Services (AWS), Auditoria.AI, Compa, Deloitte, Glean, Google Cloud, IBM, Kainos, KPMG, Microsoft, Paradox, PwC, and WorkBoardAI are among the first to partner with Workday",470,670
+101817,2025-06-12,supplychain247,Microsoft,ORG,DEVELOPS,Dynamics 365 Sales Copilot,PRODUCT,Take Microsoft Dynamics 365 Sales Copilot,1063,1104
+110591,2025-06-18,kpmg,California,GPE,PROPOSES,Transparency in Frontier Artificial Intelligence Act,LAW,"California's law, the Transparency in Frontier Artificial Intelligence Act (TFAIA), was signed by the governor",1485,1506
+110591,2025-06-18,kpmg,New York,GPE,PROPOSES,Responsible AI Safety and Education Act,LAW,"New York's law, the Responsible AI Safety and Education Act (RAISE Act), was signed",1662,1681
+160599,2025-06-23,gravitee,Anthropic,ORG,DEVELOPS,Model Context Protocol,STANDARD,Anthropic has raised the bar with its Model Context Protocol,980,1040
+57411,2025-07-01,bakermckenzie,RAISE Act,LAW,REGULATES,frontier models,MODEL,RAISE Act will establish the first set of legally mandated transparency standards for AI frontier models,288,392
+55496,2025-07-04,ashoka,Apurva.ai,ORG,DEVELOPS,New Longevity BrAIn,TECHNOLOGY,"Created by Ashoka New Longevity and Apurva.ai, the New Longevity BrAIn",799,869
+167623,2025-07-08,pwc,European Union,ORG,ADOPTS,EU AI Act,LAW,"Europe’s regulations (namely, the EU AI Act",2194,2237
+143205,2025-07-10,thetraceabilityhub,European Commission,REGULATOR,INVESTIGATES,green claims,PRODUCT,"The European Commission found 42% of all green claims were exaggerated, false, or deceptive.",2598,2690
+55153,2025-07-15,educationnext,xAI,ORG,DEVELOPS,Grok 4,MODEL,xAI... has unveiled Grok 4,121,124
+77402,2025-07-23,apnews,GENIUS Act,LAW,REGULATES,stablecoins,TECHNOLOGY,a bill that regulates stablecoins,892,925
+68388,2025-08-15,ciodive,OpenAI,ORG,DEVELOPS,GPT-5,MODEL,OpenAI’s release of GPT-5,181,206
+68388,2025-08-15,ciodive,Anthropic,ORG,DEVELOPS,Sonnet 4,MODEL,Anthropic's expanded Sonnet 4,376,405
+104296,2025-08-21,learn.microsoft,Microsoft,ORG,COMPLIES_WITH,Responsible AI Standard,STANDARD,Microsoft embeds Responsible AI principles into its development lifecycle by following the Responsible AI Standard,2189,2303
+20802,2025-08-25,aithority,GDPR,LAW,REGULATES,AI agents,TECHNOLOGY,meet regulatory obligations like GDPR,1204,1241
+20802,2025-08-25,aithority,CCPA,LAW,REGULATES,AI agents,TECHNOLOGY,meet regulatory obligations like CCPA,1204,1249
+70218,2025-08-25,cloudnativenow,EU AI Act,LAW,REGULATES,organizations,ORG,EU Artificial Intelligence Act brings additional requirements,2052,2113
+147840,2025-09-03,thenewstack,EU AI Act,LAW,REGULATES,general-purpose AI models,MODEL,the AI Act... will go into full effect in August 2026,1428,1438
+60129,2025-09-15,customerexperiencedive,FTC,REGULATOR,INVESTIGATES,Marriott,ORG,the Federal Trade Commission settled a yearslong investigation into a series of Marriott breaches,2693,2790
+113224,2025-09-16,oreilly,Anthropic,ORG,DEVELOPS,Model Context Protocol,STANDARD,Anthropic’s Model Context Protocol (MCP) was released in November 2024,363,433
+113224,2025-09-16,oreilly,GitHub,PRODUCT,DEVELOPS,MCP server,TECHNOLOGY,GitHub released an MCP server,625,654
+113224,2025-09-16,oreilly,Claude Desktop,PRODUCT,DEVELOPS,Claude,MODEL,"Claude Desktop, which allows the Claude models to interact",888,946
+113224,2025-09-16,oreilly,OpenAI,ORG,DEVELOPS,Model Context Protocol,STANDARD,Anthropic and OpenAI have built it into their products,1099,1153
+150953,2025-09-23,technologyreview,OpenAI,ORG,DEVELOPS,GPT-4o,MODEL,"OpenAI's ChatGPT, running on the GPT-4o model",1045,1051
+99243,2025-09-26,siliconcanals,European Union,ORG,PROPOSES,Digital Markets Act,LAW,the Digital Markets Act is a regulation that the European Union introduced,160,183
+147876,2025-10-06,thenewstack,OpenAI,ORG,DEVELOPS,Sora,MODEL,launch of the Sora video creation app,669,706
+171766,2025-10-08,mindtheproduct,IBM,ORG,PARTNERS_WITH,Anthropic,ORG,IBM has teamed up with Anthropic,0,3
+171766,2025-10-08,mindtheproduct,Anthropic,ORG,DEVELOPS,Claude,MODEL,IBM has teamed up with Anthropic to integrate Anthropic's Claude family of AI models,114,198
+171766,2025-10-08,mindtheproduct,IBM,ORG,DEVELOPS,IBM AI models,MODEL,IBM's own AI models,1130,1134
+171766,2025-10-08,mindtheproduct,Google,ORG,DEVELOPS,Opal,PRODUCT,Google has expanded the release of its vibe-coding tool Opal,2072,2132
+47151,2025-10-09,builtin,Model Context Protocol,STANDARD,DEVELOPS,GPT-5,MODEL,connecting models like GPT-5 or Claude to the business knowledge,2418,2482
+47151,2025-10-09,builtin,Model Context Protocol,STANDARD,DEVELOPS,Claude,MODEL,connecting models like GPT-5 or Claude to the business knowledge,2418,2482
+152223,2025-10-14,theconversation,Delta Air Lines,ORG,DEVELOPS,artificial intelligence,TECHNOLOGY,Delta Air Lines’ announcement that it will use artificial intelligence,159,229
+152223,2025-10-14,theconversation,FTC,REGULATOR,INVESTIGATES,companies,ORG,An FTC investigation found that companies track highly personal consumer behaviors,1774,1856
+114509,2025-10-17,parametric-architecture,Anthropic,ORG,DEVELOPS,AI models,MODEL,Anthropic evaluated 16 major AI models,65,74
+40518,2025-11-03,crn,AMD,ORG,PARTNERS_WITH,OpenAI,ORG,AMD ... AI partnerships such as with OpenAI,1728,1731
+41551,2025-11-04,csis,Chuck Schumer,PERSON,PROPOSES,MIND Act,LAW,"Senator Chuck Schumer, Senator Maria Cantwell, and Senator Ed Markey announced their plan to introduce the Management of Individuals’ Neural Data of 2025 Act",1004,1025
+41551,2025-11-04,csis,MIND Act,LAW,REGULATES,FTC,REGULATOR,the MIND Act would direct the Federal Trade Commission (FTC),1672,1732
+41551,2025-11-04,csis,MIND Act,LAW,REGULATES,neurotech industry,ORG,The proposed MIND Act marks Congress’s first serious attempt to regulate the emerging neurotech industry,2491,2595
+74549,2025-11-07,alexanderthamm,GDPR,LAW,REGULATES,companies,ORG,"General Data Protection Regulation (GDPR) in Europe, companies must ensure that their AI systems comply with data protection regulations",1683,1819
+156132,2025-11-17,webpronews,Meta,ORG,COMPLIES_WITH,GDPR,LAW,Meta’s update aligns with requirements,2907,2945
+71347,2025-11-19,aijourn,Duolingo,ORG,DEVELOPS,personality-driven interfaces,PRODUCT,Brands like Duolingo are creating personality-driven interfaces,1396,1459
+156167,2025-11-24,webpronews,NATO,ORG,PARTNERS_WITH,Google Cloud,PRODUCT,NATO has inked a landmark multi-million-dollar agreement with Google Cloud,148,222
+156213,2025-12-08,webpronews,Meta,ORG,PROPOSES,pay or consent model,PRODUCT,Meta Platforms Inc. has proposed a revamped approach to its “ pay or consent ” model,132,216
+156213,2025-12-08,webpronews,European Commission,REGULATOR,REGULATES,Digital Markets Act,LAW,"The European Commission, which oversees compliance with the bloc’s stringent Digital Markets Act (DMA)",652,754
+156213,2025-12-08,webpronews,Digital Markets Act,LAW,FINES,Meta,ORG,Meta faces a €200 million fine imposed earlier this year for alleged DMA violations,837,920
+156213,2025-12-08,webpronews,Meta,ORG,COMPLIES_WITH,European Union,ORG,designed to comply with evolving EU rules,1787,1828
+69079,2025-12-10,cloud.google,Google,ORG,DEVELOPS,Gemini 3,MODEL,launch of Gemini 3,69,87
+69079,2025-12-10,cloud.google,Anthropic,ORG,DEVELOPS,Model Context Protocol,STANDARD,Anthropic’s Model Context Protocol (MCP),361,401
+156254,2025-12-18,webpronews,Runway,ORG,DEVELOPS,Runway AI video generator,TECHNOLOGY,AI video generators like Runway and Kling,1349,1390
+156254,2025-12-18,webpronews,Kling,ORG,DEVELOPS,Kling AI video generator,TECHNOLOGY,AI video generators like Runway and Kling,1831,1833
+41595,2025-12-22,csis,European Commission,REGULATOR,PROPOSES,Digital Markets Act,LAW,the European Commission’s initial proposal,368,410
+69083,2026-01-17,cloud.google,Google,ORG,DEVELOPS,Secure AI Framework,STANDARD,we developed the Secure AI Framework,1331,1367
+69083,2026-01-17,cloud.google,Google,ORG,PARTNERS_WITH,Coalition for Secure AI,ORG,we’ve contributed SAIF components to the Coalition for Secure AI (CoSAI),2369,2441
+106159,2026-01-22,macaubusiness,EU AI Act,LAW,REGULATES,AI systems,TECHNOLOGY,European Union has allowed regulators to ban AI systems... under its Artificial Intelligence Act,1350,1493
+106159,2026-01-22,macaubusiness,European Parliament,ORG,ADOPTS,EU AI Act,LAW,European Parliament says it adopted the “ world’s first rules on AI ”,1143,1212
+106159,2026-01-22,macaubusiness,Elon Musk,PERSON,DEVELOPS,Grok,MODEL,Elon Musk’s Grok AI chatbot drew outrage and bans in several countries,2530,2600
+76157,2026-01-26,apnews,Digital Services Act,LAW,REGULATES,Grok,MODEL,Regulators will examine whether Grok is living up to its obligations under the Digital Services Act,1812,1911
+48257,2026-02-05,builtin,Anthropic,ORG,DEVELOPS,Cowork,PRODUCT,Anthropic released Cowork,619,644
+48257,2026-02-05,builtin,OpenAI,ORG,DEVELOPS,Frontier,PRODUCT,OpenAI launched Frontier,713,737
+48257,2026-02-05,builtin,Mercor,ORG,DEVELOPS,APEX-Agents,STANDARD,benchmark developed by researchers at Mercor,1023,1067
+151056,2026-02-19,technologyreview,California,GPE,REGULATES,AI Transparency Act,LAW,California’s AI Transparency Act,2371,2403
+148146,2026-02-20,thenewstack,AWS,ORG,DEVELOPS,Strands,TECHNOLOGY,AWS released Strands,2392,2412
+88099,2026-02-24,netguru,EU AI Act,LAW,REGULATES,automotive AI systems,TECHNOLOGY,EU AI Act's high-risk classification for automotive AI systems,1899,1961
+115343,2026-02-25,foreignpolicy,Anthropic,ORG,PARTNERS_WITH,Pentagon,ORG,Anthropic signed a $ 200 million contract with the Pentagon,938,997
+115343,2026-02-25,foreignpolicy,Anthropic,ORG,DEVELOPS,Claude,MODEL,Anthropic’s Claude would be deployed within the military’s classified systems,1072,1149
+76262,2026-02-26,apnews,Anthropic,ORG,DEVELOPS,Claude,MODEL,maker of the AI chatbot Claude,1454,1484
+76262,2026-02-26,apnews,Pentagon,ORG,PARTNERS_WITH,Google,ORG,also has contracts with Google,2140,2148
+76262,2026-02-26,apnews,Pentagon,ORG,PARTNERS_WITH,OpenAI,ORG,"contracts with Google, OpenAI and Elon Musk’s xAI",2149,2198
+76262,2026-02-26,apnews,Pentagon,ORG,PARTNERS_WITH,xAI,ORG,"contracts with Google, OpenAI and Elon Musk’s xAI",2149,2198
+3507,2026-03-04,cnbc,Anthropic,ORG,DEVELOPS,Anthropic AI systems,TECHNOLOGY,Anthropic develops AI systems,12,21
+3507,2026-03-04,cnbc,OpenAI,ORG,DEVELOPS,ChatGPT,MODEL,OpenAI products have drawn much of their early momentum from consumer adoption of ChatGPT,327,333
+151349,2026-03-12,tessl,Anthropic,ORG,DEVELOPS,Code Review,PRODUCT,Anthropic introduced Code Review,261,270
+114159,2026-03-13,ox.ac,Anthropic,ORG,DEVELOPS,Claude,MODEL,Anthropic published its New Constitution for Claude,73,124
+148194,2026-03-14,thenewstack,Anthropic,ORG,DEVELOPS,Model Context Protocol,STANDARD,Anthropic introduced the protocol,968,1001
+48427,2026-03-25,builtin,Palmer Luckey,PERSON,DEVELOPS,Oculus VR,PRODUCT,"Palmer Luckey, the creator of Oculus VR",578,617
+48427,2026-03-25,builtin,Anduril,ORG,DEVELOPS,autonomous weapons systems,TECHNOLOGY,Anduril develops autonomous weapons systems,619,662
+48427,2026-03-25,builtin,Palmer Luckey,PERSON,DEVELOPS,Oculus Rift,PRODUCT,"Palmer Luckey, who developed the virtual reality headset Oculus Rift",1991,2059
+152429,2026-03-26,theconversation,Raúl Torrez,PERSON,SUES,Meta,ORG,New Mexico Attorney General Raúl Torrez ... sued Meta,2105,2144
+165751,2026-03-26,pctechmag,OpenAI,ORG,DEVELOPS,Sora,MODEL,OpenAI developed Sora,2285,2291
+140118,2026-03-30,newyorker,Anthropic,ORG,DEVELOPS,Claude,MODEL,"moral precepts for Anthropic’s chatbot, Claude",723,769
+51074,2026-04-04,dev,Google,ORG,DEVELOPS,Veo 3,MODEL,Google's Veo 3,335,349
+51074,2026-04-04,dev,OpenAI,ORG,DEVELOPS,Sora,MODEL,OpenAI's Sora 1 and Sora 2,351,377
+51074,2026-04-04,dev,Hedra,ORG,DEVELOPS,Character-3,MODEL,Hedra's Character-3,383,402
+51074,2026-04-04,dev,OpenAI,ORG,DEVELOPS,Sora 2,MODEL,OpenAI's Sora 2 model,2548,2569
+71973,2026-05-06,aijourn,Jest,ORG,DEVELOPS,Player 01,MODEL,Jest ... is pioneering an agentic approach to game quality assurance with Player 01,18,22
+67189,2026-05-07,eutoday,European Union,ORG,ADOPTS,EU AI Act,LAW,"the AI Act, adopted in 2024",456,483
+67189,2026-05-07,eutoday,European Commission,REGULATOR,PROPOSES,Digital Omnibus on AI,LAW,The Commission had proposed the Digital Omnibus on AI,1185,1238
+52983,2026-06-02,devblogs.microsoft,Microsoft,ORG,DEVELOPS,ASSERT,TECHNOLOGY,ASSERT is Microsoft’s open-source framework,1307,1350
+171658,2026-06-02,microsoft,Microsoft,ORG,DEVELOPS,Microsoft Security multi-model agentic scanning harness,TECHNOLOGY,we developed the Microsoft Security multi-model agentic scanning harness,1638,1710
+51569,2026-06-10,dev,Google,ORG,DEVELOPS,Gemini CLI,PRODUCT,Google built Gemini CLI,1089,1112
+76679,2026-06-17,apnews,Anthropic,ORG,DEVELOPS,Anthropic AI models,MODEL,Anthropic's newest and most powerful artificial intelligence models,1236,1245
+76679,2026-06-17,apnews,Anthropic,ORG,DEVELOPS,Fable 5,MODEL,"Anthropic to take its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline",1684,1693
+76679,2026-06-17,apnews,Anthropic,ORG,DEVELOPS,Mythos 5,MODEL,"Anthropic to take its latest artificial intelligence models, known as Fable 5 and Mythos 5, offline",1862,2072
+1209,2026-06-30,cnbc,Anthropic,ORG,DEVELOPS,Mythos 5,MODEL,Anthropic released its powerful Mythos 5 model,127,136
+1209,2026-06-30,cnbc,Anthropic,ORG,COMPLIES_WITH,U.S. government,ORG,Anthropic adheres to the U.S. government's national security concerns,1051,1120
+1209,2026-06-30,cnbc,Zhipu,ORG,DEVELOPS,GLM 5.2,MODEL,"Zhipu's GLM 5.2, released earlier this month",1234,1278
+97774,2026-07-24,redhat,Red Hat,ORG,PARTNERS_WITH,NVIDIA,ORG,Red Hat and NVIDIA’s work as members of the Open Secure AI Alliance,1896,1963
+57524,2026-08-02,bakermckenzie,EU AI Act,LAW,REGULATES,Artificial Intelligence,TECHNOLOGY,The AI Act is a comprehensive legal framework,102,105
+67242,2026-08-11,eutoday,EU AI Act,LAW,REGULATES,general-purpose AI models,MODEL,Artificial Intelligence Act entered a new enforcement phase,94,153
+72268,2026-08-11,aijourn,EU AI Act,LAW,REGULATES,emotion recognition and biometric categorisation systems,TECHNOLOGY,EU AI Act’s transparency obligations came into effect,819,872
+72268,2026-08-11,aijourn,GDPR,LAW,REGULATES,biometric data,TECHNOLOGY,"GDPR Article 9, biometric data processed for the purpose of uniquely identifying a person is a special category",1468,1579
+72268,2026-08-11,aijourn,Biometric Information Privacy Act,LAW,REGULATES,face geometry,TECHNOLOGY,Illinois’ Biometric Information Privacy Act attaches statutory damages to a scan of face geometry,1638,1735
+72268,2026-08-11,aijourn,Google,ORG,DEVELOPS,MediaPipe Face Landmarker,PRODUCT,Google’s MediaPipe Face Landmarker,2078,2112
+54339,2026-08-25,disabilityscoop,Mobley,PERSON,SUES,Workday,ORG,"The suit, Mobley v. Workday, is being argued in federal court",861,922
+128489,2026-08-31,searchenginejournal,Digital Services Act,LAW,REGULATES,ChatGPT,MODEL,The European Commission designated ChatGPT as a very large online search engine under the Digital Services Act,935,1045
+128489,2026-08-31,searchenginejournal,European Commission,REGULATOR,REGULATES,ChatGPT,MODEL,The European Commission designated ChatGPT as a very large online search engine,1057,1060

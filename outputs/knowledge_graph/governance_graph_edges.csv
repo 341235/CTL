@@ -1,0 +1,4283 @@
+Entity_1,Type_1,Entity_2,Type_2,Cooccurrence_Count
+Artificial Intelligence,TECHNOLOGY,United States,GPE,3775
+Artificial Intelligence,TECHNOLOGY,Google,ORG,2058
+Artificial Intelligence,TECHNOLOGY,OpenAI,ORG,1780
+API,TECHNOLOGY,Artificial Intelligence,TECHNOLOGY,1482
+China,GPE,United States,GPE,1450
+Artificial Intelligence,TECHNOLOGY,Microsoft,ORG,1420
+Trump,PERSON,United States,GPE,1355
+Artificial Intelligence,TECHNOLOGY,Large Language Model,TECHNOLOGY,1287
+Artificial Intelligence,TECHNOLOGY,China,GPE,1219
+Artificial Intelligence,TECHNOLOGY,United Kingdom,GPE,1150
+Google,ORG,United States,GPE,1057
+Artificial Intelligence,TECHNOLOGY,Trump,PERSON,1030
+United States,GPE,Washington,GPE,908
+OpenAI,ORG,United States,GPE,899
+Artificial Intelligence,TECHNOLOGY,European Union,ORG,886
+United Kingdom,GPE,United States,GPE,876
+Google,ORG,OpenAI,ORG,829
+Artificial Intelligence,TECHNOLOGY,EU AI Act,LAW,777
+Amazon,ORG,Artificial Intelligence,TECHNOLOGY,775
+Artificial Intelligence,TECHNOLOGY,Claude,MODEL,769
+Artificial Intelligence,TECHNOLOGY,Machine Learning,TECHNOLOGY,741
+China,GPE,Trump,PERSON,738
+Artificial Intelligence,TECHNOLOGY,Meta,ORG,733
+Microsoft,ORG,United States,GPE,724
+Artificial Intelligence,TECHNOLOGY,LinkedIn,PRODUCT,707
+European Union,ORG,United States,GPE,703
+Artificial Intelligence,TECHNOLOGY,Model Context Protocol,STANDARD,696
+Artificial Intelligence,TECHNOLOGY,California,GPE,695
+Google,ORG,Microsoft,ORG,692
+California,GPE,United States,GPE,654
+Artificial Intelligence,TECHNOLOGY,Washington,GPE,650
+Artificial Intelligence,TECHNOLOGY,Gemini,MODEL,649
+America,GPE,United States,GPE,647
+Artificial Intelligence,TECHNOLOGY,GDPR,LAW,636
+Russia,GPE,United States,GPE,634
+Canada,GPE,United States,GPE,630
+Artificial Intelligence,TECHNOLOGY,India,GPE,628
+Trump,PERSON,Washington,GPE,602
+Microsoft,ORG,OpenAI,ORG,592
+Artificial Intelligence,TECHNOLOGY,Canada,GPE,565
+India,GPE,United States,GPE,561
+New York,GPE,United States,GPE,561
+Artificial Intelligence,TECHNOLOGY,New York,GPE,560
+China,GPE,Washington,GPE,550
+Artificial Intelligence,TECHNOLOGY,Generative AI,TECHNOLOGY,549
+America,GPE,Artificial Intelligence,TECHNOLOGY,530
+Amazon,ORG,United States,GPE,529
+Artificial Intelligence,TECHNOLOGY,Germany,GPE,528
+Congress,ORG,United States,GPE,521
+Ukraine,GPE,United States,GPE,519
+Germany,GPE,United States,GPE,513
+Meta,ORG,United States,GPE,505
+Japan,GPE,United States,GPE,501
+America,GPE,Trump,PERSON,494
+Artificial Intelligence,TECHNOLOGY,YouTube,PRODUCT,493
+Amazon,ORG,Google,ORG,486
+Artificial Intelligence,TECHNOLOGY,Internet of Things,TECHNOLOGY,484
+Artificial Intelligence,TECHNOLOGY,GitHub,PRODUCT,479
+Gemini,MODEL,Google,ORG,477
+Artificial Intelligence,TECHNOLOGY,London,GPE,473
+France,GPE,United States,GPE,464
+Artificial Intelligence,TECHNOLOGY,ERP,TECHNOLOGY,459
+Biden,PERSON,United States,GPE,459
+China,GPE,Russia,GPE,457
+Apple,ORG,Artificial Intelligence,TECHNOLOGY,454
+Google,ORG,Meta,ORG,454
+Iran,GPE,United States,GPE,449
+Artificial Intelligence,TECHNOLOGY,Digital,ORG,448
+API,TECHNOLOGY,Large Language Model,TECHNOLOGY,447
+Artificial Intelligence,TECHNOLOGY,Japan,GPE,433
+Artificial Intelligence,TECHNOLOGY,France,GPE,430
+Artificial Intelligence,TECHNOLOGY,CRM,TECHNOLOGY,430
+Artificial Intelligence,TECHNOLOGY,UI,ORG,430
+Artificial Intelligence,TECHNOLOGY,San Francisco,GPE,427
+Artificial Intelligence,TECHNOLOGY,IBM,ORG,424
+API,TECHNOLOGY,Google,ORG,422
+Large Language Model,TECHNOLOGY,OpenAI,ORG,421
+China,GPE,Google,ORG,420
+Artificial Intelligence,TECHNOLOGY,GPU,TECHNOLOGY,418
+OpenAI,ORG,Trump,PERSON,416
+Russia,GPE,Ukraine,GPE,413
+AWS,ORG,Artificial Intelligence,TECHNOLOGY,411
+Google,ORG,Trump,PERSON,409
+Artificial Intelligence,TECHNOLOGY,Russia,GPE,408
+Artificial Intelligence,TECHNOLOGY,Australia,GPE,404
+Russia,GPE,Trump,PERSON,402
+Meta,ORG,OpenAI,ORG,402
+Artificial Intelligence,TECHNOLOGY,Congress,ORG,400
+DEV,ORG,Forem,PERSON,400
+API,TECHNOLOGY,Model Context Protocol,STANDARD,399
+Artificial Intelligence,TECHNOLOGY,Nvidia,ORG,398
+EU AI Act,LAW,United States,GPE,395
+Congress,ORG,Trump,PERSON,389
+Artificial Intelligence,TECHNOLOGY,IP,ORG,385
+Biden,PERSON,Trump,PERSON,384
+Australia,GPE,United States,GPE,380
+United States,GPE,the White House,ORG,377
+API,TECHNOLOGY,OpenAI,ORG,372
+China,GPE,OpenAI,ORG,371
+Claude,MODEL,OpenAI,ORG,369
+EU AI Act,LAW,European Union,ORG,368
+Amazon,ORG,Microsoft,ORG,368
+Artificial Intelligence,TECHNOLOGY,Forem,PERSON,368
+Artificial Intelligence,TECHNOLOGY,DEV,ORG,367
+California,GPE,Trump,PERSON,367
+European Union,ORG,United Kingdom,GPE,367
+America,GPE,China,GPE,364
+China,GPE,India,GPE,360
+Artificial Intelligence,TECHNOLOGY,CI,ORG,360
+Russia,GPE,Washington,GPE,354
+Texas,GPE,United States,GPE,354
+Artificial Intelligence,TECHNOLOGY,SEO,ORG,352
+China,GPE,Japan,GPE,347
+Trump,PERSON,the White House,ORG,347
+Google,ORG,Large Language Model,TECHNOLOGY,347
+Artificial Intelligence,TECHNOLOGY,Ukraine,GPE,345
+D.C.,GPE,Washington,GPE,345
+Apple,ORG,United States,GPE,341
+Beijing,GPE,United States,GPE,341
+Iran,GPE,Trump,PERSON,339
+London,GPE,United States,GPE,337
+Beijing,GPE,China,GPE,335
+Israel,GPE,United States,GPE,334
+Artificial Intelligence,TECHNOLOGY,Biden,PERSON,333
+Anthropic,ORG,Artificial Intelligence,TECHNOLOGY,333
+The United States,GPE,United States,GPE,333
+Artificial Intelligence,TECHNOLOGY,Texas,GPE,330
+D.C.,GPE,United States,GPE,329
+Artificial Intelligence,TECHNOLOGY,Google Cloud,PRODUCT,328
+Artificial Intelligence,TECHNOLOGY,Elon Musk,PERSON,326
+China,GPE,Ukraine,GPE,324
+Artificial Intelligence,TECHNOLOGY,TikTok,ORG,324
+Artificial Intelligence,TECHNOLOGY,Retrieval-Augmented Generation,TECHNOLOGY,320
+China,GPE,Microsoft,ORG,320
+Apple,ORG,Google,ORG,319
+San Francisco,GPE,United States,GPE,319
+Trump,PERSON,Ukraine,GPE,318
+Artificial Intelligence,TECHNOLOGY,MIT,ORG,318
+China,GPE,United Kingdom,GPE,313
+Claude,MODEL,Google,ORG,310
+Artificial Intelligence,TECHNOLOGY,Iran,GPE,306
+API,TECHNOLOGY,Microsoft,ORG,305
+China,GPE,European Union,ORG,305
+Biden,PERSON,China,GPE,303
+Nvidia,ORG,United States,GPE,302
+Elon Musk,PERSON,United States,GPE,302
+United States,GPE,the European Union,ORG,301
+New York,GPE,Trump,PERSON,301
+Senate,ORG,United States,GPE,301
+Amazon,ORG,OpenAI,ORG,301
+California,GPE,Google,ORG,299
+Meta,ORG,Microsoft,ORG,299
+Artificial Intelligence,TECHNOLOGY,Sam Altman,PERSON,297
+Artificial Intelligence,TECHNOLOGY,NLP,ORG,297
+Canada,GPE,China,GPE,297
+Artificial Intelligence,TECHNOLOGY,Slack,PRODUCT,296
+TikTok,ORG,United States,GPE,295
+Artificial Intelligence,TECHNOLOGY,the European Union,ORG,295
+Pentagon,ORG,United States,GPE,294
+America,GPE,Washington,GPE,294
+Agentic AI,TECHNOLOGY,Artificial Intelligence,TECHNOLOGY,293
+API,TECHNOLOGY,United States,GPE,291
+Artificial Intelligence,TECHNOLOGY,KPMG,ORG,287
+Artificial Intelligence,TECHNOLOGY,Kubernetes,TECHNOLOGY,287
+Artificial Intelligence,TECHNOLOGY,DevOps,ORG,287
+China,GPE,Iran,GPE,283
+China,GPE,Germany,GPE,283
+South Korea,GPE,United States,GPE,281
+Artificial Intelligence,TECHNOLOGY,GitLab,ORG,278
+Artificial Intelligence,TECHNOLOGY,Cursor,GPE,278
+China,GPE,Congress,ORG,276
+Artificial Intelligence,TECHNOLOGY,the White House,ORG,276
+Biden,PERSON,Washington,GPE,276
+Artificial Intelligence,TECHNOLOGY,Singapore,GPE,275
+OpenAI,ORG,Sam Altman,PERSON,275
+Congress,ORG,Washington,GPE,275
+Google,ORG,United Kingdom,GPE,273
+Gemini,MODEL,OpenAI,ORG,272
+France,GPE,Germany,GPE,271
+Iran,GPE,Russia,GPE,271
+Artificial Intelligence,TECHNOLOGY,DeepSeek,PRODUCT,270
+Ukraine,GPE,Washington,GPE,269
+California,GPE,New York,GPE,268
+GDPR,LAW,United States,GPE,268
+Artificial Intelligence,TECHNOLOGY,GPT,ORG,268
+CSIS,ORG,United States,GPE,267
+Claude,MODEL,United States,GPE,267
+Germany,GPE,United Kingdom,GPE,266
+Artificial Intelligence,TECHNOLOGY,Salesforce,ORG,261
+Large Language Model,TECHNOLOGY,United States,GPE,261
+United States,GPE,White House,ORG,259
+Artificial Intelligence,TECHNOLOGY,Instagram,PRODUCT,258
+Senate,ORG,Trump,PERSON,258
+AP,ORG,Artificial Intelligence,TECHNOLOGY,257
+Elon Musk,PERSON,Trump,PERSON,256
+API,TECHNOLOGY,GitHub,PRODUCT,256
+House,ORG,United States,GPE,255
+Artificial Intelligence,TECHNOLOGY,CTO,ORG,253
+Microsoft,ORG,Trump,PERSON,253
+Google,ORG,YouTube,PRODUCT,251
+Artificial Intelligence,TECHNOLOGY,NIST,REGULATOR,251
+Large Language Model,TECHNOLOGY,Model Context Protocol,STANDARD,250
+Artificial Intelligence,TECHNOLOGY,Healthcare,ORG,250
+China,GPE,The United States,GPE,249
+CSIS,ORG,the Center for Strategic and International Studies,ORG,245
+CSIS,ORG,Washington,GPE,244
+API,TECHNOLOGY,UI,ORG,243
+Amazon,ORG,China,GPE,242
+Trump,PERSON,White House,ORG,242
+United States,GPE,YouTube,PRODUCT,241
+China,GPE,France,GPE,241
+API,TECHNOLOGY,Claude,MODEL,241
+KPMG,ORG,KPMG International Limited,ORG,240
+Beijing,GPE,Washington,GPE,240
+Artificial Intelligence,TECHNOLOGY,SQL,TECHNOLOGY,240
+Artificial Intelligence,TECHNOLOGY,Paris,GPE,239
+Iran,GPE,Washington,GPE,239
+Anthropic,ORG,OpenAI,ORG,239
+London,GPE,United Kingdom,GPE,239
+Artificial Intelligence,TECHNOLOGY,South Korea,GPE,238
+European Union,ORG,Google,ORG,237
+California,GPE,China,GPE,237
+France,GPE,United Kingdom,GPE,237
+Pentagon,ORG,Trump,PERSON,237
+Amazon,ORG,Trump,PERSON,236
+Taiwan,GPE,United States,GPE,235
+Google,ORG,Washington,GPE,235
+Artificial Intelligence,TECHNOLOGY,Pentagon,ORG,235
+United States,GPE,the United Kingdom,GPE,235
+Armed Forces,ORG,Artificial Intelligence,TECHNOLOGY,234
+Armed Forces,ORG,GitLab,ORG,233
+Artificial Intelligence,TECHNOLOGY,Fortune Media IP Limited,ORG,233
+Armed Forces,ORG,Recruitment Privacy Policy,ORG,233
+Artificial Intelligence,TECHNOLOGY,Recruitment Privacy Policy,ORG,233
+GitLab,ORG,Recruitment Privacy Policy,ORG,233
+Claude,MODEL,Large Language Model,TECHNOLOGY,232
+Brazil,GPE,United States,GPE,232
+Artificial Intelligence,TECHNOLOGY,ESG,ORG,232
+United States,GPE,the Center for Strategic and International Studies,ORG,231
+Amazon,ORG,Meta,ORG,230
+Artificial Intelligence,TECHNOLOGY,the Intelligent Orchestration Platform,ORG,230
+Artificial Intelligence,TECHNOLOGY,Senate,ORG,230
+GitLab,ORG,the Intelligent Orchestration Platform,ORG,230
+Recruitment Privacy Policy,ORG,the Intelligent Orchestration Platform,ORG,229
+Fortune Media IP Limited,ORG,the Intelligent Orchestration Platform,ORG,229
+Armed Forces,ORG,Fortune Media IP Limited,ORG,229
+New York City,GPE,United States,GPE,229
+Fortune Media IP Limited,ORG,Recruitment Privacy Policy,ORG,229
+Fortune Media IP Limited,ORG,GitLab,ORG,229
+Armed Forces,ORG,the Intelligent Orchestration Platform,ORG,229
+Israel,GPE,Trump,PERSON,229
+Meta,ORG,Trump,PERSON,228
+Artificial Intelligence,TECHNOLOGY,The United States,GPE,227
+California,GPE,Washington,GPE,227
+Artificial Intelligence,TECHNOLOGY,Beijing,GPE,227
+Canada,GPE,Trump,PERSON,227
+Los Angeles,GPE,United States,GPE,226
+China,GPE,the White House,ORG,226
+Artificial Intelligence,TECHNOLOGY,D.C.,GPE,226
+Washington,GPE,the Center for Strategic and International Studies,ORG,226
+Claude,MODEL,Gemini,MODEL,224
+Nvidia,ORG,OpenAI,ORG,224
+California,GPE,OpenAI,ORG,222
+America,GPE,Russia,GPE,222
+Canada,GPE,Japan,GPE,222
+Singapore,GPE,United States,GPE,222
+Beijing,GPE,Trump,PERSON,221
+Texas,GPE,Trump,PERSON,220
+Artificial Intelligence,TECHNOLOGY,Gartner,ORG,220
+Washington,GPE,the White House,ORG,220
+Google,ORG,Google Cloud,PRODUCT,219
+New York,GPE,Washington,GPE,218
+European Union,ORG,GDPR,LAW,218
+Artificial Intelligence,TECHNOLOGY,Israel,GPE,218
+The United States,GPE,Washington,GPE,217
+Artificial Intelligence,TECHNOLOGY,New York City,GPE,216
+European Union,ORG,the European Union,ORG,216
+Artificial Intelligence,TECHNOLOGY,Artificial Intelligence (AI,ORG,215
+House,ORG,Trump,PERSON,215
+Mexico,GPE,United States,GPE,215
+China,GPE,New York,GPE,215
+Digital,ORG,United States,GPE,215
+Canada,GPE,Germany,GPE,214
+China,GPE,Meta,ORG,214
+Google,ORG,New York,GPE,213
+OpenAI,ORG,United Kingdom,GPE,213
+CSIS,ORG,Center for Strategic & International Studies,ORG,213
+China,GPE,South Korea,GPE,213
+Artificial Intelligence,TECHNOLOGY,Linux,TECHNOLOGY,212
+Joe Biden,PERSON,United States,GPE,212
+Florida,GPE,United States,GPE,212
+China,GPE,Taiwan,GPE,211
+Paris,GPE,United States,GPE,211
+Google,ORG,LinkedIn,PRODUCT,211
+America,GPE,Congress,ORG,211
+Microsoft,ORG,Nvidia,ORG,211
+Artificial Intelligence,TECHNOLOGY,Brazil,GPE,211
+Artificial Intelligence,TECHNOLOGY,FTC,REGULATOR,210
+Graham Holdings Company,ORG,United States,GPE,210
+Canada,GPE,United Kingdom,GPE,210
+Gemini,MODEL,United States,GPE,210
+Microsoft,ORG,United Kingdom,GPE,209
+India,GPE,United Kingdom,GPE,208
+Artificial Intelligence,TECHNOLOGY,KPMG International Limited,ORG,208
+Google,ORG,Model Context Protocol,STANDARD,207
+Artificial Intelligence,TECHNOLOGY,Twitter,PERSON,207
+Google,ORG,SEO,ORG,207
+FP,ORG,Graham Holdings Company,ORG,207
+Artificial Intelligence,TECHNOLOGY,European Commission,REGULATOR,207
+Android,PRODUCT,Artificial Intelligence,TECHNOLOGY,207
+FP,ORG,United States,GPE,206
+Large Language Model,TECHNOLOGY,Microsoft,ORG,206
+Internet of Things,TECHNOLOGY,United States,GPE,206
+Artificial Intelligence,TECHNOLOGY,Copilot,ORG,205
+America,GPE,Google,ORG,205
+Sam Altman,PERSON,United States,GPE,204
+AP,ORG,The Associated Press,ORG,204
+Apple,ORG,Microsoft,ORG,204
+FBI,ORG,United States,GPE,204
+China,GPE,Nvidia,ORG,203
+Gemini,MODEL,Large Language Model,TECHNOLOGY,203
+Artificial Intelligence,TECHNOLOGY,WhatsApp,ORG,203
+America,GPE,Biden,PERSON,202
+European Commission,REGULATOR,European Union,ORG,202
+CSIS,ORG,China,GPE,202
+European Union,ORG,Trump,PERSON,202
+California,GPE,Texas,GPE,201
+AP,ORG,United States,GPE,201
+Canada,GPE,France,GPE,201
+Artificial Intelligence,TECHNOLOGY,CFO,ORG,201
+Japan,GPE,South Korea,GPE,201
+Center for Strategic & International Studies,ORG,United States,GPE,201
+Artificial Intelligence,TECHNOLOGY,HIPAA,ORG,200
+AGI,ORG,Artificial Intelligence,TECHNOLOGY,200
+European Union,ORG,OpenAI,ORG,200
+America,GPE,New York,GPE,200
+Italy,GPE,United States,GPE,200
+Google,ORG,Nvidia,ORG,199
+Instagram,PRODUCT,United States,GPE,198
+Artificial Intelligence,TECHNOLOGY,Cloud,PERSON,198
+Artificial Intelligence,TECHNOLOGY,SAP,ORG,198
+Germany,GPE,Japan,GPE,197
+Artificial Intelligence,TECHNOLOGY,Grok,PERSON,197
+America,GPE,California,GPE,197
+Australia,GPE,China,GPE,196
+IP,ORG,United States,GPE,196
+Artificial Intelligence,TECHNOLOGY,SEC,ORG,195
+Artificial Intelligence,TECHNOLOGY,CPU,ORG,195
+Joe Biden,PERSON,Trump,PERSON,195
+Iran,GPE,Ukraine,GPE,194
+Artificial Intelligence,TECHNOLOGY,the United Kingdom,GPE,194
+DeepSeek,PRODUCT,United States,GPE,193
+Artificial Intelligence,TECHNOLOGY,M & A,ORG,193
+Artificial Intelligence,TECHNOLOGY,Italy,GPE,193
+Machine Learning,TECHNOLOGY,United States,GPE,193
+Iran,GPE,Israel,GPE,192
+Artificial Intelligence,TECHNOLOGY,Los Angeles,GPE,191
+Artificial Intelligence,TECHNOLOGY,GPT-4,PERSON,191
+Google,ORG,TikTok,ORG,190
+Artificial Intelligence,TECHNOLOGY,https,PERSON,190
+China,GPE,Israel,GPE,190
+Biden,PERSON,Russia,GPE,190
+API,TECHNOLOGY,Forem,PERSON,190
+Amazon Web Services,ORG,Artificial Intelligence,TECHNOLOGY,189
+Artificial Intelligence,TECHNOLOGY,CLI,ORG,189
+API,TECHNOLOGY,DEV,ORG,189
+China,GPE,D.C.,GPE,189
+Artificial Intelligence,TECHNOLOGY,Chicago,GPE,189
+OpenAI,ORG,Washington,GPE,188
+IBM,ORG,United States,GPE,188
+The Associated Press,ORG,United States,GPE,188
+Artificial Intelligence,TECHNOLOGY,House,ORG,187
+Chicago,GPE,United States,GPE,187
+Artificial Intelligence,TECHNOLOGY,Terms of Service,ORG,187
+Senate,ORG,Washington,GPE,187
+European Union,ORG,Germany,GPE,186
+NATO,ORG,United States,GPE,186
+Artificial Intelligence,TECHNOLOGY,Success,ORG,186
+Artificial Intelligence,TECHNOLOGY,Taiwan,GPE,185
+California,GPE,Congress,ORG,185
+Center for Strategic & International Studies,ORG,Washington,GPE,185
+EU AI Act,LAW,OpenAI,ORG,184
+India,GPE,Japan,GPE,184
+Canada,GPE,Google,ORG,183
+D.C.,GPE,Trump,PERSON,183
+Anthropic,ORG,United States,GPE,183
+API,TECHNOLOGY,CI,ORG,183
+API,TECHNOLOGY,Gemini,MODEL,183
+LinkedIn,PRODUCT,United States,GPE,183
+Japan,GPE,United Kingdom,GPE,183
+European Union,ORG,Microsoft,ORG,182
+Artificial Intelligence,TECHNOLOGY,EIN,ORG,182
+Artificial Intelligence,TECHNOLOGY,Science News,ORG,182
+Center for Strategic & International Studies,ORG,the Center for Strategic and International Studies,ORG,182
+Trump,PERSON,United Kingdom,GPE,182
+Australia,GPE,United Kingdom,GPE,182
+Canada,GPE,India,GPE,182
+Israel,GPE,Russia,GPE,182
+Science News,ORG,the Society for Science,ORG,181
+Large Language Model,TECHNOLOGY,Retrieval-Augmented Generation,TECHNOLOGY,181
+Apple,ORG,China,GPE,181
+Artificial Intelligence,TECHNOLOGY,Data,ORG,181
+India,GPE,Trump,PERSON,181
+EIN,ORG,Science News,ORG,181
+EIN,ORG,the Society for Science,ORG,181
+FTC,REGULATOR,United States,GPE,181
+Anthropic,ORG,Claude,MODEL,180
+France,GPE,Trump,PERSON,180
+Artificial Intelligence,TECHNOLOGY,the Society for Science,ORG,180
+Biden,PERSON,Congress,ORG,180
+Gaza,GPE,United States,GPE,179
+America,GPE,the White House,ORG,179
+Artificial Intelligence,TECHNOLOGY,Reddit,GPE,179
+Amazon,ORG,Apple,ORG,179
+Artificial Intelligence,TECHNOLOGY,White House,ORG,179
+Artificial Intelligence,TECHNOLOGY,LLC,ORG,178
+Artificial Intelligence,TECHNOLOGY,Reuters,ORG,178
+State,ORG,United States,GPE,178
+Apple,ORG,OpenAI,ORG,178
+AI/ML,ORG,Artificial Intelligence,TECHNOLOGY,177
+Artificial Intelligence,TECHNOLOGY,PwC,ORG,177
+DeepSeek,PRODUCT,OpenAI,ORG,177
+Artificial Intelligence,TECHNOLOGY,McKinsey,PERSON,177
+EU AI Act,LAW,GDPR,LAW,176
+Artificial Intelligence,TECHNOLOGY,Spain,GPE,176
+California,GPE,Microsoft,ORG,176
+Artificial Intelligence,TECHNOLOGY,Intel,ORG,175
+Moscow,GPE,United States,GPE,175
+API,TECHNOLOGY,Machine Learning,TECHNOLOGY,175
+Spain,GPE,United States,GPE,175
+Artificial Intelligence,TECHNOLOGY,LangChain,ORG,175
+The United States,GPE,Trump,PERSON,175
+Reuters,ORG,United States,GPE,175
+GitHub,PRODUCT,Large Language Model,TECHNOLOGY,174
+China,GPE,the Center for Strategic and International Studies,ORG,174
+Elon Musk,PERSON,OpenAI,ORG,173
+Artificial Intelligence,TECHNOLOGY,PPC,ORG,173
+Congress,ORG,Senate,ORG,173
+Canada,GPE,Washington,GPE,173
+Japan,GPE,Trump,PERSON,172
+Artificial Intelligence,TECHNOLOGY,Perplexity,ORG,172
+Israel,GPE,Ukraine,GPE,172
+Artificial Intelligence,TECHNOLOGY,NASA,ORG,171
+Google,ORG,India,GPE,171
+Google,ORG,Russia,GPE,171
+United States,GPE,the Privacy Policy and Terms of Use,ORG,171
+API,TECHNOLOGY,LinkedIn,PRODUCT,171
+Graham Holdings Company,ORG,the Privacy Policy and Terms of Use,ORG,171
+European Union,ORG,France,GPE,170
+IBM,ORG,Microsoft,ORG,170
+Apple,ORG,Meta,ORG,170
+Artificial Intelligence,TECHNOLOGY,JSON,PERSON,170
+Moscow,GPE,Russia,GPE,170
+API,TECHNOLOGY,Kubernetes,TECHNOLOGY,169
+Artificial Intelligence,TECHNOLOGY,Society for Science & the Public 2000–2026,ORG,168
+Science News,ORG,Society for Science & the Public 2000–2026,ORG,168
+Society for Science & the Public 2000–2026,ORG,the Society for Science,ORG,168
+EIN,ORG,Society for Science & the Public 2000–2026,ORG,168
+United States,GPE,WhatsApp,ORG,168
+United States,GPE,"Washington, DC",GPE,168
+FP,ORG,the Privacy Policy and Terms of Use,ORG,167
+Artificial Intelligence,TECHNOLOGY,Search Engine Journal,ORG,167
+European Commission,REGULATOR,United States,GPE,167
+Large Language Model,TECHNOLOGY,Machine Learning,TECHNOLOGY,167
+OpenAI,ORG,San Francisco,GPE,167
+America,GPE,Iran,GPE,166
+Congress,ORG,the White House,ORG,166
+China,GPE,Pentagon,ORG,166
+America,GPE,OpenAI,ORG,166
+Artificial Intelligence,TECHNOLOGY,The Associated Press,ORG,166
+Model Context Protocol,STANDARD,OpenAI,ORG,165
+Graham Holdings Company,ORG,Washington,GPE,165
+Artificial Intelligence,TECHNOLOGY,Gen AI,PERSON,165
+European Union,ORG,India,GPE,165
+House,ORG,Senate,ORG,164
+API,TECHNOLOGY,AWS,ORG,164
+Artificial Intelligence,TECHNOLOGY,Florida,GPE,164
+Google,ORG,IBM,ORG,164
+Generative AI,TECHNOLOGY,United States,GPE,163
+Australia,GPE,Canada,GPE,163
+Claude,MODEL,Microsoft,ORG,163
+Artificial Intelligence,TECHNOLOGY,Software,ORG,163
+FP,ORG,Washington,GPE,163
+China,GPE,the European Union,ORG,163
+TikTok,ORG,Trump,PERSON,163
+China,GPE,Elon Musk,PERSON,163
+Congress,ORG,Russia,GPE,162
+Artificial Intelligence,TECHNOLOGY,QA,ORG,162
+Artificial Intelligence,TECHNOLOGY,Cisco,GPE,162
+Artificial Intelligence,TECHNOLOGY,CNBC,ORG,162
+GPU,TECHNOLOGY,Google,ORG,162
+Nvidia,ORG,Trump,PERSON,161
+Artificial Intelligence,TECHNOLOGY,IAM,ORG,161
+Artificial Intelligence,TECHNOLOGY,Las Vegas,GPE,161
+America,GPE,Ukraine,GPE,161
+Israel,GPE,Washington,GPE,160
+Artificial Intelligence,TECHNOLOGY,Mexico,GPE,160
+Artificial Intelligence,TECHNOLOGY,Java,PERSON,159
+Graham Holdings Company,ORG,Trump,PERSON,159
+The Associated Press,ORG,Trump,PERSON,159
+GitHub,PRODUCT,Model Context Protocol,STANDARD,159
+Artificial Intelligence,TECHNOLOGY,England,GPE,159
+Amazon,ORG,California,GPE,159
+Washington,GPE,White House,ORG,159
+GitHub,PRODUCT,Google,ORG,159
+Alpha Brand Media,ORG,Search Engine Journal,ORG,158
+API,TECHNOLOGY,GPU,TECHNOLOGY,158
+Artificial Intelligence,TECHNOLOGY,FBI,ORG,158
+Artificial Intelligence,TECHNOLOGY,COVID-19,ORG,158
+Alpha Brand Media,ORG,Artificial Intelligence,TECHNOLOGY,158
+France,GPE,Japan,GPE,157
+Artificial Intelligence,TECHNOLOGY,Hugging Face,ORG,157
+LinkedIn,PRODUCT,OpenAI,ORG,157
+China,GPE,Graham Holdings Company,ORG,157
+FP,ORG,Trump,PERSON,157
+FBI,ORG,Trump,PERSON,156
+Apple,ORG,Trump,PERSON,156
+Canada,GPE,Russia,GPE,155
+PPC,ORG,Search Engine Journal,ORG,155
+China,GPE,FP,ORG,155
+GitHub,PRODUCT,OpenAI,ORG,155
+LinkedIn,PRODUCT,Microsoft,ORG,155
+Russia,GPE,The United States,GPE,155
+China,GPE,Texas,GPE,155
+New York,GPE,Texas,GPE,154
+Center for Strategic & International Studies,ORG,China,GPE,154
+NASA,ORG,United States,GPE,154
+Germany,GPE,India,GPE,154
+China,GPE,White House,ORG,154
+America,GPE,Senate,ORG,154
+EU AI Act,LAW,Google,ORG,153
+Artificial Intelligence,TECHNOLOGY,SEJ,ORG,153
+China,GPE,DeepSeek,PRODUCT,153
+Artificial Intelligence,TECHNOLOGY,JavaScript,ORG,153
+Artificial Intelligence,TECHNOLOGY,CSIS,ORG,153
+Biden,PERSON,California,GPE,153
+Artificial Intelligence,TECHNOLOGY,Netherlands,GPE,153
+Android,PRODUCT,Google,ORG,153
+France,GPE,Washington,GPE,152
+Twitter,PERSON,United States,GPE,152
+API,TECHNOLOGY,Retrieval-Augmented Generation,TECHNOLOGY,152
+Artificial Intelligence,TECHNOLOGY,CCPA,LAW,152
+Alpha Brand Media,ORG,SEJ,ORG,152
+GPU,TECHNOLOGY,OpenAI,ORG,152
+America,GPE,House,ORG,152
+Alpha Brand Media,ORG,PPC,ORG,152
+LLC,ORG,United States,GPE,152
+SEJ,ORG,Search Engine Journal,ORG,152
+Germany,GPE,Trump,PERSON,151
+Artificial Intelligence,TECHNOLOGY,The New York Times,ORG,151
+Amazon,ORG,United Kingdom,GPE,151
+Google,ORG,Machine Learning,TECHNOLOGY,150
+Beijing,GPE,Russia,GPE,150
+MIT,ORG,United States,GPE,150
+Congress,ORG,House,ORG,150
+Pentagon,ORG,Washington,GPE,150
+Anthropic,ORG,Google,ORG,150
+Ernst & Young Global Limited,ORG,United Kingdom,GPE,150
+Artificial Intelligence,TECHNOLOGY,Switzerland,GPE,150
+New York,GPE,Russia,GPE,150
+Amazon,ORG,Washington,GPE,150
+France,GPE,Google,ORG,149
+California,GPE,Meta,ORG,149
+China,GPE,Senate,ORG,149
+Biden,PERSON,the White House,ORG,149
+Canada,GPE,South Korea,GPE,149
+API,TECHNOLOGY,CLI,ORG,149
+Congress,ORG,Google,ORG,149
+Japan,GPE,Washington,GPE,149
+Artificial Intelligence,TECHNOLOGY,Netflix,GPE,149
+PPC,ORG,SEJ,ORG,149
+Artificial Intelligence,TECHNOLOGY,Tesla,ORG,149
+FREE,ORG,Trelleborg,ORG,148
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,Trelleborg,ORG,148
+Moscow,GPE,Ukraine,GPE,148
+Luca Giovannini,PERSON,SkyQuest Technology,ORG,148
+FREE,ORG,Luca Giovannini,PERSON,148
+FREE,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,148
+FREE,ORG,SkyQuest Technology,ORG,148
+Artificial Intelligence,TECHNOLOGY,Hollywood,GPE,148
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,Skyquest Team,ORG,148
+FREE,ORG,Skyquest Team,ORG,148
+Luca Giovannini,PERSON,SkyQuest Technology Consulting Pvt. Ltd.,ORG,148
+Florida,GPE,Trump,PERSON,148
+Luca Giovannini,PERSON,Skyquest Team,ORG,148
+Artificial Intelligence,TECHNOLOGY,ServiceNow,ORG,148
+SkyQuest Technology,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,148
+SkyQuest Technology,ORG,Skyquest Team,ORG,148
+Biden,PERSON,Google,ORG,148
+Luca Giovannini,PERSON,Trelleborg,ORG,148
+Skyquest Team,ORG,Trelleborg,ORG,148
+SkyQuest Technology,ORG,Trelleborg,ORG,148
+U.K.,GPE,United States,GPE,148
+Artificial Intelligence,TECHNOLOGY,Deloitte,ORG,147
+NATO,ORG,Ukraine,GPE,147
+Texas,GPE,Washington,GPE,147
+Artificial Intelligence,TECHNOLOGY,IPO,ORG,147
+Artificial Intelligence,TECHNOLOGY,PDF,ORG,147
+GOP,ORG,Trump,PERSON,146
+Google,ORG,Sam Altman,PERSON,146
+Artificial Intelligence,TECHNOLOGY,Colorado,GPE,146
+CNBC,ORG,United States,GPE,146
+California,GPE,Senate,ORG,146
+Congress,ORG,New York,GPE,146
+Large Language Model,TECHNOLOGY,LinkedIn,PRODUCT,145
+San Francisco,GPE,Trump,PERSON,145
+AP,ORG,Trump,PERSON,145
+Artificial Intelligence,TECHNOLOGY,GitHub Copilot,ORG,145
+Google,ORG,San Francisco,GPE,145
+China,GPE,EU AI Act,LAW,145
+House,ORG,Washington,GPE,145
+Artificial Intelligence,TECHNOLOGY,Joe Biden,PERSON,144
+COVID-19,ORG,United States,GPE,144
+Claude,MODEL,Model Context Protocol,STANDARD,144
+Canada,GPE,European Union,ORG,144
+Elon Musk,PERSON,Google,ORG,144
+Artificial Intelligence,TECHNOLOGY,Samsung,ORG,144
+NATO,ORG,Russia,GPE,143
+Luca Giovannini,PERSON,Validation & Publishing: Validation,ORG,143
+Luca Giovannini,PERSON,Validation & re-validation,ORG,143
+Factiva,ORG,Skyquest Team,ORG,143
+Factiva,ORG,Luca Giovannini,PERSON,143
+Factiva,ORG,Hoover,PERSON,143
+SkyQuest,ORG,Validation & re-validation,ORG,143
+FREE,ORG,Validation & Publishing: Validation,ORG,143
+EU AI Act,LAW,United Kingdom,GPE,143
+FREE,ORG,Validation & re-validation,ORG,143
+Graham Digital Holding Company,PERSON,Graham Holdings Company,ORG,143
+Skyquest Team,ORG,Validation & Publishing: Validation,ORG,143
+SkyQuest Technology,ORG,Validation & Publishing: Validation,ORG,143
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,Validation & Publishing: Validation,ORG,143
+Skyquest Team,ORG,Validation & re-validation,ORG,143
+SkyQuest,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Factiva,ORG,Validation & Publishing: Validation,ORG,143
+Factiva,ORG,Trelleborg,ORG,143
+Quality Assurance,ORG,SkyQuest Technology,ORG,143
+FREE,ORG,Market players & comparative,ORG,143
+FREE,ORG,Factiva,ORG,143
+FREE,ORG,Globally,ORG,143
+FREE,ORG,Hoover,PERSON,143
+SkyQuest Technology,ORG,Validation & re-validation,ORG,143
+Quality Assurance,ORG,Skyquest Team,ORG,143
+Quality Assurance,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Globally,ORG,Market players & comparative,ORG,143
+SkyQuest,ORG,Validation & Publishing: Validation,ORG,143
+SkyQuest,ORG,SkyQuest Technology,ORG,143
+Globally,ORG,SkyQuest Technology,ORG,143
+Globally,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Quality Assurance,ORG,Trelleborg,ORG,143
+Factiva,ORG,Globally,ORG,143
+Factiva,ORG,Validation & re-validation,ORG,143
+Quality Assurance,ORG,SkyQuest,ORG,143
+California,GPE,House,ORG,143
+Market players & comparative,ORG,Validation & Publishing: Validation,ORG,143
+Market players & comparative,ORG,Validation & re-validation,ORG,143
+Luca Giovannini,PERSON,SkyQuest,ORG,143
+Luca Giovannini,PERSON,Quality Assurance,ORG,143
+Quality Assurance,ORG,Validation & re-validation,ORG,143
+Quality Assurance,ORG,Validation & Publishing: Validation,ORG,143
+Luca Giovannini,PERSON,Market players & comparative,ORG,143
+Market players & comparative,ORG,Trelleborg,ORG,143
+Hoover,PERSON,Validation & re-validation,ORG,143
+Globally,ORG,Validation & re-validation,ORG,143
+DC,GPE,United States,GPE,143
+Market players & comparative,ORG,Skyquest Team,ORG,143
+Market players & comparative,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Market players & comparative,ORG,SkyQuest Technology,ORG,143
+Validation & Publishing: Validation,ORG,Validation & re-validation,ORG,143
+SkyQuest,ORG,Skyquest Team,ORG,143
+Trelleborg,ORG,Validation & re-validation,ORG,143
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,Validation & re-validation,ORG,143
+Market players & comparative,ORG,Quality Assurance,ORG,143
+Globally,ORG,Hoover,PERSON,143
+Globally,ORG,Luca Giovannini,PERSON,143
+AWS,ORG,Microsoft,ORG,143
+Trelleborg,ORG,Validation & Publishing: Validation,ORG,143
+Globally,ORG,Skyquest Team,ORG,143
+Globally,ORG,Trelleborg,ORG,143
+Globally,ORG,Validation & Publishing: Validation,ORG,143
+Market players & comparative,ORG,SkyQuest,ORG,143
+Bloomberg Business,ORG,Trelleborg,ORG,143
+SkyQuest,ORG,Trelleborg,ORG,143
+Hoover,PERSON,Trelleborg,ORG,143
+Artificial Intelligence,TECHNOLOGY,Ernst & Young Global Limited,ORG,143
+Globally,ORG,SkyQuest,ORG,143
+Globally,ORG,Quality Assurance,ORG,143
+Hoover,PERSON,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Hoover,PERSON,SkyQuest Technology,ORG,143
+Hoover,PERSON,SkyQuest,ORG,143
+Hoover,PERSON,Quality Assurance,ORG,143
+Hoover,PERSON,Validation & Publishing: Validation,ORG,143
+Bloomberg Business,ORG,Hoover,PERSON,143
+Bloomberg Business,ORG,Skyquest Team,ORG,143
+Bloomberg Business,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Hoover,PERSON,Market players & comparative,ORG,143
+Hoover,PERSON,Luca Giovannini,PERSON,143
+Bloomberg Business,ORG,Validation & re-validation,ORG,143
+Bloomberg Business,ORG,Validation & Publishing: Validation,ORG,143
+Bloomberg Business,ORG,FREE,ORG,143
+Hoover,PERSON,Skyquest Team,ORG,143
+Bloomberg Business,ORG,Market players & comparative,ORG,143
+Bloomberg Business,ORG,Luca Giovannini,PERSON,143
+Bloomberg Business,ORG,Globally,ORG,143
+Bloomberg Business,ORG,Factiva,ORG,143
+Bloomberg Business,ORG,SkyQuest Technology,ORG,143
+Bloomberg Business,ORG,SkyQuest,ORG,143
+Bloomberg Business,ORG,Quality Assurance,ORG,143
+Factiva,ORG,Market players & comparative,ORG,143
+FREE,ORG,SkyQuest,ORG,143
+FREE,ORG,Quality Assurance,ORG,143
+Factiva,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,143
+Factiva,ORG,SkyQuest Technology,ORG,143
+Factiva,ORG,Quality Assurance,ORG,143
+Factiva,ORG,SkyQuest,ORG,143
+Graham Digital Holding Company,PERSON,the Privacy Policy and Terms of Use,ORG,143
+Graham Digital Holding Company,PERSON,United States,GPE,143
+Microsoft,ORG,Washington,GPE,142
+Google,ORG,Iran,GPE,142
+Tesla,ORG,United States,GPE,142
+Artificial Intelligence,TECHNOLOGY,UN,ORG,142
+Artificial Intelligence,TECHNOLOGY,Seattle,GPE,142
+Biden,PERSON,Senate,ORG,142
+GOP,ORG,United States,GPE,142
+API,TECHNOLOGY,JSON,PERSON,142
+CSIS,ORG,Russia,GPE,142
+New York,GPE,San Francisco,GPE,142
+Google,ORG,UI,ORG,142
+Australia,GPE,Japan,GPE,141
+Gemini,MODEL,Microsoft,ORG,141
+CCPA,LAW,GDPR,LAW,141
+Bloomberg Business,ORG,Primary Exploratory Research,ORG,141
+Primary Exploratory Research,ORG,SkyQuest Technology,ORG,141
+Globally,ORG,Primary Exploratory Research,ORG,141
+State,ORG,Trump,PERSON,141
+FREE,ORG,Primary Exploratory Research,ORG,141
+Taiwan,GPE,Trump,PERSON,141
+California,GPE,San Francisco,GPE,141
+Hoover,PERSON,Primary Exploratory Research,ORG,141
+China,GPE,London,GPE,141
+Luca Giovannini,PERSON,Primary Exploratory Research,ORG,141
+GPU,TECHNOLOGY,Large Language Model,TECHNOLOGY,141
+Trump,PERSON,the European Union,ORG,141
+Primary Exploratory Research,ORG,Quality Assurance,ORG,141
+Primary Exploratory Research,ORG,SkyQuest,ORG,141
+New York,GPE,New York City,GPE,141
+Primary Exploratory Research,ORG,Validation & re-validation,ORG,141
+Primary Exploratory Research,ORG,Validation & Publishing: Validation,ORG,141
+Primary Exploratory Research,ORG,Trelleborg,ORG,141
+Primary Exploratory Research,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,141
+Primary Exploratory Research,ORG,Skyquest Team,ORG,141
+Factiva,ORG,Primary Exploratory Research,ORG,141
+NIST,REGULATOR,United States,GPE,141
+Market players & comparative,ORG,Primary Exploratory Research,ORG,141
+Artificial Intelligence,TECHNOLOGY,PII,ORG,140
+Graham Holdings Company,ORG,"Washington, DC",GPE,140
+GPT,ORG,OpenAI,ORG,140
+Graham Digital Holding Company,PERSON,"Washington, DC",GPE,140
+PPC,ORG,SEO,ORG,140
+"Washington, DC",GPE,the Privacy Policy and Terms of Use,ORG,140
+Artificial Intelligence,TECHNOLOGY,Stanford,ORG,140
+GDPR,LAW,HIPAA,ORG,140
+California,GPE,Iran,GPE,140
+France,GPE,Russia,GPE,140
+The New York Times,ORG,United States,GPE,140
+European Union,ORG,Japan,GPE,140
+France,GPE,India,GPE,140
+European Union,ORG,Russia,GPE,139
+Iran,GPE,New York,GPE,139
+California,GPE,Los Angeles,GPE,139
+Amazon,ORG,New York,GPE,139
+FP,ORG,Graham Digital Holding Company,PERSON,139
+SpaceX,PERSON,United States,GPE,139
+AMD,ORG,Artificial Intelligence,TECHNOLOGY,139
+Data,ORG,United States,GPE,139
+Brazil,GPE,China,GPE,139
+API,TECHNOLOGY,Google Cloud,PRODUCT,139
+Hoover,PERSON,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Microsoft,ORG,Model Context Protocol,STANDARD,138
+SkyQuest Technology,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Validation & Publishing: Validation,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Germany,GPE,Washington,GPE,138
+Germany,GPE,Russia,GPE,138
+Artificial Intelligence,TECHNOLOGY,Hong Kong,GPE,138
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Trelleborg,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Britain,GPE,United States,GPE,138
+Market players & comparative,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Hollywood,GPE,United States,GPE,138
+GPU,TECHNOLOGY,United States,GPE,138
+Bloomberg Business,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Globally,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+EU AI Act,LAW,Microsoft,ORG,138
+API,TECHNOLOGY,GDPR,LAW,138
+Skyquest Team,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+FREE,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Factiva,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+The White House,ORG,United States,GPE,138
+SkyQuest,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Validation & re-validation,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Quality Assurance,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Luca Giovannini,PERSON,etcCompany profileMarket dynamics & outlookRegion,ORG,138
+Gaza,GPE,Trump,PERSON,137
+New York,GPE,Senate,ORG,137
+Sam Altman,PERSON,Trump,PERSON,137
+China,GPE,Joe Biden,PERSON,137
+Russia,GPE,United Kingdom,GPE,137
+United States,GPE,Xi Jinping,PERSON,136
+Primary Exploratory Research,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,136
+California,GPE,Canada,GPE,136
+FP,ORG,"Washington, DC",GPE,136
+SEC,ORG,United States,GPE,136
+API,TECHNOLOGY,CRM,TECHNOLOGY,136
+Business Information Services,ORG,Factiva,ORG,135
+Grok,PERSON,United States,GPE,135
+Business Information Services,ORG,FREE,ORG,135
+Business Information Services,ORG,SkyQuest Technology,ORG,135
+Business Information Services,ORG,Luca Giovannini,PERSON,135
+Business Information Services,ORG,Market players & comparative,ORG,135
+Business Information Services,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,135
+Business Information Services,ORG,Validation & Publishing: Validation,ORG,135
+Biden,PERSON,New York,GPE,135
+Business Information Services,ORG,Validation & re-validation,ORG,135
+Business Information Services,ORG,Quality Assurance,ORG,135
+Business Information Services,ORG,SkyQuest,ORG,135
+Business Information Services,ORG,Trelleborg,ORG,135
+Business Information Services,ORG,Skyquest Team,ORG,135
+Microsoft,ORG,New York,GPE,135
+California,GPE,Russia,GPE,135
+America,GPE,Canada,GPE,135
+Bloomberg Business,ORG,Business Information Services,ORG,135
+Business Information Services,ORG,Globally,ORG,135
+AWS,ORG,Google,ORG,135
+Congress,ORG,Iran,GPE,135
+America,GPE,White House,ORG,135
+Business Information Services,ORG,Hoover,PERSON,135
+Congress,ORG,OpenAI,ORG,134
+Business Information Services,ORG,Primary Exploratory Research,ORG,134
+TikTok,ORG,YouTube,PRODUCT,134
+Artificial Intelligence,TECHNOLOGY,Mark Zuckerberg,PERSON,134
+Google,ORG,PPC,ORG,134
+UN,ORG,United States,GPE,134
+Artificial Intelligence,TECHNOLOGY,U.K.,GPE,134
+European Union,ORG,Washington,GPE,134
+Germany,GPE,Google,ORG,133
+Colorado,GPE,United States,GPE,133
+Artificial Intelligence,TECHNOLOGY,SpaceX,PERSON,133
+ESG,ORG,United States,GPE,133
+GitHub,PRODUCT,Microsoft,ORG,133
+China,GPE,Singapore,GPE,133
+Artificial Intelligence,TECHNOLOGY,FDA,ORG,133
+New York City,GPE,Trump,PERSON,133
+House,ORG,New York,GPE,133
+China,GPE,Xi Jinping,PERSON,133
+Germany,GPE,Italy,GPE,132
+Germany,GPE,South Korea,GPE,132
+Artificial Intelligence,TECHNOLOGY,Excel,PRODUCT,132
+China,GPE,TikTok,ORG,132
+Google,ORG,Japan,GPE,132
+White House,ORG,the White House,ORG,132
+CSIS,ORG,D.C.,GPE,131
+Intel,ORG,United States,GPE,131
+China,GPE,House,ORG,131
+Saudi Arabia,GPE,United States,GPE,131
+Google,ORG,Search Engine Journal,ORG,131
+API,TECHNOLOGY,Cursor,GPE,131
+India,GPE,Washington,GPE,131
+Switzerland,GPE,United States,GPE,131
+Iran,GPE,Pentagon,ORG,131
+Pete Hegseth,PERSON,United States,GPE,131
+GDPR,LAW,Google,ORG,131
+Gaza,GPE,Israel,GPE,131
+AWS,ORG,United States,GPE,131
+India,GPE,OpenAI,ORG,131
+Data,ORG,Quality Assurance,ORG,130
+Amazon,ORG,America,GPE,130
+Data,ORG,Luca Giovannini,PERSON,130
+Data,ORG,Factiva,ORG,130
+Data,ORG,Hoover,PERSON,130
+Data,ORG,Globally,ORG,130
+Data,ORG,Market players & comparative,ORG,130
+Data,ORG,Primary Exploratory Research,ORG,130
+Data,ORG,Skyquest Team,ORG,130
+Data,ORG,SkyQuest Technology,ORG,130
+Biden,PERSON,House,ORG,130
+Data,ORG,Validation & re-validation,ORG,130
+Data,ORG,FREE,ORG,130
+Business Information Services,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,130
+Data,ORG,SkyQuest,ORG,130
+Bloomberg Business,ORG,Data,ORG,130
+China,GPE,the Privacy Policy and Terms of Use,ORG,130
+Large Language Model,TECHNOLOGY,Meta,ORG,130
+API,TECHNOLOGY,Slack,PRODUCT,130
+Artificial Intelligence,TECHNOLOGY,SDK,ORG,130
+Data,ORG,Validation & Publishing: Validation,ORG,130
+Data,ORG,Trelleborg,ORG,130
+Data,ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,130
+India,GPE,Russia,GPE,129
+Trump,PERSON,the Privacy Policy and Terms of Use,ORG,129
+Los Angeles,GPE,Trump,PERSON,129
+M & A,ORG,United States,GPE,129
+Artificial Intelligence,TECHNOLOGY,RBAC,ORG,129
+Artificial Intelligence,TECHNOLOGY,Ireland,GPE,129
+The Associated Press,ORG,Washington,GPE,129
+Instagram,PRODUCT,TikTok,ORG,129
+AGI,ORG,OpenAI,ORG,129
+Netherlands,GPE,United States,GPE,128
+Biden,PERSON,Ukraine,GPE,128
+Android,PRODUCT,United States,GPE,128
+New York,GPE,OpenAI,ORG,128
+Treasury,ORG,United States,GPE,128
+China,GPE,Mexico,GPE,128
+Google,ORG,Instagram,PRODUCT,127
+Google,ORG,Texas,GPE,127
+Poland,GPE,United States,GPE,127
+Pete Hegseth,PERSON,Trump,PERSON,127
+SEO,ORG,Search Engine Journal,ORG,127
+Generative AI,TECHNOLOGY,Large Language Model,TECHNOLOGY,127
+Artificial Intelligence,TECHNOLOGY,MLOps,ORG,127
+European Union,ORG,Meta,ORG,127
+America,GPE,Texas,GPE,127
+New York,GPE,United Kingdom,GPE,127
+California,GPE,European Union,ORG,127
+Los Angeles,GPE,New York,GPE,127
+Artificial Intelligence,TECHNOLOGY,Big Tech,ORG,126
+Business Information Services,ORG,Data,ORG,126
+Artificial Intelligence,TECHNOLOGY,Dario Amodei,PERSON,126
+Artificial Intelligence,TECHNOLOGY,MIT Technology Review,ORG,126
+Artificial Intelligence,TECHNOLOGY,the Center for Strategic and International Studies,ORG,126
+Artificial Intelligence,TECHNOLOGY,Docker,PERSON,126
+Germany,GPE,Ukraine,GPE,126
+United States,GPE,Vladimir Putin,PERSON,126
+DeepSeek,PRODUCT,Google,ORG,126
+CSIS,ORG,The United States,GPE,126
+Washington,GPE,the Privacy Policy and Terms of Use,ORG,125
+D.C.,GPE,Russia,GPE,125
+Trump,PERSON,"Washington, DC",GPE,125
+Canada,GPE,New York,GPE,125
+Mexico,GPE,Trump,PERSON,125
+Artificial Intelligence,TECHNOLOGY,Llama,PRODUCT,125
+Russia,GPE,Senate,ORG,125
+Data,ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,125
+Large Language Model,TECHNOLOGY,UI,ORG,125
+Google,ORG,London,GPE,125
+Defense,ORG,United States,GPE,125
+Russia,GPE,the White House,ORG,124
+Google,ORG,IP,ORG,124
+California,GPE,Gavin Newsom,PERSON,124
+China,GPE,Italy,GPE,124
+Congress,ORG,Ukraine,GPE,124
+Germany,GPE,Microsoft,ORG,124
+Machine Learning,TECHNOLOGY,OpenAI,ORG,123
+Australia,GPE,Trump,PERSON,123
+Hong Kong,GPE,United States,GPE,123
+Putin,PERSON,United States,GPE,123
+The White House,ORG,Trump,PERSON,123
+Norway,GPE,United States,GPE,123
+JD Vance,PERSON,United States,GPE,123
+California,GPE,the White House,ORG,123
+Artificial Intelligence,TECHNOLOGY,Red Hat,ORG,123
+Taiwan,GPE,Washington,GPE,123
+China,GPE,"Washington, DC",GPE,122
+India,GPE,Microsoft,ORG,122
+Amazon,ORG,Canada,GPE,122
+California,GPE,United Kingdom,GPE,122
+Russia,GPE,the Center for Strategic and International Studies,ORG,122
+Alpha Brand Media,ORG,Google,ORG,122
+London,GPE,Trump,PERSON,122
+API,TECHNOLOGY,DevOps,ORG,122
+France,GPE,South Korea,GPE,122
+China,GPE,the United Kingdom,GPE,121
+Claude,MODEL,Trump,PERSON,121
+Artificial Intelligence,TECHNOLOGY,Boston,GPE,121
+FREE,ORG,United States,GPE,121
+Model Context Protocol,STANDARD,UI,ORG,121
+GPU,TECHNOLOGY,Microsoft,ORG,121
+Artificial Intelligence,TECHNOLOGY,Musk,PERSON,121
+Meta,ORG,TikTok,ORG,121
+Artificial Intelligence,TECHNOLOGY,Austin,GPE,121
+Donald Trump’s,PERSON,United States,GPE,121
+Putin,PERSON,Russia,GPE,121
+Artificial Intelligence,TECHNOLOGY,Berlin,GPE,121
+Google,ORG,the White House,ORG,121
+The United States,GPE,Ukraine,GPE,120
+Congress,ORG,White House,ORG,120
+Google,ORG,Reddit,GPE,120
+FTC,REGULATOR,Google,ORG,120
+DEV,ORG,Google,ORG,120
+Copilot,ORG,Microsoft,ORG,120
+Hamas,ORG,United States,GPE,120
+API,TECHNOLOGY,IP,ORG,120
+Forem,PERSON,Google,ORG,120
+Google,ORG,Ukraine,GPE,120
+Arizona,GPE,United States,GPE,120
+Artificial Intelligence,TECHNOLOGY,Norway,GPE,120
+House,ORG,Russia,GPE,120
+California,GPE,Florida,GPE,120
+Biden,PERSON,OpenAI,ORG,120
+Beijing,GPE,Ukraine,GPE,120
+IPO,ORG,United States,GPE,120
+Congress,ORG,Texas,GPE,120
+Artificial Intelligence,TECHNOLOGY,CNN,ORG,120
+Artificial Intelligence,TECHNOLOGY,Kafka,PERSON,119
+EU AI Act,LAW,the European Union,ORG,119
+Japan,GPE,Russia,GPE,119
+AP,ORG,Washington,GPE,119
+Huawei,ORG,United States,GPE,119
+Google,ORG,Perplexity,ORG,119
+Alpha Brand Media,ORG,SEO,ORG,119
+Canada,GPE,Ukraine,GPE,119
+JD Vance,PERSON,Trump,PERSON,119
+Moscow,GPE,Trump,PERSON,119
+Artificial Intelligence,TECHNOLOGY,Red Hat,PERSON,119
+ERP,TECHNOLOGY,Workday Digital ID,ORG,119
+ERP,TECHNOLOGY,ERP/GL,ORG,119
+Elon Musk,PERSON,Microsoft,ORG,119
+GitLab,ORG,United States,GPE,119
+GPT-4,PERSON,OpenAI,ORG,119
+ERP/GL,ORG,Workday Digital ID,ORG,119
+OpenAI,ORG,Pentagon,ORG,119
+D.C.,GPE,the Center for Strategic and International Studies,ORG,118
+Artificial Intelligence,TECHNOLOGY,CIO,ORG,118
+Russia,GPE,Vladimir Putin,PERSON,118
+DC,GPE,Washington,GPE,118
+Ukraine,GPE,United Kingdom,GPE,118
+The United States,GPE,the Center for Strategic and International Studies,ORG,118
+Artificial Intelligence,TECHNOLOGY,Claude Code,PERSON,118
+Joe Biden,PERSON,Washington,GPE,118
+Factiva,ORG,United States,GPE,118
+Artificial Intelligence,TECHNOLOGY,Microsoft Azure,ORG,118
+FTC,REGULATOR,Trump,PERSON,118
+Japan,GPE,Microsoft,ORG,118
+China,GPE,NATO,ORG,118
+America,GPE,Israel,GPE,118
+CRM,TECHNOLOGY,ERP,TECHNOLOGY,118
+Artificial Intelligence,TECHNOLOGY,State,ORG,118
+Instagram,PRODUCT,Meta,ORG,117
+Artificial Intelligence,TECHNOLOGY,Wikipedia,ORG,117
+Artificial Intelligence,TECHNOLOGY,FREE,ORG,117
+Artificial Intelligence,TECHNOLOGY,New Zealand,GPE,117
+API,TECHNOLOGY,SQL,TECHNOLOGY,117
+Biden,PERSON,Canada,GPE,117
+Google,ORG,SEJ,ORG,117
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,United States,GPE,116
+OpenAI,ORG,TikTok,ORG,116
+SkyQuest Technology,ORG,United States,GPE,116
+Artificial Intelligence,TECHNOLOGY,NATO,ORG,116
+France,GPE,Ukraine,GPE,116
+KPMG,ORG,United States,GPE,116
+Artificial Intelligence,TECHNOLOGY,Jensen Huang,PERSON,116
+Grok,PERSON,OpenAI,ORG,116
+Trelleborg,ORG,United States,GPE,116
+Luca Giovannini,PERSON,United States,GPE,116
+Skyquest Team,ORG,United States,GPE,116
+Meta,ORG,United Kingdom,GPE,116
+NATO,ORG,Trump,PERSON,116
+Correlates,GPE,Validation & Publishing: Validation,ORG,115
+Correlates,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,115
+Correlates,GPE,Skyquest Team,ORG,115
+Correlates,GPE,Validation & re-validation,ORG,115
+Microsoft,ORG,San Francisco,GPE,115
+SkyQuest,ORG,United States,GPE,115
+Artificial Intelligence,TECHNOLOGY,Graham Holdings Company,ORG,115
+Iran,GPE,the White House,ORG,115
+Correlates,GPE,Hoover,PERSON,115
+Correlates,GPE,Market players & comparative,ORG,115
+Collates,GPE,Trelleborg,ORG,115
+Artificial Intelligence,TECHNOLOGY,Britain,GPE,115
+Musk,PERSON,United States,GPE,115
+Correlates,GPE,FREE,ORG,115
+Collates,GPE,Market players & comparative,ORG,115
+Collates,GPE,Luca Giovannini,PERSON,115
+Collates,GPE,Globally,ORG,115
+Collates,GPE,Correlates,GPE,115
+Collates,GPE,Hoover,PERSON,115
+Collates,GPE,Factiva,ORG,115
+Collates,GPE,FREE,ORG,115
+Bloomberg Business,ORG,Correlates,GPE,115
+Collates,GPE,SkyQuest Technology,ORG,115
+Collates,GPE,Validation & Publishing: Validation,ORG,115
+Collates,GPE,Validation & re-validation,ORG,115
+Collates,GPE,Primary Exploratory Research,ORG,115
+Collates,GPE,Quality Assurance,ORG,115
+Globally,ORG,United States,GPE,115
+China,GPE,Huawei,ORG,115
+Bloomberg Business,ORG,Collates,GPE,115
+Correlates,GPE,Factiva,ORG,115
+Collates,GPE,SkyQuest,ORG,115
+Amazon,ORG,European Union,ORG,115
+Bloomberg Business,ORG,United States,GPE,115
+Hoover,PERSON,United States,GPE,115
+Market players & comparative,ORG,United States,GPE,115
+Google,ORG,Pentagon,ORG,115
+United States,GPE,Validation & re-validation,ORG,115
+Moscow,GPE,Washington,GPE,115
+Quality Assurance,ORG,United States,GPE,115
+United States,GPE,Validation & Publishing: Validation,ORG,115
+Correlates,GPE,SkyQuest,ORG,115
+Correlates,GPE,Quality Assurance,ORG,115
+Collates,GPE,Skyquest Team,ORG,115
+Correlates,GPE,SkyQuest Technology,ORG,115
+Artificial Intelligence,TECHNOLOGY,Guardian,ORG,115
+Correlates,GPE,Primary Exploratory Research,ORG,115
+Correlates,GPE,Luca Giovannini,PERSON,115
+Correlates,GPE,Globally,ORG,115
+Seattle,GPE,United States,GPE,115
+United States,GPE,Virginia,GPE,115
+Correlates,GPE,Trelleborg,ORG,115
+Collates,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,115
+Artificial Intelligence,TECHNOLOGY,HTML,ORG,114
+America,GPE,Elon Musk,PERSON,114
+Artificial Intelligence,TECHNOLOGY,metadata,PERSON,114
+Armed Forces,ORG,United States,GPE,114
+3D,ORG,Artificial Intelligence,TECHNOLOGY,114
+Artificial Intelligence,TECHNOLOGY,FP,ORG,114
+Senate,ORG,the White House,ORG,114
+Brussels,GPE,United States,GPE,114
+Artificial Intelligence,TECHNOLOGY,fed,ORG,114
+SEJ,ORG,SEO,ORG,114
+Sweden,GPE,United States,GPE,114
+Mark Zuckerberg,PERSON,Meta,ORG,114
+Google,ORG,Senate,ORG,114
+Artificial Intelligence,TECHNOLOGY,EV,ORG,114
+Biden,PERSON,Iran,GPE,114
+Artificial Intelligence,TECHNOLOGY,Gaza,GPE,113
+Google,ORG,Twitter,PERSON,113
+California,GPE,FTC,REGULATOR,113
+China,GPE,Paris,GPE,113
+Artificial Intelligence,TECHNOLOGY,Factiva,ORG,113
+Australia,GPE,Washington,GPE,113
+Minnesota,GPE,United States,GPE,113
+Primary Exploratory Research,ORG,United States,GPE,113
+Canada,GPE,Microsoft,ORG,113
+Amazon,ORG,Biden,PERSON,113
+China,GPE,Graham Digital Holding Company,PERSON,113
+OpenAI,ORG,YouTube,PRODUCT,113
+England,GPE,United States,GPE,113
+European Union,ORG,Ukraine,GPE,112
+Anthropic,ORG,Trump,PERSON,112
+Business Information Services,ORG,Correlates,GPE,112
+Business Information Services,ORG,Collates,GPE,112
+Artificial Intelligence,TECHNOLOGY,ERP/GL,ORG,112
+Artificial Intelligence,TECHNOLOGY,Workday Digital ID,ORG,112
+Boston,GPE,United States,GPE,112
+Artificial Intelligence,TECHNOLOGY,Bias,PERSON,112
+API,TECHNOLOGY,Amazon,ORG,112
+Trump,PERSON,Xi Jinping,PERSON,112
+California,GPE,New York City,GPE,112
+NATO,ORG,Washington,GPE,111
+Artificial Intelligence,TECHNOLOGY,SkyQuest Technology Consulting Pvt. Ltd.,ORG,111
+Artificial Intelligence,TECHNOLOGY,SkyQuest Technology,ORG,111
+Artificial Intelligence,TECHNOLOGY,Trelleborg,ORG,111
+Artificial Intelligence,TECHNOLOGY,Luca Giovannini,PERSON,111
+Artificial Intelligence,TECHNOLOGY,Skyquest Team,ORG,111
+FBI,ORG,New York,GPE,111
+Artificial Intelligence,TECHNOLOGY,DC,GPE,111
+CI,ORG,DevOps,ORG,111
+Fortune Media IP Limited,ORG,United States,GPE,111
+NFL,ORG,United States,GPE,111
+Microsoft,ORG,Sam Altman,PERSON,111
+Collates,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,111
+Recruitment Privacy Policy,ORG,United States,GPE,111
+Correlates,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,111
+Samsung,ORG,United States,GPE,111
+CNN,ORG,United States,GPE,111
+France,GPE,Italy,GPE,110
+CPU,ORG,GPU,TECHNOLOGY,110
+Artificial Intelligence,TECHNOLOGY,BBC,ORG,110
+France,GPE,Paris,GPE,110
+Washington,GPE,the European Union,ORG,110
+Amazon,ORG,Russia,GPE,110
+OpenAI,ORG,Texas,GPE,110
+Healthcare,ORG,United States,GPE,110
+United States,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,110
+Congress,ORG,D.C.,GPE,110
+Biden,PERSON,Joe Biden,PERSON,110
+Artificial Intelligence,TECHNOLOGY,Oracle,PERSON,110
+South Korea,GPE,United Kingdom,GPE,110
+Turkey,GPE,United States,GPE,110
+United States,GPE,the Intelligent Orchestration Platform,ORG,110
+Linux,TECHNOLOGY,Red Hat,ORG,110
+Tehran,GPE,United States,GPE,110
+Business Information Services,ORG,United States,GPE,110
+AI Overviews,ORG,Artificial Intelligence,TECHNOLOGY,109
+Artificial Intelligence,TECHNOLOGY,TrueFoundry,ORG,109
+China,GPE,Moscow,GPE,109
+Artificial Intelligence,TECHNOLOGY,Finance,ORG,109
+Artificial Intelligence,TECHNOLOGY,Oracle,ORG,109
+Elon Musk,PERSON,Meta,ORG,109
+Google,ORG,WhatsApp,ORG,109
+Musk,PERSON,Trump,PERSON,109
+Australia,GPE,Google,ORG,109
+Artificial Intelligence,TECHNOLOGY,the Fortune 500,LAW,109
+New York,GPE,the White House,ORG,109
+Artificial Intelligence,TECHNOLOGY,Quality Assurance,ORG,109
+Artificial Intelligence,TECHNOLOGY,Replit,PERSON,109
+New Zealand,GPE,United States,GPE,109
+Elon Musk,PERSON,Musk,PERSON,109
+European Union,ORG,London,GPE,109
+Ireland,GPE,United States,GPE,109
+Georgia,GPE,United States,GPE,109
+Gartner Hype Cycle,ORG,TrueFoundry,ORG,108
+Apple,ORG,European Union,ORG,108
+North Carolina,GPE,United States,GPE,108
+Red Hat,ORG,Red Hat,PERSON,108
+Center for Strategic & International Studies,ORG,Russia,GPE,108
+MCPs & Agents,ORG,VAR & VAD,ORG,108
+Florida,GPE,New York,GPE,108
+MCPs & Agents,ORG,TrueFoundry,ORG,108
+Artificial Intelligence,TECHNOLOGY,Center for Strategic & International Studies,ORG,108
+TrueFoundry,ORG,VAR & VAD,ORG,108
+Gartner Hype Cycle,ORG,VAR & VAD,ORG,108
+Artificial Intelligence,TECHNOLOGY,Validation & re-validation,ORG,108
+Artificial Intelligence,TECHNOLOGY,SkyQuest,ORG,108
+Artificial Intelligence,TECHNOLOGY,Validation & Publishing: Validation,ORG,108
+Artificial Intelligence,TECHNOLOGY,Globally,ORG,108
+EV,ORG,United States,GPE,108
+ERP,TECHNOLOGY,United States,GPE,108
+API,TECHNOLOGY,CPU,ORG,108
+Germany,GPE,New York,GPE,108
+Gartner Hype Cycle,ORG,MCPs & Agents,ORG,108
+Graham Digital Holding Company,PERSON,Trump,PERSON,108
+Artificial Intelligence,TECHNOLOGY,South Africa,GPE,108
+Gavin Newsom,PERSON,United States,GPE,108
+Microsoft,ORG,Microsoft Edge,ORG,108
+Artificial Intelligence,TECHNOLOGY,Hoover,PERSON,108
+Putin,PERSON,Ukraine,GPE,108
+Artificial Intelligence,TECHNOLOGY,Market players & comparative,ORG,108
+Artificial Intelligence,TECHNOLOGY,Bloomberg Business,ORG,108
+Canada,GPE,Mexico,GPE,107
+Dario Amodei,PERSON,United States,GPE,107
+Artificial Intelligence,TECHNOLOGY,Google DeepMind,ORG,107
+Artificial Intelligence,TECHNOLOGY,Brussels,GPE,107
+London,GPE,New York,GPE,107
+Australia,GPE,India,GPE,107
+Artificial Intelligence,TECHNOLOGY,Primary Exploratory Research,ORG,107
+Apple,ORG,United Kingdom,GPE,107
+Artificial Intelligence,TECHNOLOGY,Poland,GPE,107
+MCPs & Agents,ORG,RPS,ORG,107
+Post,ORG,Trump,PERSON,107
+RPS,ORG,TrueFoundry,ORG,107
+Britain,GPE,United Kingdom,GPE,107
+CBS News,ORG,United States,GPE,107
+Machine Learning,TECHNOLOGY,NLP,ORG,107
+Gartner Hype Cycle,ORG,RPS,ORG,107
+Mark Zuckerberg,PERSON,United States,GPE,107
+Artificial Intelligence,TECHNOLOGY,OCR,ORG,107
+DHS,ORG,United States,GPE,107
+RPS,ORG,VAR & VAD,ORG,107
+Canada,GPE,the United Kingdom,GPE,107
+Singapore,GPE,United Kingdom,GPE,106
+Forem,PERSON,Large Language Model,TECHNOLOGY,106
+Brussels,GPE,European Union,ORG,106
+KPMG,ORG,KPMG LLP,ORG,106
+Biden,PERSON,White House,ORG,106
+Cloud,PERSON,Google,ORG,106
+Manhattan,GPE,United States,GPE,106
+New York,GPE,Ukraine,GPE,106
+America,GPE,Pentagon,ORG,106
+China,GPE,European Commission,REGULATOR,106
+Iran,GPE,Senate,ORG,106
+Meta,ORG,Washington,GPE,106
+America,GPE,Microsoft,ORG,106
+DEV,ORG,Large Language Model,TECHNOLOGY,106
+South Korea,GPE,Trump,PERSON,105
+Artificial Intelligence,TECHNOLOGY,TypeScript,ORG,105
+Trump,PERSON,Vladimir Putin,PERSON,105
+LangChain,ORG,Large Language Model,TECHNOLOGY,105
+France,GPE,New York,GPE,105
+Gaza,GPE,Ukraine,GPE,105
+KPMG International Limited,ORG,KPMG LLP,ORG,105
+Instagram,PRODUCT,Trump,PERSON,105
+India,GPE,Ukraine,GPE,105
+Artificial Intelligence,TECHNOLOGY,MCPs & Agents,ORG,105
+Iran,GPE,Tehran,GPE,105
+Artificial Intelligence,TECHNOLOGY,Cloud Console,PERSON,105
+Austin,GPE,United States,GPE,105
+Beijing,GPE,Xi Jinping,PERSON,105
+CRM,TECHNOLOGY,Google,ORG,105
+Correlates,GPE,Data,ORG,105
+Artificial Intelligence,TECHNOLOGY,Gartner Hype Cycle,ORG,105
+Collates,GPE,Data,ORG,105
+United States,GPE,https,PERSON,105
+Artificial Intelligence,TECHNOLOGY,VAR & VAD,ORG,105
+Artificial Intelligence,TECHNOLOGY,the United Nations,ORG,105
+GDPR,LAW,United Kingdom,GPE,105
+Maryland,GPE,United States,GPE,104
+Artificial Intelligence,TECHNOLOGY,the Red Hat®,ORG,104
+Linux,TECHNOLOGY,the Red Hat®,ORG,104
+the Fortune 500,LAW,the Red Hat®,ORG,104
+Amazon,ORG,France,GPE,104
+France,GPE,Microsoft,ORG,104
+Apple,ORG,California,GPE,104
+GOP,ORG,New York,GPE,104
+Artificial Intelligence,TECHNOLOGY,Saudi Arabia,GPE,104
+Marco Rubio,PERSON,United States,GPE,104
+Cloud Console,PERSON,Red Hat,ORG,104
+Red Hat,ORG,the Fortune 500,LAW,104
+Red Hat,ORG,the Red Hat®,ORG,104
+Cloud Console,PERSON,Linux,TECHNOLOGY,104
+Artificial Intelligence,TECHNOLOGY,RPS,ORG,104
+Meta,ORG,Nvidia,ORG,104
+API,TECHNOLOGY,IAM,ORG,104
+Artificial Intelligence,TECHNOLOGY,Palantir,PERSON,104
+Cloud Console,PERSON,the Fortune 500,LAW,104
+OpenAI,ORG,the White House,ORG,104
+Congress,ORG,Pentagon,ORG,104
+Linux,TECHNOLOGY,the Fortune 500,LAW,104
+Linux,TECHNOLOGY,Red Hat,PERSON,104
+Cloud Console,PERSON,the Red Hat®,ORG,104
+France,GPE,the United Kingdom,GPE,104
+Gemini,MODEL,Model Context Protocol,STANDARD,104
+SpaceX,PERSON,Trump,PERSON,103
+India,GPE,South Korea,GPE,103
+State,ORG,Washington,GPE,103
+PwC,ORG,United States,GPE,103
+Amazon,ORG,TikTok,ORG,103
+FDA,ORG,United States,GPE,103
+Massachusetts,GPE,United States,GPE,103
+Italy,GPE,United Kingdom,GPE,103
+Artificial Intelligence,TECHNOLOGY,etcCompany profileMarket dynamics & outlookRegion,ORG,103
+Ukraine,GPE,Vladimir Putin,PERSON,103
+California,GPE,Colorado,GPE,103
+Meta,ORG,YouTube,PRODUCT,103
+China,GPE,Xi,PERSON,103
+Artificial Intelligence,TECHNOLOGY,"Washington, DC",GPE,103
+CRM,TECHNOLOGY,United States,GPE,103
+Microsoft,ORG,Texas,GPE,103
+Artificial Intelligence,TECHNOLOGY,VB Daily,ORG,103
+Big Tech,ORG,United States,GPE,103
+D.C.,GPE,Ukraine,GPE,103
+Paris,GPE,Trump,PERSON,102
+Artificial Intelligence,TECHNOLOGY,BigQuery,ORG,102
+CBS News,ORG,Trump,PERSON,102
+Artificial Intelligence,TECHNOLOGY,Delaware,GPE,102
+New Jersey,GPE,United States,GPE,102
+Washington,GPE,Xi Jinping,PERSON,102
+Gaza,GPE,Washington,GPE,102
+MIT,ORG,OpenAI,ORG,102
+America,GPE,GOP,ORG,102
+America,GPE,Beijing,GPE,102
+Amazon,ORG,Nvidia,ORG,102
+Artificial Intelligence,TECHNOLOGY,Treasury,ORG,102
+Beijing,GPE,Taiwan,GPE,102
+Dario Amodei,PERSON,OpenAI,ORG,102
+Post,ORG,United States,GPE,102
+FBI,ORG,Washington,GPE,102
+China,GPE,San Francisco,GPE,102
+DeepSeek,PRODUCT,Trump,PERSON,101
+Ukraine,GPE,the White House,ORG,101
+Amazon Web Services,ORG,Microsoft,ORG,101
+API,TECHNOLOGY,LangChain,ORG,101
+Cursor,GPE,Model Context Protocol,STANDARD,101
+Defense,ORG,Trump,PERSON,101
+GOP,ORG,House,ORG,101
+America,GPE,FBI,ORG,101
+Washington,GPE,"Washington, DC",GPE,101
+Artificial Intelligence,TECHNOLOGY,Business Information Services,ORG,101
+Claude,MODEL,GitHub,PRODUCT,101
+LinkedIn,PRODUCT,Model Context Protocol,STANDARD,101
+Artificial Intelligence,TECHNOLOGY,CrowdStrike,ORG,101
+United States,GPE,Xi,PERSON,101
+Donald Trump’s,PERSON,Trump,PERSON,101
+API,TECHNOLOGY,United Kingdom,GPE,101
+Claude,MODEL,DEV,ORG,101
+Artificial Intelligence,TECHNOLOGY,Quantum,ORG,101
+France,GPE,OpenAI,ORG,101
+Artificial Intelligence,TECHNOLOGY,Huawei,ORG,101
+Claude,MODEL,Forem,PERSON,101
+Hamas,ORG,Israel,GPE,101
+Netflix,GPE,United States,GPE,101
+Center for Strategic & International Studies,ORG,D.C.,GPE,101
+China,GPE,Claude,MODEL,101
+Canada,GPE,Congress,ORG,100
+Artificial Intelligence,TECHNOLOGY,Microsoft Copilot,ORG,100
+China,GPE,Gaza,GPE,100
+Biden,PERSON,Microsoft,ORG,100
+California,GPE,FBI,ORG,100
+Red Hat,PERSON,the Fortune 500,LAW,100
+Pentagon,ORG,Russia,GPE,100
+Illinois,GPE,United States,GPE,100
+Cloud Console,PERSON,Red Hat,PERSON,100
+Cloud,PERSON,Google Cloud,PRODUCT,100
+Artificial Intelligence,TECHNOLOGY,Forbes,ORG,100
+Artificial Intelligence,TECHNOLOGY,Sweden,GPE,100
+India,GPE,Internet of Things,TECHNOLOGY,100
+Marco Rubio,PERSON,Trump,PERSON,100
+Intel,ORG,Microsoft,ORG,100
+Red Hat,PERSON,the Red Hat®,ORG,100
+FBI,ORG,Russia,GPE,100
+Anthropic,ORG,Microsoft,ORG,100
+England,GPE,London,GPE,100
+AI Overviews,ORG,Google,ORG,100
+API,TECHNOLOGY,European Union,ORG,100
+EU AI Act,LAW,Meta,ORG,100
+Beijing,GPE,Biden,PERSON,100
+GDPR,LAW,Microsoft,ORG,100
+NFL,ORG,Trump,PERSON,99
+Machine Learning,TECHNOLOGY,Microsoft,ORG,99
+Chicago,GPE,Trump,PERSON,99
+Artificial Intelligence,TECHNOLOGY,GEO,ORG,99
+BBC,ORG,United States,GPE,99
+IBM,ORG,OpenAI,ORG,99
+California,GPE,Ukraine,GPE,99
+Artificial Intelligence,TECHNOLOGY,Virginia,GPE,99
+Australia,GPE,France,GPE,99
+Amazon Web Services,ORG,United States,GPE,99
+Congress,ORG,Israel,GPE,99
+Amsterdam,GPE,Artificial Intelligence,TECHNOLOGY,99
+South Africa,GPE,United States,GPE,99
+Japan,GPE,Singapore,GPE,98
+AMD,ORG,United States,GPE,98
+EU AI Act,LAW,Trump,PERSON,98
+OpenAI,ORG,UI,ORG,98
+CSIS,ORG,Trump,PERSON,98
+America,GPE,France,GPE,98
+United Kingdom,GPE,the European Union,ORG,98
+Japan,GPE,SkyQuest Technology,ORG,98
+China,GPE,The Associated Press,ORG,98
+Google,ORG,The New York Times,ORG,98
+Generative AI,TECHNOLOGY,Google,ORG,98
+Gaza,GPE,Russia,GPE,98
+Australia,GPE,European Union,ORG,98
+Artificial Intelligence,TECHNOLOGY,Content,ORG,98
+California,GPE,Elon Musk,PERSON,98
+Israel,GPE,New York,GPE,98
+Japan,GPE,Luca Giovannini,PERSON,98
+Artificial Intelligence,TECHNOLOGY,Gavin Newsom,PERSON,98
+Senate,ORG,White House,ORG,98
+CSIS,ORG,Ukraine,GPE,98
+Japan,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,98
+GOP,ORG,Senate,ORG,98
+Japan,GPE,Skyquest Team,ORG,98
+Japan,GPE,Trelleborg,ORG,98
+The New York Times,ORG,Trump,PERSON,98
+Grok,PERSON,Trump,PERSON,98
+AGI,ORG,United States,GPE,98
+House,ORG,Iran,GPE,98
+United States,GPE,the United Nations,ORG,98
+FREE,ORG,Japan,GPE,98
+Instagram,PRODUCT,YouTube,PRODUCT,98
+Congress,ORG,The United States,GPE,98
+GOP,ORG,Washington,GPE,98
+Reuters,ORG,Trump,PERSON,98
+Graham Digital Holding Company,PERSON,Washington,GPE,97
+Japan,GPE,Quality Assurance,ORG,97
+Japan,GPE,Market players & comparative,ORG,97
+Japan,GPE,SkyQuest,ORG,97
+Center for Strategic & International Studies,ORG,The United States,GPE,97
+Germany,GPE,London,GPE,97
+API,TECHNOLOGY,RBAC,ORG,97
+Senate,ORG,Texas,GPE,97
+Hoover,PERSON,Japan,GPE,97
+Indonesia,GPE,United States,GPE,97
+Globally,ORG,Japan,GPE,97
+Australia,GPE,Germany,GPE,97
+Google,ORG,Grok,PERSON,97
+Artificial Intelligence,TECHNOLOGY,React,GPE,97
+Pennsylvania,GPE,United States,GPE,97
+Cursor,GPE,OpenAI,ORG,97
+Bloomberg Business,ORG,Japan,GPE,97
+China,GPE,State,ORG,97
+Germany,GPE,Spain,GPE,97
+Australia,GPE,New Zealand,GPE,97
+Data,ORG,Japan,GPE,97
+ERP,TECHNOLOGY,YouTube,PRODUCT,97
+Japan,GPE,Validation & re-validation,ORG,97
+Japan,GPE,Validation & Publishing: Validation,ORG,97
+Factiva,ORG,Japan,GPE,97
+CNBC,ORG,Trump,PERSON,97
+Cursor,GPE,Large Language Model,TECHNOLOGY,97
+GDPR,LAW,Large Language Model,TECHNOLOGY,97
+Britain,GPE,China,GPE,97
+Japan,GPE,Ukraine,GPE,97
+Japan,GPE,Primary Exploratory Research,ORG,96
+Brazil,GPE,India,GPE,96
+United States,GPE,Venezuela,GPE,96
+GDPR,LAW,OpenAI,ORG,96
+London,GPE,OpenAI,ORG,96
+Japan,GPE,The United States,GPE,96
+Google,ORG,House,ORG,96
+Artificial Intelligence,TECHNOLOGY,Spotify,GPE,96
+Spain,GPE,United Kingdom,GPE,96
+Google,ORG,MIT,ORG,96
+Navy,ORG,United States,GPE,96
+Minnesota,GPE,Trump,PERSON,96
+America,GPE,The United States,GPE,96
+California,GPE,GOP,ORG,96
+Brazil,GPE,Trump,PERSON,96
+OpenAI,ORG,Russia,GPE,96
+GitHub,PRODUCT,UI,ORG,96
+Canada,GPE,OpenAI,ORG,96
+United Kingdom,GPE,Washington,GPE,96
+Artificial Intelligence,TECHNOLOGY,KYC,ORG,96
+Florida,GPE,Texas,GPE,96
+NASA,ORG,Trump,PERSON,96
+United States,GPE,the Department of Defense,ORG,96
+AI Agents,ORG,Artificial Intelligence,TECHNOLOGY,96
+Amazon,ORG,Claude,MODEL,96
+Graham Holdings Company,ORG,Russia,GPE,95
+Generative AI,TECHNOLOGY,OpenAI,ORG,95
+House,ORG,the White House,ORG,95
+Artificial Intelligence,TECHNOLOGY,Collates,GPE,95
+AWS,ORG,Google Cloud,PRODUCT,95
+Artificial Intelligence,TECHNOLOGY,Correlates,GPE,95
+Business Information Services,ORG,Japan,GPE,95
+Nvidia,ORG,Washington,GPE,95
+South Korea,GPE,Washington,GPE,95
+Gemini,MODEL,Google Cloud,PRODUCT,95
+Pentagon,ORG,Ukraine,GPE,95
+Hollywood,GPE,Trump,PERSON,95
+Beijing,GPE,The United States,GPE,95
+Hamas,ORG,Trump,PERSON,95
+Japan,GPE,the United Kingdom,GPE,95
+China,GPE,Saudi Arabia,GPE,95
+Japan,GPE,Taiwan,GPE,95
+California,GPE,India,GPE,95
+D.C.,GPE,The United States,GPE,95
+Forem,PERSON,GitHub,PRODUCT,94
+Iraq,GPE,United States,GPE,94
+Treasury,ORG,Trump,PERSON,94
+API,TECHNOLOGY,SDK,ORG,94
+Artificial Intelligence,TECHNOLOGY,Netguru,GPE,94
+America,GPE,India,GPE,94
+GPT-4,PERSON,Large Language Model,TECHNOLOGY,94
+Beijing,GPE,Japan,GPE,94
+Artificial Intelligence,TECHNOLOGY,VentureBeat,ORG,94
+Artificial Intelligence,TECHNOLOGY,SOC,ORG,94
+Russia,GPE,White House,ORG,94
+EU AI Act,LAW,European Commission,REGULATOR,94
+Putin,PERSON,Trump,PERSON,94
+Artificial Intelligence,TECHNOLOGY,IDE,ORG,94
+Gemini,MODEL,SEO,ORG,94
+IP,ORG,Microsoft,ORG,94
+Pentagon,ORG,Pete Hegseth,PERSON,94
+China,GPE,Reuters,ORG,94
+America,GPE,Japan,GPE,94
+European Commission,REGULATOR,the European Union,ORG,94
+Congress,ORG,Microsoft,ORG,94
+California,GPE,France,GPE,94
+China,GPE,Sam Altman,PERSON,94
+Artificial Intelligence,TECHNOLOGY,Microsoft Edge,ORG,94
+Microsoft,ORG,YouTube,PRODUCT,94
+Los Angeles,GPE,San Francisco,GPE,94
+GPT,ORG,Large Language Model,TECHNOLOGY,94
+Beijing,GPE,Graham Holdings Company,ORG,94
+CSIS,ORG,Congress,ORG,93
+Gavin Newsom,PERSON,Trump,PERSON,93
+Washington,GPE,the United Kingdom,GPE,93
+DEV,ORG,GitHub,PRODUCT,93
+Germany,GPE,the United Kingdom,GPE,93
+America,GPE,Florida,GPE,93
+API,TECHNOLOGY,IBM,ORG,93
+Taiwan,GPE,Ukraine,GPE,93
+United Kingdom,GPE,the United Kingdom,GPE,93
+Claude,MODEL,Cursor,GPE,93
+Correlates,GPE,United States,GPE,93
+NBA,ORG,United States,GPE,93
+FP,ORG,Russia,GPE,93
+Claude,MODEL,Meta,ORG,93
+Collates,GPE,United States,GPE,93
+GPT,ORG,Google,ORG,93
+China,GPE,Florida,GPE,93
+Artificial Intelligence,TECHNOLOGY,Google’s Gemini,ORG,93
+Artificial Intelligence,TECHNOLOGY,The White House,ORG,92
+Russia,GPE,Taiwan,GPE,92
+Manhattan,GPE,New York,GPE,92
+Ohio,GPE,United States,GPE,92
+Japan,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,92
+Terms of Service,ORG,YouTube,PRODUCT,92
+Microsoft,ORG,TikTok,ORG,92
+Las Vegas,GPE,United States,GPE,92
+Meta,ORG,Sam Altman,PERSON,92
+India,GPE,Singapore,GPE,92
+CI,ORG,Kubernetes,TECHNOLOGY,92
+Microsoft,ORG,Russia,GPE,92
+Artificial Intelligence,TECHNOLOGY,Stanford University,ORG,92
+Russia,GPE,the European Union,ORG,92
+DC,GPE,NWWashington,GPE,92
+France,GPE,Iran,GPE,92
+Miami,GPE,United States,GPE,92
+Cursor,GPE,Google,ORG,92
+Beijing,GPE,FP,ORG,92
+Artificial Intelligence,TECHNOLOGY,Toronto,GPE,92
+Germany,GPE,the European Union,ORG,92
+Stanford,ORG,United States,GPE,91
+Biden,PERSON,The United States,GPE,91
+Artificial Intelligence,TECHNOLOGY,mobile apps,PERSON,91
+AWS,ORG,OpenAI,ORG,91
+Biden,PERSON,Texas,GPE,91
+Elon Musk,PERSON,Tesla,ORG,91
+Artificial Intelligence,TECHNOLOGY,Indonesia,GPE,91
+Arizona,GPE,Artificial Intelligence,TECHNOLOGY,91
+Google,ORG,Intel,ORG,91
+Hugging Face,ORG,OpenAI,ORG,91
+Amazon,ORG,Elon Musk,PERSON,91
+Artificial Intelligence,TECHNOLOGY,Maryland,GPE,91
+America,GPE,Germany,GPE,91
+France,GPE,Spain,GPE,91
+AP,ORG,China,GPE,91
+GDPR,LAW,Machine Learning,TECHNOLOGY,91
+Artificial Intelligence,TECHNOLOGY,CBS News,ORG,91
+Beijing,GPE,Iran,GPE,91
+Guardian,ORG,United States,GPE,90
+Biden,PERSON,CSIS,ORG,90
+Artificial Intelligence,TECHNOLOGY,North Carolina,GPE,90
+Google,ORG,Israel,GPE,90
+API,TECHNOLOGY,Kafka,PERSON,90
+America,GPE,Meta,ORG,90
+London,GPE,Microsoft,ORG,90
+SEO,ORG,United States,GPE,90
+Artificial Intelligence,TECHNOLOGY,GOP,ORG,90
+Canada,GPE,FREE,ORG,90
+API,TECHNOLOGY,GPT,ORG,90
+CSIS,ORG,DC,GPE,90
+Ukraine,GPE,Ukrainian,GPE,90
+Elon Musk,PERSON,Sam Altman,PERSON,90
+Trump,PERSON,WhatsApp,ORG,90
+Canada,GPE,Iran,GPE,90
+America,GPE,Joe Biden,PERSON,90
+Elon Musk,PERSON,Washington,GPE,90
+Google,ORG,NASA,ORG,90
+AGI,ORG,Google,ORG,90
+DHS,ORG,Trump,PERSON,90
+Adobe,ORG,Artificial Intelligence,TECHNOLOGY,90
+Google,ORG,SpaceX,PERSON,90
+Artificial Intelligence,TECHNOLOGY,Calif.,GPE,90
+Google,ORG,Reuters,ORG,89
+GitHub,PRODUCT,United States,GPE,89
+Manhattan,GPE,Trump,PERSON,89
+Britain,GPE,Trump,PERSON,89
+Amazon,ORG,India,GPE,89
+CI,ORG,GitHub,PRODUCT,89
+Artificial Intelligence,TECHNOLOGY,VC,PRODUCT,89
+Google,ORG,New York City,GPE,89
+Artificial Intelligence,TECHNOLOGY,Microsoft 365,ORG,89
+API,TECHNOLOGY,TrueFoundry,ORG,89
+Artificial Intelligence,TECHNOLOGY,Databricks,GPE,89
+DOGE,ORG,Trump,PERSON,89
+Artificial Intelligence,TECHNOLOGY,LangGraph,ORG,89
+Artificial Intelligence,TECHNOLOGY,the World Economic Forum,ORG,89
+Arizona,GPE,Trump,PERSON,89
+North Korea,GPE,United States,GPE,89
+Reddit,GPE,United States,GPE,89
+Canada,GPE,Luca Giovannini,PERSON,89
+Canada,GPE,SkyQuest Technology,ORG,89
+Canada,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,89
+Canada,GPE,Skyquest Team,ORG,89
+CLI,ORG,Model Context Protocol,STANDARD,89
+Canada,GPE,Trelleborg,ORG,89
+Artificial Intelligence,TECHNOLOGY,GCP,ORG,89
+Russia,GPE,Texas,GPE,89
+Australia,GPE,Singapore,GPE,89
+Internet of Things,TECHNOLOGY,Machine Learning,TECHNOLOGY,89
+Amazon Web Services,ORG,Google,ORG,89
+China,GPE,Intel,ORG,89
+Gaza,GPE,Hamas,ORG,88
+Artificial Intelligence,TECHNOLOGY,KPMG LLP,ORG,88
+CLI,ORG,GitHub,PRODUCT,88
+Ernst & Young Global Limited,ORG,United States,GPE,88
+Saudi Arabia,GPE,Trump,PERSON,88
+Pentagon,ORG,the White House,ORG,88
+Iran,GPE,Texas,GPE,88
+API,TECHNOLOGY,Java,PERSON,88
+API,TECHNOLOGY,SEO,ORG,88
+Artificial Intelligence,TECHNOLOGY,PayPal,ORG,88
+Canada,GPE,Validation & re-validation,ORG,88
+California,GPE,SpaceX,PERSON,88
+Canada,GPE,Globally,ORG,88
+Canada,GPE,Hoover,PERSON,88
+FBI,ORG,Iran,GPE,88
+Canada,GPE,Factiva,ORG,88
+Artificial Intelligence,TECHNOLOGY,Meta’s,ORG,88
+Canada,GPE,Validation & Publishing: Validation,ORG,88
+Canada,GPE,SkyQuest,ORG,88
+Canada,GPE,Quality Assurance,ORG,88
+Graham Holdings Company,ORG,Ukraine,GPE,88
+Canada,GPE,Market players & comparative,ORG,88
+CNN,ORG,Trump,PERSON,88
+Bloomberg Business,ORG,Canada,GPE,88
+Artificial Intelligence,TECHNOLOGY,Gmail,PERSON,88
+Congress,ORG,GOP,ORG,88
+CRM,TECHNOLOGY,SEO,ORG,88
+D.C.,GPE,Iran,GPE,88
+California,GPE,TikTok,ORG,88
+Artificial Intelligence,TECHNOLOGY,the Privacy Policy and Terms of Use,ORG,88
+Iran,GPE,The United States,GPE,87
+FP,ORG,Ukraine,GPE,87
+New Jersey,GPE,Trump,PERSON,87
+Artificial Intelligence,TECHNOLOGY,Cambridge,GPE,87
+Ireland,GPE,United Kingdom,GPE,87
+Texas,GPE,the White House,ORG,87
+API,TECHNOLOGY,MCPs & Agents,ORG,87
+China,GPE,Hong Kong,GPE,87
+API,TECHNOLOGY,VAR & VAD,ORG,87
+Paris,GPE,United Kingdom,GPE,87
+ERP/GL,ORG,YouTube,PRODUCT,87
+ERP/GL,ORG,Terms of Service,ORG,87
+Artificial Intelligence,TECHNOLOGY,Harvard,ORG,87
+ERP,TECHNOLOGY,Terms of Service,ORG,87
+China,GPE,Spain,GPE,87
+Internet of Things,TECHNOLOGY,Microsoft,ORG,87
+Michigan,GPE,United States,GPE,87
+Alphabet,ORG,Artificial Intelligence,TECHNOLOGY,87
+Marco Rubio,PERSON,State,ORG,87
+Artificial Intelligence,TECHNOLOGY,Jira,PERSON,87
+API,TECHNOLOGY,Meta,ORG,87
+Tehran,GPE,Trump,PERSON,87
+AWS,ORG,Large Language Model,TECHNOLOGY,87
+Workday Digital ID,ORG,YouTube,PRODUCT,87
+Russia,GPE,the Privacy Policy and Terms of Use,ORG,87
+API,TECHNOLOGY,Gartner Hype Cycle,ORG,87
+Terms of Service,ORG,Workday Digital ID,ORG,87
+New York,GPE,Post,ORG,87
+UI,ORG,United States,GPE,86
+Canada,GPE,Italy,GPE,86
+Senate,ORG,Ukraine,GPE,86
+CFO,ORG,United States,GPE,86
+Delaware,GPE,KPMG,ORG,86
+Pakistan,GPE,United States,GPE,86
+Trump,PERSON,the Center for Strategic and International Studies,ORG,86
+DEV,ORG,Model Context Protocol,STANDARD,86
+Forem,PERSON,Model Context Protocol,STANDARD,86
+GitHub,PRODUCT,LinkedIn,PRODUCT,86
+GPT,ORG,United States,GPE,86
+Delaware,GPE,KPMG International Limited,ORG,86
+Apple,ORG,New York,GPE,86
+China,GPE,FBI,ORG,86
+Delaware,GPE,KPMG LLP,ORG,86
+Artificial Intelligence,TECHNOLOGY,Walmart,ORG,86
+England,GPE,Wales,GPE,86
+Business Information Services,ORG,Canada,GPE,86
+API,TECHNOLOGY,RPS,ORG,86
+Benjamin Netanyahu,PERSON,United States,GPE,86
+America,GPE,European Union,ORG,86
+MIT Technology Review,ORG,OpenAI,ORG,86
+Artificial Intelligence,TECHNOLOGY,Malaysia,GPE,86
+China,GPE,FREE,ORG,86
+BigQuery,ORG,Google,ORG,86
+CSIS,ORG,NWWashington,GPE,86
+Canada,GPE,Data,ORG,86
+Palantir,PERSON,United States,GPE,86
+Canada,GPE,Primary Exploratory Research,ORG,86
+New York,GPE,White House,ORG,86
+Russia,GPE,State,ORG,86
+Google,ORG,Samsung,ORG,86
+Biden,PERSON,Elon Musk,PERSON,86
+California,GPE,NASA,ORG,86
+Chicago,GPE,New York,GPE,85
+Artificial Intelligence,TECHNOLOGY,Tech,ORG,85
+United States,GPE,the United Arab Emirates,GPE,85
+Amazon,ORG,Congress,ORG,85
+Press Office,ORG,section 10.37,LAW,85
+Artificial Intelligence,TECHNOLOGY,Telegram,ORG,85
+Press Office,ORG,Treasury Department Circular,ORG,85
+House,ORG,Ukraine,GPE,85
+Trump,PERSON,the United Kingdom,GPE,85
+LLC,ORG,Share My Personal Information,ORG,85
+China,GPE,Luca Giovannini,PERSON,85
+CNBC,ORG,OpenAI,ORG,85
+CNBC,ORG,Google,ORG,85
+Artificial Intelligence,TECHNOLOGY,the New York Times,ORG,85
+KPMG,ORG,Treasury Department Circular,ORG,85
+KPMG,ORG,Press Office,ORG,85
+China,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,85
+China,GPE,Vladimir Putin,PERSON,85
+House,ORG,White House,ORG,85
+KPMG LLP,ORG,Press Office,ORG,85
+KPMG LLP,ORG,Treasury Department Circular,ORG,85
+KPMG LLP,ORG,section 10.37,LAW,85
+China,GPE,SkyQuest Technology,ORG,85
+Mexico,GPE,Washington,GPE,85
+TikTok,ORG,Washington,GPE,85
+Artificial Intelligence,TECHNOLOGY,Massachusetts,GPE,85
+China,GPE,UN,ORG,85
+California,GPE,Chicago,GPE,85
+Kremlin,ORG,Russia,GPE,85
+Afghanistan,GPE,United States,GPE,85
+China,GPE,Skyquest Team,ORG,85
+Artificial Intelligence,TECHNOLOGY,Cloudflare,ORG,85
+China,GPE,Trelleborg,ORG,85
+China,GPE,Los Angeles,GPE,85
+China,GPE,Factiva,ORG,85
+Japan,GPE,OpenAI,ORG,85
+Trump,PERSON,Trump’s,ORG,85
+Artificial Intelligence,TECHNOLOGY,NIST AI RMF,STANDARD,85
+KPMG International Limited,ORG,Treasury Department Circular,ORG,85
+KPMG International Limited,ORG,section 10.37,LAW,85
+Treasury Department Circular,ORG,section 10.37,LAW,85
+Delaware,GPE,section 10.37,LAW,85
+Claude,MODEL,LinkedIn,PRODUCT,85
+Artificial Intelligence,TECHNOLOGY,NFL,ORG,85
+San Francisco,GPE,Washington,GPE,85
+KPMG,ORG,section 10.37,LAW,85
+KPMG International Limited,ORG,Press Office,ORG,85
+San Francisco,GPE,Texas,GPE,85
+Delaware,GPE,Treasury Department Circular,ORG,85
+Delaware,GPE,Press Office,ORG,85
+ARR,ORG,Artificial Intelligence,TECHNOLOGY,85
+Amazon,ORG,Senate,ORG,85
+Amazon,ORG,YouTube,PRODUCT,85
+Artificial Intelligence,TECHNOLOGY,PyTorch,ORG,84
+China,GPE,SkyQuest,ORG,84
+China,GPE,Validation & Publishing: Validation,ORG,84
+Amazon,ORG,Texas,GPE,84
+Amazon,ORG,FTC,REGULATOR,84
+House,ORG,Texas,GPE,84
+China,GPE,DC,GPE,84
+North Carolina,GPE,Trump,PERSON,84
+China,GPE,Quality Assurance,ORG,84
+China,GPE,Hoover,PERSON,84
+France,GPE,London,GPE,84
+Canada,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,84
+China,GPE,Market players & comparative,ORG,84
+OpenAI,ORG,Retrieval-Augmented Generation,TECHNOLOGY,84
+Google,ORG,Retrieval-Augmented Generation,TECHNOLOGY,84
+Artificial Intelligence,TECHNOLOGY,Shopify,GPE,84
+Defense,ORG,Pentagon,ORG,84
+Anthropic’s Claude,PERSON,Artificial Intelligence,TECHNOLOGY,84
+California,GPE,Japan,GPE,84
+Hollywood,GPE,New York,GPE,84
+MIT Technology Review,ORG,United States,GPE,84
+Defense,ORG,Pete Hegseth,PERSON,84
+EU AI Act,LAW,Large Language Model,TECHNOLOGY,84
+API,TECHNOLOGY,EU AI Act,LAW,84
+California,GPE,White House,ORG,84
+JSON,PERSON,Model Context Protocol,STANDARD,84
+China,GPE,Putin,PERSON,84
+Bloomberg Business,ORG,China,GPE,84
+China,GPE,IBM,ORG,84
+OpenAI,ORG,Perplexity,ORG,84
+NFL,ORG,New York,GPE,84
+Artificial Intelligence,TECHNOLOGY,JD Vance,PERSON,84
+Artificial Intelligence,TECHNOLOGY,Newsletters,PERSON,84
+Berlin,GPE,United States,GPE,84
+APAC,ORG,Artificial Intelligence,TECHNOLOGY,84
+GPU,TECHNOLOGY,Machine Learning,TECHNOLOGY,84
+AWS,ORG,Amazon Web Services,ORG,84
+Artificial Intelligence,TECHNOLOGY,Discord,ORG,84
+Microsoft,ORG,Salesforce,ORG,84
+China,GPE,Validation & re-validation,ORG,84
+China,GPE,Globally,ORG,84
+Artificial Intelligence,TECHNOLOGY,Defense,ORG,83
+NBA,ORG,Trump,PERSON,83
+United States,GPE,Vietnam,GPE,83
+Data,ORG,Germany,GPE,83
+Artificial Intelligence,TECHNOLOGY,The European Union,ORG,83
+Artificial Intelligence,TECHNOLOGY,Coinbase,ORG,83
+NBA,ORG,New York,GPE,83
+Australia,GPE,Russia,GPE,83
+Amazon,ORG,San Francisco,GPE,83
+Atlanta,GPE,United States,GPE,83
+China,GPE,Tesla,ORG,83
+Google,ORG,Hollywood,GPE,83
+Biden,PERSON,GOP,ORG,83
+India,GPE,The United States,GPE,83
+California,GPE,Hollywood,GPE,83
+Gemini,MODEL,Meta,ORG,83
+China,GPE,North Korea,GPE,83
+Artificial Intelligence,TECHNOLOGY,the European Union’s,ORG,83
+Amazon,ORG,Gemini,MODEL,83
+JSON,PERSON,Large Language Model,TECHNOLOGY,83
+Gaza,GPE,Iran,GPE,83
+Kamala Harris,PERSON,United States,GPE,83
+Beijing,GPE,Xi,PERSON,83
+Microsoft,ORG,UI,ORG,83
+Trump,PERSON,YouTube,PRODUCT,83
+DOGE,ORG,United States,GPE,83
+Artificial Intelligence,TECHNOLOGY,Post,ORG,82
+France,GPE,Israel,GPE,82
+Amazon,ORG,Germany,GPE,82
+Al,PERSON,Artificial Intelligence,TECHNOLOGY,82
+Google,ORG,Internet of Things,TECHNOLOGY,82
+DEV,ORG,OpenAI,ORG,82
+Forem,PERSON,OpenAI,ORG,82
+Slack,PRODUCT,United States,GPE,82
+Hegseth,PERSON,United States,GPE,82
+Alexa,ORG,Artificial Intelligence,TECHNOLOGY,82
+Apple,ORG,Washington,GPE,82
+China,GPE,Primary Exploratory Research,ORG,82
+Gemini,MODEL,YouTube,PRODUCT,82
+Artificial Intelligence,TECHNOLOGY,OWASP,ORG,82
+Google Cloud,PRODUCT,Model Context Protocol,STANDARD,82
+Canada,GPE,The United States,GPE,82
+United States,GPE,the Justice Department,ORG,82
+Hegseth,PERSON,Trump,PERSON,82
+AWS,ORG,Kubernetes,TECHNOLOGY,82
+OpenAI,ORG,Ukraine,GPE,82
+Ukraine,GPE,the Center for Strategic and International Studies,ORG,82
+Amazon,ORG,Japan,GPE,82
+Biden,PERSON,Japan,GPE,82
+Artificial Intelligence,TECHNOLOGY,Pete Hegseth,PERSON,82
+FREE,ORG,Germany,GPE,82
+China,GPE,EV,ORG,82
+Artificial Intelligence,TECHNOLOGY,Python,PERSON,82
+Artificial Intelligence,TECHNOLOGY,Moscow,GPE,82
+Google Cloud,PRODUCT,United States,GPE,82
+Cisco,GPE,Microsoft,ORG,82
+GPT,ORG,Microsoft,ORG,82
+Generative AI,TECHNOLOGY,Microsoft,ORG,82
+Google,ORG,Java,PERSON,82
+CI,ORG,Model Context Protocol,STANDARD,82
+Australia,GPE,South Korea,GPE,82
+Defense,ORG,Washington,GPE,82
+Biden,PERSON,FTC,REGULATOR,81
+Giants,ORG,United States,GPE,81
+Toronto,GPE,United States,GPE,81
+Amazon,ORG,WhatsApp,ORG,81
+Congress,ORG,Florida,GPE,81
+European Union,ORG,Singapore,GPE,81
+LLC,ORG,Terms of Service,ORG,81
+England,GPE,United Kingdom,GPE,81
+United States,GPE,Yankees,ORG,81
+Claude,MODEL,GPT,ORG,81
+Jensen Huang,PERSON,United States,GPE,81
+Artificial Intelligence,TECHNOLOGY,TIME,ORG,81
+Amazon,ORG,LinkedIn,PRODUCT,81
+D.C.,GPE,FP,ORG,81
+API,TECHNOLOGY,Generative AI,TECHNOLOGY,81
+European Commission,REGULATOR,United Kingdom,GPE,81
+California,GPE,EU AI Act,LAW,81
+Ukraine,GPE,White House,ORG,81
+Trump,PERSON,Yankees,ORG,81
+Artificial Intelligence,TECHNOLOGY,Chrome,PERSON,81
+Microsoft,ORG,Twitter,PERSON,81
+Correlates,GPE,Japan,GPE,81
+Google Cloud,PRODUCT,Microsoft,ORG,81
+NY Post,ORG,United States,GPE,81
+Artificial Intelligence,TECHNOLOGY,DHS,ORG,81
+OpenAI,ORG,Slack,PRODUCT,81
+Russia,GPE,Ukrainian,GPE,81
+FBI,ORG,Senate,ORG,81
+NY Post,ORG,Trump,PERSON,81
+Collates,GPE,Japan,GPE,81
+California,GPE,Israel,GPE,81
+DeepSeek,PRODUCT,Microsoft,ORG,81
+Cursor,GPE,GitHub,PRODUCT,81
+Biden,PERSON,Israel,GPE,81
+Germany,GPE,Luca Giovannini,PERSON,81
+CI,ORG,Large Language Model,TECHNOLOGY,81
+ESPN,ORG,United States,GPE,81
+China,GPE,The White House,ORG,81
+Artificial Intelligence,TECHNOLOGY,DEI,ORG,81
+Congress,ORG,Joe Biden,PERSON,81
+Florida,GPE,Washington,GPE,81
+API,TECHNOLOGY,JavaScript,ORG,81
+Germany,GPE,Skyquest Team,ORG,81
+Germany,GPE,Trelleborg,ORG,81
+Germany,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,81
+Germany,GPE,SkyQuest Technology,ORG,81
+Biden,PERSON,the Center for Strategic and International Studies,ORG,80
+Germany,GPE,Globally,ORG,80
+Artificial Intelligence,TECHNOLOGY,Goldman Sachs,ORG,80
+Microsoft,ORG,Samsung,ORG,80
+Artificial Intelligence,TECHNOLOGY,MFA,ORG,80
+Germany,GPE,Quality Assurance,ORG,80
+Germany,GPE,Validation & Publishing: Validation,ORG,80
+Germany,GPE,Validation & re-validation,ORG,80
+Germany,GPE,SkyQuest,ORG,80
+Germany,GPE,Market players & comparative,ORG,80
+Germany,GPE,Hoover,PERSON,80
+European Union,ORG,Paris,GPE,80
+Factiva,ORG,Germany,GPE,80
+Amazon,ORG,IBM,ORG,80
+China,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,80
+Digital,ORG,United Kingdom,GPE,80
+OpenAI,ORG,Reuters,ORG,80
+Artificial Intelligence,TECHNOLOGY,Xi Jinping,PERSON,80
+Artificial Intelligence,TECHNOLOGY,NVIDIA,ORG,80
+Share My Personal Information,ORG,Terms of Service,ORG,80
+Germany,GPE,The United States,GPE,80
+Mark Zuckerberg,PERSON,OpenAI,ORG,80
+Beijing,GPE,Canada,GPE,80
+NWWashington,GPE,United States,GPE,80
+DC,GPE,the Center for Strategic and International Studies,ORG,80
+D.C.,GPE,Graham Holdings Company,ORG,80
+European Union,ORG,South Korea,GPE,80
+Bloomberg Business,ORG,Germany,GPE,80
+Dario Amodei,PERSON,Trump,PERSON,80
+China,GPE,YouTube,PRODUCT,80
+Generative AI,TECHNOLOGY,Machine Learning,TECHNOLOGY,80
+Canada,GPE,Correlates,GPE,80
+Canada,GPE,Collates,GPE,80
+Australia,GPE,Microsoft,ORG,80
+Congress,ORG,FBI,ORG,80
+European Union,ORG,Italy,GPE,80
+America,GPE,Los Angeles,GPE,80
+America,GPE,United Kingdom,GPE,80
+Amazon,ORG,House,ORG,80
+Trump,PERSON,Virginia,GPE,80
+Italy,GPE,Japan,GPE,80
+Android,PRODUCT,Apple,ORG,80
+Iran,GPE,White House,ORG,80
+London,GPE,Washington,GPE,80
+DeepSeek,PRODUCT,Nvidia,ORG,80
+Trump’s,ORG,United States,GPE,80
+Artificial Intelligence,TECHNOLOGY,USA,GPE,80
+Pete Hegseth,PERSON,Washington,GPE,80
+Google,ORG,Mark Zuckerberg,PERSON,80
+Kremlin,ORG,United States,GPE,80
+Mets,ORG,United States,GPE,79
+Qatar,GPE,United States,GPE,79
+Artificial Intelligence,TECHNOLOGY,Illinois,GPE,79
+Artificial Intelligence,TECHNOLOGY,Google Gemini,ORG,79
+China,GPE,Data,ORG,79
+Microsoft,ORG,Microsoft Azure,ORG,79
+Digital,ORG,European Union,ORG,79
+Harvard,ORG,United States,GPE,79
+Artificial Intelligence,TECHNOLOGY,Platform,PERSON,79
+Android,PRODUCT,Microsoft,ORG,79
+Kamala Harris,PERSON,Trump,PERSON,79
+Artificial Intelligence,TECHNOLOGY,Education,ORG,79
+India,GPE,New York,GPE,79
+United States,GPE,the New York Times,ORG,79
+Germany,GPE,Primary Exploratory Research,ORG,79
+FBI,ORG,Google,ORG,79
+Andreessen Horowitz,PERSON,Artificial Intelligence,TECHNOLOGY,79
+Brooklyn,GPE,United States,GPE,79
+Artificial Intelligence (AI,ORG,United States,GPE,79
+European Union,ORG,New York,GPE,79
+Big Tech,ORG,Google,ORG,79
+EU AI Act,LAW,NIST,REGULATOR,79
+Artificial Intelligence,TECHNOLOGY,Bloomberg,GPE,79
+America,GPE,Taiwan,GPE,79
+Elon Musk,PERSON,Grok,PERSON,79
+Benjamin Netanyahu,PERSON,Trump,PERSON,79
+Elon Musk,PERSON,Twitter,PERSON,79
+European Commission,REGULATOR,Trump,PERSON,79
+DevOps,ORG,Kubernetes,TECHNOLOGY,79
+Giants,ORG,Trump,PERSON,79
+Trump,PERSON,Venezuela,GPE,79
+Elon Musk,PERSON,the White House,ORG,79
+Artificial Intelligence,TECHNOLOGY,Microsoft Teams,ORG,79
+Maryland,GPE,Trump,PERSON,79
+India,GPE,Iran,GPE,79
+North Korea,GPE,Russia,GPE,79
+Vladimir Putin,PERSON,Washington,GPE,79
+Ukraine,GPE,the Privacy Policy and Terms of Use,ORG,79
+Congress,ORG,India,GPE,79
+NY Post,ORG,New York,GPE,79
+CRM,TECHNOLOGY,Salesforce,ORG,79
+Google,ORG,White House,ORG,79
+FBI,ORG,House,ORG,79
+China,GPE,JD Vance,PERSON,79
+CBS Interactive Inc.,ORG,Trump,PERSON,79
+Association of International Certified Professional Accountants,ORG,aicpa-cima.com,ORG,79
+Mets,ORG,Trump,PERSON,79
+Trump,PERSON,Xi,PERSON,78
+Biden,PERSON,D.C.,GPE,78
+Artificial Intelligence,TECHNOLOGY,New Jersey,GPE,78
+Artificial Intelligence,TECHNOLOGY,iPhone,ORG,78
+Kubernetes,TECHNOLOGY,Large Language Model,TECHNOLOGY,78
+Microsoft,ORG,Microsoft 365,ORG,78
+Forem,PERSON,UI,ORG,78
+Trump,PERSON,Truth Social,ORG,78
+BigQuery,ORG,Google Cloud,PRODUCT,78
+Artificial Intelligence,TECHNOLOGY,ZBrain,PERSON,78
+GOP,ORG,Russia,GPE,78
+Artificial Intelligence,TECHNOLOGY,Time,ORG,78
+KPMG International Limited,ORG,United States,GPE,78
+The European Union,ORG,United States,GPE,78
+Tesla,ORG,Trump,PERSON,78
+ESPN,ORG,Trump,PERSON,78
+Business Information Services,ORG,China,GPE,78
+Business Information Services,ORG,Germany,GPE,78
+Beijing,GPE,the Privacy Policy and Terms of Use,ORG,78
+Joe Biden,PERSON,Russia,GPE,78
+America,GPE,D.C.,GPE,78
+Trump’s,PERSON,United States,GPE,78
+API,TECHNOLOGY,Salesforce,ORG,78
+OpenAI,ORG,Paris,GPE,78
+America,GPE,London,GPE,78
+Italy,GPE,Spain,GPE,78
+Biden,PERSON,FBI,ORG,78
+America,GPE,Nvidia,ORG,78
+California,GPE,Instagram,PRODUCT,78
+Artificial Intelligence,TECHNOLOGY,TechCrunch,ORG,78
+Model Context Protocol,STANDARD,United States,GPE,78
+Artificial Intelligence,TECHNOLOGY,Tokyo,GPE,78
+India,GPE,Israel,GPE,78
+GitHub,PRODUCT,Slack,PRODUCT,77
+Artificial Intelligence,TECHNOLOGY,Google Search,ORG,77
+Beijing,GPE,India,GPE,77
+Russia,GPE,"Washington, DC",GPE,77
+Iran,GPE,NATO,ORG,77
+DeepSeek,PRODUCT,Meta,ORG,77
+Artificial Intelligence,TECHNOLOGY,Git,PERSON,77
+Software,ORG,United States,GPE,77
+New York,GPE,Pentagon,ORG,77
+Alibaba,GPE,Artificial Intelligence,TECHNOLOGY,77
+CBS Interactive Inc.,ORG,United States,GPE,77
+Germany,GPE,OpenAI,ORG,77
+LangChain,ORG,Model Context Protocol,STANDARD,77
+Large Language Model,TECHNOLOGY,SEO,ORG,77
+Oracle,ORG,United States,GPE,77
+New York,GPE,Yankees,ORG,77
+Los Angeles,GPE,Texas,GPE,77
+Army,ORG,United States,GPE,77
+Germany,GPE,Israel,GPE,77
+ESPN,ORG,New York,GPE,77
+Artificial Intelligence,TECHNOLOGY,EHR,ORG,77
+COVID-19,ORG,China,GPE,77
+Argentina,GPE,United States,GPE,77
+United States,GPE,the Department of Homeland Security,ORG,77
+Beijing,GPE,D.C.,GPE,77
+European Commission,REGULATOR,Google,ORG,77
+Canada,GPE,Singapore,GPE,77
+Artificial Intelligence,TECHNOLOGY,CMS,ORG,77
+DEI,ORG,United States,GPE,77
+DEV,ORG,UI,ORG,77
+NWWashington,GPE,the Center for Strategic and International Studies,ORG,77
+Google,ORG,South Korea,GPE,77
+Congress,ORG,Elon Musk,PERSON,77
+Artificial Intelligence,TECHNOLOGY,DORA,ORG,77
+Moscow,GPE,Putin,PERSON,77
+Australia,GPE,OpenAI,ORG,77
+America,GPE,Mexico,GPE,77
+United States,GPE,the European Union’s,ORG,77
+Artificial Intelligence,TECHNOLOGY,Share My Personal Information,ORG,77
+America,GPE,Apple,ORG,77
+Center for Strategic & International Studies,ORG,Ukraine,GPE,76
+Hamas,ORG,Russia,GPE,76
+Canada,GPE,Israel,GPE,76
+Canada,GPE,the White House,ORG,76
+Business Information Services,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Artificial Intelligence,TECHNOLOGY,OECD,ORG,76
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Syria,GPE,United States,GPE,76
+Knicks,ORG,Trump,PERSON,76
+California,GPE,Pentagon,ORG,76
+New York,GPE,The Associated Press,ORG,76
+Hoover,PERSON,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Globally,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Luca Giovannini,PERSON,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Market players & comparative,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Denmark,GPE,United States,GPE,76
+NWWashington,GPE,Washington,GPE,76
+Germany,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,76
+Large Language Model,TECHNOLOGY,ZBrain,PERSON,76
+Factiva,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Washington,GPE,Xi,PERSON,76
+Tennessee,GPE,United States,GPE,76
+FREE,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+SkyQuest,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+SkyQuest Technology,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Oracle,PERSON,United States,GPE,76
+Quality Assurance,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Validation & re-validation,ORG,76
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Validation & Publishing: Validation,ORG,76
+Beijing,GPE,Congress,ORG,76
+Bloomberg Business,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,76
+Artificial Intelligence,TECHNOLOGY,NYSE,ORG,76
+Apple,ORG,India,GPE,76
+NASA,ORG,SpaceX,PERSON,76
+India,GPE,the United Kingdom,GPE,76
+API,TECHNOLOGY,Internet of Things,TECHNOLOGY,76
+Iran,GPE,Moscow,GPE,76
+Graham Holdings Company,ORG,The United States,GPE,76
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Trelleborg,ORG,76
+AI/ML,ORG,Machine Learning,TECHNOLOGY,76
+Congress,ORG,the Center for Strategic and International Studies,ORG,76
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Skyquest Team,ORG,76
+Putin,PERSON,Washington,GPE,76
+Ukrainian,GPE,United States,GPE,76
+Llama,PRODUCT,Meta,ORG,76
+FTC,REGULATOR,New York,GPE,76
+Canada,GPE,Senate,ORG,76
+London,GPE,Paris,GPE,76
+California,GPE,Minnesota,GPE,76
+Artificial Intelligence,TECHNOLOGY,Gateway,PERSON,76
+CBS Interactive Inc.,ORG,CBS News,ORG,76
+Homeland Security,ORG,United States,GPE,76
+The White House,ORG,Washington,GPE,76
+Congress,ORG,Meta,ORG,76
+CNBC,ORG,China,GPE,76
+Israel,GPE,Pentagon,ORG,76
+California,GPE,YouTube,PRODUCT,76
+Germany,GPE,Netherlands,GPE,75
+Germany,GPE,Poland,GPE,75
+GPU,TECHNOLOGY,Nvidia,ORG,75
+Mets,ORG,New York,GPE,75
+Large Language Model,TECHNOLOGY,SQL,TECHNOLOGY,75
+Iran,GPE,OpenAI,ORG,75
+Congress,ORG,The Associated Press,ORG,75
+Congress,ORG,Japan,GPE,75
+GOP,ORG,the White House,ORG,75
+Apple,ORG,TikTok,ORG,75
+United States,GPE,Walmart,ORG,75
+Artificial Intelligence,TECHNOLOGY,the Privacy Policy,ORG,75
+Primary Exploratory Research,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,75
+Deloitte,ORG,United States,GPE,75
+Claude,MODEL,SEO,ORG,75
+Giants,ORG,New York,GPE,75
+TikTok,ORG,United Kingdom,GPE,75
+USA,GPE,United States,GPE,75
+API,TECHNOLOGY,Anthropic,ORG,75
+API,TECHNOLOGY,Linux,TECHNOLOGY,75
+Hegseth,PERSON,Pete Hegseth,PERSON,75
+Artificial Intelligence,TECHNOLOGY,Email,PERSON,75
+Canada,GPE,House,ORG,75
+CI,ORG,UI,ORG,75
+New York,GPE,TikTok,ORG,75
+NY Post,ORG,Post,ORG,75
+NBA,ORG,NFL,ORG,75
+Apple,ORG,Samsung,ORG,75
+Kremlin,ORG,Ukraine,GPE,75
+New York City,GPE,Washington,GPE,75
+Meta,ORG,Meta’s,ORG,75
+IP,ORG,United Kingdom,GPE,75
+Model Context Protocol,STANDARD,Retrieval-Augmented Generation,TECHNOLOGY,75
+Collates,GPE,Germany,GPE,75
+Google,ORG,Google Search,ORG,75
+China,GPE,Treasury,ORG,75
+Amazon,ORG,Ukraine,GPE,75
+Artificial Intelligence,TECHNOLOGY,Invest,ORG,75
+Amazon,ORG,the White House,ORG,75
+China,GPE,GDPR,LAW,75
+Artificial Intelligence,TECHNOLOGY,Elon Musk’s,PERSON,75
+Data,ORG,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,75
+DC,GPE,Trump,PERSON,75
+GOP,ORG,Iran,GPE,75
+Trump,PERSON,Twitter,PERSON,75
+Correlates,GPE,Germany,GPE,75
+Amazon,ORG,Iran,GPE,75
+Artificial Intelligence,TECHNOLOGY,CBS Interactive Inc.,ORG,75
+Google,ORG,Paris,GPE,75
+Ukraine,GPE,the European Union,ORG,75
+Google,ORG,Slack,PRODUCT,75
+China,GPE,New York City,GPE,75
+Beijing,GPE,"Washington, DC",GPE,75
+Canada,GPE,London,GPE,75
+China,GPE,Indonesia,GPE,74
+Iran,GPE,Los Angeles,GPE,74
+OpenAI,ORG,Senate,ORG,74
+CPU,ORG,Google,ORG,74
+Knicks,ORG,United States,GPE,74
+Australia,GPE,California,GPE,74
+Xi,PERSON,Xi Jinping,PERSON,74
+Giants,ORG,Post,ORG,74
+Berlin,GPE,Germany,GPE,74
+Digital,ORG,Google,ORG,74
+Claude,MODEL,Pentagon,ORG,74
+Artificial Intelligence,TECHNOLOGY,Treasury Department Circular,ORG,74
+Artificial Intelligence,TECHNOLOGY,section 10.37,LAW,74
+Biden,PERSON,Center for Strategic & International Studies,ORG,74
+Brooklyn,GPE,New York,GPE,74
+Artificial Intelligence,TECHNOLOGY,Press Office,ORG,74
+Mets,ORG,Post,ORG,74
+KPMG LLP's,ORG,Treasury Department Circular,ORG,74
+KPMG LLP's,ORG,Press Office,ORG,74
+KPMG International Limited,ORG,KPMG LLP's,ORG,74
+KPMG LLP,ORG,KPMG LLP's,ORG,74
+KPMG,ORG,KPMG LLP's,ORG,74
+Delaware,GPE,KPMG LLP's,ORG,74
+KPMG LLP's,ORG,section 10.37,LAW,74
+Large Language Model,TECHNOLOGY,PII,ORG,74
+OpenAI,ORG,White House,ORG,74
+Joe Biden,PERSON,the White House,ORG,74
+Artificial Intelligence,TECHNOLOGY,Graham Digital Holding Company,PERSON,74
+Correlates,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,74
+America,GPE,North Carolina,GPE,74
+Trump,PERSON,U.K.,GPE,74
+New York City,GPE,Texas,GPE,74
+Collates,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,74
+U.N.,ORG,United States,GPE,74
+California,GPE,WhatsApp,ORG,74
+GPT-4,PERSON,Google,ORG,74
+Post,ORG,Yankees,ORG,74
+FP,ORG,The United States,GPE,74
+Texas,GPE,Ukraine,GPE,74
+China,GPE,NASA,ORG,74
+Instagram,PRODUCT,OpenAI,ORG,74
+Llama,PRODUCT,OpenAI,ORG,74
+Internet of Things,TECHNOLOGY,United Kingdom,GPE,74
+Artificial Intelligence,TECHNOLOGY,Manhattan,GPE,74
+Artificial Intelligence,TECHNOLOGY,Media,ORG,74
+Trump,PERSON,the Justice Department,ORG,74
+United States,GPE,the Supreme Court,ORG,74
+America,GPE,San Francisco,GPE,74
+America,GPE,New York City,GPE,74
+California,GPE,Post,ORG,74
+Trump,PERSON,Zohran Mamdani,PERSON,74
+California,GPE,North Carolina,GPE,74
+California,GPE,New Jersey,GPE,74
+Large Language Model,TECHNOLOGY,TrueFoundry,ORG,74
+Delaware,GPE,United States,GPE,74
+Iran,GPE,State,ORG,74
+Artificial Intelligence,TECHNOLOGY,HiddenLayer,ORG,74
+Graham Digital Holding Company,PERSON,Russia,GPE,73
+Greenland,GPE,United States,GPE,73
+NBA,ORG,Post,ORG,73
+Artificial Intelligence,TECHNOLOGY,HPC,ORG,73
+India,GPE,London,GPE,73
+Artificial Intelligence,TECHNOLOGY,the Department of Defense,ORG,73
+Artificial Intelligence,TECHNOLOGY,Miami,GPE,73
+Artificial Intelligence,TECHNOLOGY,Large Language Models,ORG,73
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,73
+Large Language Model,TECHNOLOGY,VAR & VAD,ORG,73
+ZBrain,PERSON,the Privacy Policy,ORG,73
+Tour ZBrain,PERSON,ZBrain,PERSON,73
+Amazon,ORG,Large Language Model,TECHNOLOGY,73
+API,TECHNOLOGY,ERP,TECHNOLOGY,73
+Artificial Intelligence,TECHNOLOGY,Georgia,GPE,73
+State,ORG,Ukraine,GPE,73
+Kubernetes,TECHNOLOGY,Model Context Protocol,STANDARD,73
+Artificial Intelligence,TECHNOLOGY,Tim,PERSON,73
+Australia,GPE,the United Kingdom,GPE,73
+the Large Language Model (LLM,ORG,the Privacy Policy,ORG,73
+Truth Social,ORG,United States,GPE,73
+Artificial Intelligence,TECHNOLOGY,Tour ZBrain,PERSON,73
+Tour ZBrain,PERSON,the Large Language Model (LLM,ORG,73
+Tour ZBrain,PERSON,the Privacy Policy,ORG,73
+ZBrain,PERSON,the Large Language Model (LLM,ORG,73
+Artificial Intelligence,TECHNOLOGY,the Large Language Model (LLM,ORG,73
+Google,ORG,Singapore,GPE,73
+Paris,GPE,Washington,GPE,73
+MLOps,ORG,Machine Learning,TECHNOLOGY,73
+Apple,ORG,Elon Musk,PERSON,73
+OpenAI,ORG,Twitter,PERSON,73
+Los Angeles,GPE,Washington,GPE,73
+Artificial Intelligence,TECHNOLOGY,Sony,ORG,73
+Congress,ORG,State,ORG,73
+Copilot,ORG,Google,ORG,73
+Germany,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,73
+AWS,ORG,Model Context Protocol,STANDARD,73
+Perplexity,ORG,United States,GPE,73
+Google,ORG,Los Angeles,GPE,73
+Artificial Intelligence,TECHNOLOGY,Disney,ORG,73
+China,GPE,Internet of Things,TECHNOLOGY,73
+Altman,ORG,Artificial Intelligence,TECHNOLOGY,73
+Altman,ORG,OpenAI,ORG,73
+M & A,ORG,United Kingdom,GPE,73
+Malaysia,GPE,United States,GPE,73
+GDPR,LAW,India,GPE,73
+ESG,ORG,European Union,ORG,73
+Australia,GPE,Ukraine,GPE,73
+Israel,GPE,the White House,ORG,73
+Ohio,GPE,Trump,PERSON,73
+ARRwith,ORG,Artificial Intelligence,TECHNOLOGY,73
+Large Language Model,TECHNOLOGY,MCPs & Agents,ORG,73
+Florida,GPE,Russia,GPE,73
+Artificial Intelligence,TECHNOLOGY,Ohio,GPE,73
+Gartner Hype Cycle,ORG,Large Language Model,TECHNOLOGY,73
+India,GPE,Italy,GPE,73
+Artificial Intelligence,TECHNOLOGY,Smart,ORG,73
+GDPR,LAW,Internet of Things,TECHNOLOGY,73
+Elon Musk’s,PERSON,United States,GPE,73
+Signal,ORG,United States,GPE,73
+Artificial Intelligence,TECHNOLOGY,Vietnam,GPE,73
+Canada,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,72
+Canada,GPE,the European Union,ORG,72
+Disney,ORG,United States,GPE,72
+Alphabet,ORG,United States,GPE,72
+Germany,GPE,Sweden,GPE,72
+Artificial Intelligence,TECHNOLOGY,the Securities and Exchange Commission,ORG,72
+Artificial Intelligence,TECHNOLOGY,Hamas,ORG,72
+Marco Rubio,PERSON,Washington,GPE,72
+Lebanon,GPE,United States,GPE,72
+New York City,GPE,San Francisco,GPE,72
+America,GPE,TikTok,ORG,72
+Iran,GPE,Pete Hegseth,PERSON,72
+CBS News,ORG,California,GPE,72
+ESG,ORG,United Kingdom,GPE,72
+AP,ORG,Congress,ORG,72
+CIA,ORG,United States,GPE,72
+OpenAI,ORG,https,PERSON,72
+Knicks,ORG,New York,GPE,72
+Artificial Intelligence,TECHNOLOGY,Mistral,ORG,72
+the Apache 2.0 License,LAW,the Google Developers Site Policies,ORG,72
+Artificial Intelligence,TECHNOLOGY,Atlanta,GPE,72
+Artificial Intelligence,TECHNOLOGY,EMEA,ORG,72
+Anthropic,ORG,China,GPE,72
+Artificial Intelligence,TECHNOLOGY,Dubai,GPE,72
+Beijing,GPE,Germany,GPE,72
+Apple,ORG,Japan,GPE,72
+Calif.,GPE,United States,GPE,72
+CI,ORG,Machine Learning,TECHNOLOGY,72
+MIT,ORG,Microsoft,ORG,72
+the Apache 2.0 License,LAW,the Creative Commons Attribution 4.0 License,ORG,72
+FTC,REGULATOR,Washington,GPE,72
+Java,PERSON,the Google Developers Site Policies,ORG,72
+Israel,GPE,Japan,GPE,72
+Large Language Model,TECHNOLOGY,Tour ZBrain,PERSON,72
+API,TECHNOLOGY,Docker,PERSON,72
+Large Language Model,TECHNOLOGY,the Large Language Model (LLM,ORG,72
+France,GPE,the European Union,ORG,72
+Large Language Model,TECHNOLOGY,the Privacy Policy,ORG,72
+the Creative Commons Attribution 4.0 License,ORG,the Google Developers Site Policies,ORG,72
+Java,PERSON,the Creative Commons Attribution 4.0 License,ORG,72
+Google,ORG,Netflix,GPE,72
+Artificial Intelligence,TECHNOLOGY,VC,ORG,72
+Israel,GPE,Tehran,GPE,72
+Java,PERSON,the Apache 2.0 License,LAW,72
+United States,GPE,Zohran Mamdani,PERSON,72
+Poland,GPE,Ukraine,GPE,72
+Large Language Model,TECHNOLOGY,RPS,ORG,72
+Japan,GPE,New York,GPE,72
+Amazon,ORG,Netflix,GPE,72
+McKinsey,PERSON,United States,GPE,72
+Beijing,GPE,Nvidia,ORG,72
+IP,ORG,OpenAI,ORG,72
+CRM,TECHNOLOGY,Microsoft,ORG,72
+United States,GPE,Utah,GPE,72
+Artificial Intelligence,TECHNOLOGY,Signal,ORG,72
+Google,ORG,Tesla,ORG,72
+Tehran,GPE,Washington,GPE,72
+FREE,ORG,South Korea,GPE,72
+Norway,GPE,Russia,GPE,71
+JD Vance,PERSON,Washington,GPE,71
+Giants,ORG,NY Post,ORG,71
+Amazon,ORG,Android,PRODUCT,71
+GDPR,LAW,the European Union,ORG,71
+Canada,GPE,Norway,GPE,71
+API,TECHNOLOGY,Cloud,PERSON,71
+America,GPE,Hollywood,GPE,71
+Terms of Service,ORG,United States,GPE,71
+Large Language Model,TECHNOLOGY,MIT,ORG,71
+Austin,GPE,Texas,GPE,71
+Hoover,PERSON,South Korea,GPE,71
+NIST,REGULATOR,NIST AI RMF,STANDARD,71
+Artificial Intelligence,TECHNOLOGY,Vertex AI,ORG,71
+API,TECHNOLOGY,PII,ORG,71
+Beijing,GPE,Graham Digital Holding Company,PERSON,71
+Apple,ORG,YouTube,PRODUCT,71
+Benjamin Netanyahu,PERSON,Washington,GPE,71
+Philippines,GPE,United States,GPE,71
+CBS News,ORG,Iran,GPE,71
+Factiva,ORG,South Korea,GPE,71
+Artificial Intelligence,TECHNOLOGY,NBA,ORG,71
+SkyQuest Technology,ORG,South Korea,GPE,71
+South Korea,GPE,Validation & Publishing: Validation,ORG,71
+SkyQuest,ORG,South Korea,GPE,71
+France,GPE,Norway,GPE,71
+South Korea,GPE,Trelleborg,ORG,71
+Los Angeles,GPE,New York City,GPE,71
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,United States,GPE,71
+Mets,ORG,NY Post,ORG,71
+Skyquest Team,ORG,South Korea,GPE,71
+Poland,GPE,United Kingdom,GPE,71
+Claude,MODEL,Perplexity,ORG,71
+Android,PRODUCT,OpenAI,ORG,71
+Market players & comparative,ORG,South Korea,GPE,71
+Finland,GPE,United States,GPE,71
+NBA,ORG,NY Post,ORG,71
+Artificial Intelligence,TECHNOLOGY,GIZMODO USA LLC,ORG,71
+Globally,ORG,South Korea,GPE,71
+South Korea,GPE,Validation & re-validation,ORG,71
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,South Korea,GPE,71
+Quality Assurance,ORG,South Korea,GPE,71
+Luca Giovannini,PERSON,South Korea,GPE,71
+Germany,GPE,Iran,GPE,71
+Gemini,MODEL,Search Engine Journal,ORG,71
+OpenAI,ORG,The New York Times,ORG,71
+North Carolina,GPE,Washington,GPE,71
+Brussels,GPE,China,GPE,71
+Artificial Intelligence,TECHNOLOGY,Rome,GPE,71
+America,GPE,Gaza,GPE,71
+China,GPE,Large Language Model,TECHNOLOGY,71
+California,GPE,NFL,ORG,71
+Amazon,ORG,Anthropic,ORG,71
+ERP,TECHNOLOGY,SAP,ORG,71
+Salesforce,ORG,United States,GPE,71
+Bloomberg Business,ORG,South Korea,GPE,71
+IAM,ORG,Model Context Protocol,STANDARD,71
+America,GPE,State,ORG,71
+Artificial Intelligence,TECHNOLOGY,Big Tech,GPE,71
+Philadelphia,GPE,United States,GPE,71
+Artificial Intelligence,TECHNOLOGY,Spotify,ORG,71
+Brazil,GPE,Canada,GPE,70
+Big Tech,ORG,Trump,PERSON,70
+Linux,TECHNOLOGY,United States,GPE,70
+UN,ORG,United Kingdom,GPE,70
+Meta,ORG,New York,GPE,70
+European Commission,REGULATOR,Microsoft,ORG,70
+Google,ORG,Google DeepMind,ORG,70
+Cisco,GPE,United States,GPE,70
+CSIS,ORG,Japan,GPE,70
+Biden,PERSON,France,GPE,70
+Gemini,MODEL,Perplexity,ORG,70
+CLI,ORG,Google,ORG,70
+Claude,MODEL,UI,ORG,70
+Primary Exploratory Research,ORG,South Korea,GPE,70
+European Commission,REGULATOR,France,GPE,70
+Beijing,GPE,CSIS,ORG,70
+API,TECHNOLOGY,TypeScript,ORG,70
+European Commission,REGULATOR,Germany,GPE,70
+Norway,GPE,Trump,PERSON,70
+South Korea,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,70
+LinkedIn,PRODUCT,Meta,ORG,70
+Forem,PERSON,Microsoft,ORG,70
+DEV,ORG,Microsoft,ORG,70
+California,GPE,London,GPE,70
+Beijing,GPE,Israel,GPE,70
+AWS,ORG,Machine Learning,TECHNOLOGY,70
+Saudi Arabia,GPE,Washington,GPE,70
+Artificial Intelligence,TECHNOLOGY,Minnesota,GPE,70
+Putin,PERSON,Vladimir Putin,PERSON,70
+Al,PERSON,Machine Learning,TECHNOLOGY,70
+America,GPE,Maryland,GPE,70
+Brazil,GPE,United Kingdom,GPE,70
+Center for Strategic & International Studies,ORG,Congress,ORG,70
+Pennsylvania,GPE,Trump,PERSON,70
+FBI,ORG,GOP,ORG,70
+Model Context Protocol,STANDARD,Slack,PRODUCT,70
+FREE,ORG,India,GPE,70
+Altman,ORG,Sam Altman,PERSON,70
+Russia,GPE,TikTok,ORG,70
+China,GPE,Defense,ORG,70
+Meta,ORG,San Francisco,GPE,70
+America,GPE,FTC,REGULATOR,70
+Artificial Intelligence,TECHNOLOGY,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,70
+D.C.,GPE,the White House,ORG,70
+AWS,ORG,Amazon,ORG,70
+The White House,ORG,the White House,ORG,70
+Poland,GPE,Russia,GPE,70
+CCPA,LAW,United States,GPE,70
+OpenAI,ORG,Reddit,GPE,70
+Gemini,MODEL,PPC,ORG,70
+Business Information Services,ORG,South Korea,GPE,70
+GPU,TECHNOLOGY,Gemini,MODEL,70
+Congress,ORG,TikTok,ORG,70
+America,GPE,JD Vance,PERSON,70
+Artificial Intelligence,TECHNOLOGY,Donald Trump’s,PERSON,70
+NY Post,ORG,Yankees,ORG,70
+European Union,ORG,the United Kingdom,GPE,70
+JofA,PERSON,aicpa-cima.com,ORG,69
+California,GPE,Illinois,GPE,69
+Artificial Intelligence,TECHNOLOGY,jargon,ORG,69
+Mets,ORG,Yankees,ORG,69
+Britain,GPE,London,GPE,69
+Amazon,ORG,Amazon Web Services,ORG,69
+Minnesota,GPE,New York,GPE,69
+Google,ORG,SQL,TECHNOLOGY,69
+Australia,GPE,London,GPE,69
+European Union,ORG,Spain,GPE,69
+Michigan,GPE,Trump,PERSON,69
+Association of International Certified Professional Accountants,ORG,JofA,PERSON,69
+GDPR,LAW,Germany,GPE,69
+Jensen Huang,PERSON,Nvidia,ORG,69
+Claude,MODEL,Slack,PRODUCT,69
+Artificial Intelligence,TECHNOLOGY,Pennsylvania,GPE,69
+Artificial Intelligence,TECHNOLOGY,Bing,PERSON,69
+Artificial Intelligence,TECHNOLOGY,SaaStr,ORG,69
+Russia,GPE,the United Kingdom,GPE,69
+NFL,ORG,Post,ORG,69
+CRM,TECHNOLOGY,GDPR,LAW,69
+Biden,PERSON,Pentagon,ORG,69
+FBI,ORG,Texas,GPE,69
+London,GPE,Russia,GPE,69
+Artificial Intelligence,TECHNOLOGY,Commission,ORG,69
+GPU,TECHNOLOGY,Meta,ORG,69
+Maryland,GPE,New York,GPE,69
+Beijing,GPE,Google,ORG,69
+AMD,ORG,Google,ORG,69
+Artificial Intelligence,TECHNOLOGY,the Linux Foundation,ORG,69
+Iran,GPE,North Korea,GPE,69
+Brazil,GPE,Mexico,GPE,69
+California,GPE,Mexico,GPE,69
+India,GPE,Meta,ORG,69
+Biden,PERSON,the European Union,ORG,69
+Copilot,ORG,OpenAI,ORG,69
+China,GPE,IP,ORG,69
+Chrome,PERSON,Google,ORG,69
+China,GPE,the United Nations,ORG,69
+AI Overviews,ORG,Search Engine Journal,ORG,69
+Artificial Intelligence,TECHNOLOGY,OpenTelemetry,ORG,69
+Dallas,GPE,United States,GPE,69
+Giants,ORG,Yankees,ORG,69
+Biden,PERSON,Meta,ORG,69
+India,GPE,Quality Assurance,ORG,69
+Artificial Intelligence,TECHNOLOGY,Terraform,ORG,69
+Ukraine,GPE,"Washington, DC",GPE,69
+Large Language Model,TECHNOLOGY,Llama,PRODUCT,69
+CTO,ORG,United States,GPE,69
+Florida,GPE,Senate,ORG,69
+Brazil,GPE,France,GPE,69
+Japan,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,69
+China,GPE,Vietnam,GPE,69
+SpaceX,PERSON,Washington,GPE,68
+Artificial Intelligence,TECHNOLOGY,DOGE,ORG,68
+California,GPE,Germany,GPE,68
+China,GPE,U.K.,GPE,68
+California,GPE,Massachusetts,GPE,68
+Anthropic,ORG,Pentagon,ORG,68
+Knicks,ORG,NBA,ORG,68
+South Korea,GPE,Taiwan,GPE,68
+New York City,GPE,Post,ORG,68
+India,GPE,Validation & Publishing: Validation,ORG,68
+Hamas,ORG,Iran,GPE,68
+GEO,ORG,Google,ORG,68
+Artificial Intelligence,TECHNOLOGY,Erika Balla,PERSON,68
+Washington,GPE,WhatsApp,ORG,68
+Florida,GPE,House,ORG,68
+Artificial Intelligence,TECHNOLOGY,Figma,ORG,68
+Artificial Intelligence,TECHNOLOGY,RAM,ORG,68
+Shanghai,GPE,United States,GPE,68
+China,GPE,Samsung,ORG,68
+Artificial Intelligence,TECHNOLOGY,Wales,GPE,68
+Alpha Brand Media,ORG,Gemini,MODEL,68
+D.C.,GPE,Graham Digital Holding Company,ORG,68
+Canada,GPE,Texas,GPE,68
+Tokyo,GPE,United States,GPE,68
+Microsoft,ORG,the White House,ORG,68
+Iran,GPE,SpaceX,PERSON,68
+Iran,GPE,Japan,GPE,68
+Kenya,GPE,United States,GPE,68
+Medicaid,ORG,United States,GPE,68
+HIPAA,ORG,United States,GPE,68
+Bloomberg Business,ORG,India,GPE,68
+Giants,ORG,NBA,ORG,68
+Apple,ORG,Canada,GPE,68
+Microsoft,ORG,Pentagon,ORG,68
+Knicks,ORG,Post,ORG,68
+Fed,ORG,United States,GPE,68
+India,GPE,SkyQuest,ORG,68
+Factiva,ORG,India,GPE,68
+Hoover,PERSON,India,GPE,68
+India,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,68
+Globally,ORG,India,GPE,68
+Data,ORG,South Korea,GPE,68
+China,GPE,The New York Times,ORG,68
+India,GPE,SkyQuest Technology,ORG,68
+India,GPE,Market players & comparative,ORG,68
+India,GPE,Validation & re-validation,ORG,68
+India,GPE,Luca Giovannini,PERSON,68
+Huawei,ORG,Washington,GPE,68
+Quantum,ORG,United States,GPE,68
+House,ORG,Israel,GPE,68
+Elon Musk,PERSON,Russia,GPE,68
+India,GPE,Trelleborg,ORG,68
+India,GPE,Skyquest Team,ORG,68
+NBA,ORG,Yankees,ORG,68
+New York,GPE,North Carolina,GPE,68
+Colorado,GPE,Trump,PERSON,68
+Amazon,ORG,Samsung,ORG,68
+Artificial Intelligence,TECHNOLOGY,Navy,ORG,68
+AMD,ORG,Nvidia,ORG,68
+Congress,ORG,European Union,ORG,68
+Bloomberg,GPE,United States,GPE,68
+San Francisco,GPE,United Kingdom,GPE,68
+Graham Digital Holding Company,ORG,Washington,GPE,68
+Graham Digital Holding Company,ORG,Graham Holdings Company,ORG,68
+FP,ORG,Graham Digital Holding Company,ORG,68
+Google,ORG,the European Union,ORG,68
+Giants,ORG,Mets,ORG,68
+China,GPE,Donald Trump’s,PERSON,68
+China,GPE,the Chinese Communist Party,ORG,68
+New York,GPE,State,ORG,67
+Germany,GPE,Paris,GPE,67
+Huawei,ORG,Trump,PERSON,67
+Graham Digital Holding Company,ORG,United States,GPE,67
+Artificial Intelligence,TECHNOLOGY,ESPN,ORG,67
+Israel,GPE,Senate,ORG,67
+Apple,ORG,iPhone,ORG,67
+Iraq,GPE,Trump,PERSON,67
+Gemini,MODEL,UI,ORG,67
+Commission,ORG,European Union,ORG,67
+DeepSeek,PRODUCT,Large Language Model,TECHNOLOGY,67
+Anthropic,ORG,Dario Amodei,PERSON,67
+OECD,ORG,United States,GPE,67
+South Korea,GPE,the United Kingdom,GPE,67
+Data,ORG,United Kingdom,GPE,67
+Artificial Intelligence,TECHNOLOGY,Sora,PERSON,67
+Google,ORG,Salesforce,ORG,67
+ByteDance,ORG,United States,GPE,67
+Google,ORG,JavaScript,ORG,67
+India,GPE,Primary Exploratory Research,ORG,67
+California,GPE,NBA,ORG,67
+DEV,ORG,United States,GPE,67
+Google,ORG,The United States,GPE,67
+Microsoft,ORG,Singapore,GPE,67
+Forem,PERSON,United States,GPE,67
+Google Cloud,PRODUCT,IAM,ORG,67
+Elon Musk,PERSON,United Kingdom,GPE,67
+Google,ORG,IAM,ORG,67
+Beijing,GPE,OpenAI,ORG,67
+Congress,ORG,The White House,ORG,67
+Artificial Intelligence,TECHNOLOGY,OpenAI’s,ORG,67
+Artificial Intelligence,TECHNOLOGY,Gravitee,ORG,67
+Amazon,ORG,EU AI Act,LAW,67
+European Union,ORG,The United States,GPE,67
+United States,GPE,the Chinese Communist Party,ORG,67
+Artificial Intelligence,TECHNOLOGY,Gemini Enterprise,ORG,67
+OpenAI,ORG,The Associated Press,ORG,66
+Amazon,ORG,Instagram,PRODUCT,66
+Hamas,ORG,Washington,GPE,66
+China,GPE,Pete Hegseth,PERSON,66
+Artificial Intelligence,TECHNOLOGY,devs,PERSON,66
+Tim Cook,PERSON,United States,GPE,66
+Alibaba,GPE,United States,GPE,66
+DevOps,ORG,Microsoft,ORG,66
+Artificial Intelligence,TECHNOLOGY,CI,GPE,66
+Collates,GPE,South Korea,GPE,66
+Brazil,GPE,Russia,GPE,66
+Artificial Intelligence,TECHNOLOGY,Tim Cook,PERSON,66
+Beijing,GPE,France,GPE,66
+Biden,PERSON,State,ORG,66
+Brazil,GPE,Washington,GPE,66
+Russia,GPE,SpaceX,PERSON,66
+California,GPE,D.C.,GPE,66
+Egypt,GPE,United States,GPE,66
+SAP,ORG,United States,GPE,66
+Artificial Intelligence,TECHNOLOGY,STEM,ORG,66
+Artificial Intelligence,TECHNOLOGY,Google DeepMind,PRODUCT,66
+Artificial Intelligence,TECHNOLOGY,OpenClaw,PRODUCT,66
+China,GPE,Marco Rubio,PERSON,66
+Israel,GPE,Texas,GPE,66
+Instagram,PRODUCT,New York,GPE,66
+Norway,GPE,Washington,GPE,66
+BBC,ORG,United Kingdom,GPE,66
+Correlates,GPE,South Korea,GPE,66
+Artificial Intelligence,TECHNOLOGY,Kenya,GPE,66
+Internet of Things,TECHNOLOGY,OpenAI,ORG,66
+Data,ORG,India,GPE,66
+Minneapolis,GPE,United States,GPE,66
+Anthropic’s,PERSON,Artificial Intelligence,TECHNOLOGY,66
+Google,ORG,Stanford,ORG,66
+India,GPE,Spain,GPE,66
+Biden,PERSON,European Union,ORG,66
+Cambridge,GPE,United States,GPE,66
+Artificial Intelligence,TECHNOLOGY,SMS,ORG,66
+Artificial Intelligence,TECHNOLOGY,Ring,ORG,66
+DEI,ORG,Trump,PERSON,66
+Scott Bessent,PERSON,United States,GPE,66
+AI Overviews,ORG,Alpha Brand Media,ORG,66
+China,GPE,WhatsApp,ORG,66
+European Union,ORG,The European Union,ORG,66
+California,GPE,State,ORG,66
+Artificial Intelligence,TECHNOLOGY,Utah,GPE,66
+COVID-19,ORG,Trump,PERSON,66
+AMD,ORG,Microsoft,ORG,66
+API,TECHNOLOGY,YouTube,PRODUCT,66
+New York,GPE,Zohran Mamdani,PERSON,66
+Artificial Intelligence,TECHNOLOGY,GPT-3,ORG,66
+Colombia,GPE,United States,GPE,66
+China,GPE,Twitter,PERSON,66
+Artificial Intelligence,TECHNOLOGY,COO,ORG,66
+London,GPE,Ukraine,GPE,66
+Germany,GPE,Singapore,GPE,66
+Center for Strategic & International Studies,ORG,Trump,PERSON,66
+CSIS,ORG,the European Union,ORG,66
+Machine Learning,TECHNOLOGY,United Kingdom,GPE,66
+Google,ORG,Hugging Face,ORG,66
+Knicks,ORG,NY Post,ORG,66
+South Korea,GPE,The United States,GPE,66
+Maryland,GPE,Washington,GPE,66
+API,TECHNOLOGY,Gravitee,ORG,66
+GEO,ORG,SEO,ORG,66
+Sweden,GPE,United Kingdom,GPE,66
+House,ORG,Maryland,GPE,66
+Digital,ORG,Internet of Things,TECHNOLOGY,66
+Hegseth,PERSON,Pentagon,ORG,66
+United States,GPE,iPhone,ORG,66
+Artificial Intelligence,TECHNOLOGY,Kamala Harris,PERSON,66
+IBM,ORG,Large Language Model,TECHNOLOGY,66
+Mets,ORG,NBA,ORG,66
+Google Cloud,PRODUCT,Java,PERSON,66
+India,GPE,Indonesia,GPE,65
+Artificial Intelligence,TECHNOLOGY,DeepSeek,ORG,65
+Russia,GPE,South Korea,GPE,65
+Trump,PERSON,Trump’s,PERSON,65
+Brooklyn,GPE,Trump,PERSON,65
+NFL,ORG,NY Post,ORG,65
+Artificial Intelligence,TECHNOLOGY,Financial Services,ORG,65
+Elon Musk’s,PERSON,Trump,PERSON,65
+Artificial Intelligence,TECHNOLOGY,VS Code,PRODUCT,65
+Elon Musk,PERSON,White House,ORG,65
+Meta,ORG,WhatsApp,ORG,65
+European Union,ORG,TikTok,ORG,65
+Digital Services Act,LAW,European Union,ORG,65
+AP,ORG,OpenAI,ORG,65
+Claude,MODEL,Dario Amodei,PERSON,65
+Amazon,ORG,SpaceX,PERSON,65
+Gartner,ORG,United States,GPE,65
+Brazil,GPE,Japan,GPE,65
+China,GPE,Switzerland,GPE,65
+Artificial Intelligence,TECHNOLOGY,Digital Services Act,LAW,65
+European Union,ORG,Large Language Model,TECHNOLOGY,65
+Ring,ORG,United States,GPE,65
+Artificial Intelligence,TECHNOLOGY,MVP,ORG,65
+European Union,ORG,Switzerland,GPE,65
+LangChain,ORG,OpenAI,ORG,65
+API,TECHNOLOGY,Claude Code,PERSON,65
+Cursor,GPE,GitHub Copilot,ORG,65
+Artificial Intelligence,TECHNOLOGY,KPMG LLP's,ORG,65
+Brazil,GPE,European Union,ORG,65
+Artificial Intelligence,TECHNOLOGY,CSS,ORG,65
+Amazon Web Services,ORG,OpenAI,ORG,65
+China,GPE,Gemini,MODEL,65
+FREE,ORG,France,GPE,65
+Microsoft,ORG,Tesla,ORG,65
+America,GPE,CBS News,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Bloomberg Business,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,FREE,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Hoover,PERSON,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Luca Giovannini,PERSON,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Market players & comparative,ORG,65
+Anthropic,ORG,Meta,ORG,65
+Benjamin Netanyahu,PERSON,Iran,GPE,65
+Artificial Intelligence,TECHNOLOGY,al,PERSON,65
+Canada,GPE,Internet of Things,TECHNOLOGY,65
+Generative AI,TECHNOLOGY,United Kingdom,GPE,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Validation & Publishing: Validation,ORG,65
+Scott Bessent,PERSON,Trump,PERSON,65
+FTC,REGULATOR,Senate,ORG,65
+Artificial Intelligence,TECHNOLOGY,Milan,GPE,65
+Immigration and Customs Enforcement,ORG,United States,GPE,65
+EU AI Act,LAW,Germany,GPE,65
+NASA,ORG,Washington,GPE,65
+Apple,ORG,Congress,ORG,65
+AI Overviews,ORG,SEO,ORG,65
+Connecticut,GPE,United States,GPE,65
+Artificial Intelligence,TECHNOLOGY,SRE,ORG,65
+CBS News,ORG,Google,ORG,65
+China,GPE,SpaceX,PERSON,65
+Iran,GPE,New York City,GPE,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Factiva,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Globally,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,SkyQuest Technology,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,SkyQuest Technology Consulting Pvt. Ltd.,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Skyquest Team,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Trelleborg,ORG,65
+ARRwith,ORG,SaaStr,ORG,65
+API,TECHNOLOGY,China,GPE,65
+Google’s Gemini,ORG,OpenAI,ORG,65
+API,TECHNOLOGY,Apple,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Quality Assurance,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,SkyQuest,ORG,65
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Validation & re-validation,ORG,65
+China,GPE,Correlates,GPE,65
+China,GPE,Collates,GPE,65
+Hamas,ORG,Ukraine,GPE,65
+California,GPE,ESPN,ORG,65
+India,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,65
+Gemini,MODEL,SEJ,ORG,65
+AP,ORG,New York,GPE,65
+Joe Biden,PERSON,Senate,ORG,65
+Beijing,GPE,South Korea,GPE,65
+Iran,GPE,Taiwan,GPE,65
+CLI,ORG,UI,ORG,65
+Boeing,ORG,United States,GPE,64
+Graham Digital Holding Company,PERSON,Ukraine,GPE,64
+Homeland Security,ORG,Trump,PERSON,64
+OpenAI,ORG,Tesla,ORG,64
+Thailand,GPE,United States,GPE,64
+France,GPE,SkyQuest,ORG,64
+France,GPE,Quality Assurance,ORG,64
+California,GPE,Maryland,GPE,64
+Education,ORG,United States,GPE,64
+France,GPE,Skyquest Team,ORG,64
+The Associated Press,ORG,the White House,ORG,64
+GPU,TECHNOLOGY,Kubernetes,TECHNOLOGY,64
+Microsoft,ORG,SAP,ORG,64
+Apple,ORG,Biden,PERSON,64
+Musk,PERSON,OpenAI,ORG,64
+Barack Obama,PERSON,United States,GPE,64
+NATO,ORG,The United States,GPE,64
+API,TECHNOLOGY,GPT-4,PERSON,64
+America,GPE,The Associated Press,ORG,64
+Artificial Intelligence,TECHNOLOGY,Discovery,PRODUCT,64
+AI Overviews,ORG,PPC,ORG,64
+EU AI Act,LAW,India,GPE,64
+AI Overviews,ORG,Gemini,MODEL,64
+Artificial Intelligence,TECHNOLOGY,SOC 2,ORG,64
+Moscow,GPE,Vladimir Putin,PERSON,64
+Claude Code,PERSON,Cursor,GPE,64
+Artificial Intelligence,TECHNOLOGY,ISO,ORG,64
+FBI,ORG,Ukraine,GPE,64
+America,GPE,Manhattan,GPE,64
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,etcCompany profileMarket dynamics & outlookRegion,ORG,64
+Houston,GPE,United States,GPE,64
+North Carolina,GPE,Russia,GPE,64
+Amazon,ORG,Sam Altman,PERSON,64
+Chile,GPE,United States,GPE,64
+Perplexity,ORG,SEO,ORG,64
+New York,GPE,Seattle,GPE,64
+New Jersey,GPE,New York,GPE,64
+FP,ORG,Iran,GPE,64
+France,GPE,Globally,ORG,64
+France,GPE,Hoover,PERSON,64
+France,GPE,Luca Giovannini,PERSON,64
+United States,GPE,the World Economic Forum,ORG,64
+Alphabet,ORG,Google,ORG,64
+Artificial Intelligence,TECHNOLOGY,Jason Lemkin,PERSON,64
+Russia,GPE,Saudi Arabia,GPE,64
+Artificial Intelligence,TECHNOLOGY,Cookie Policy,PERSON,64
+Giants,ORG,NFL,ORG,64
+Rome,GPE,United States,GPE,64
+Graham Holdings Company,ORG,Iran,GPE,64
+France,GPE,Validation & re-validation,ORG,64
+Russia,GPE,WhatsApp,ORG,64
+Artificial Intelligence,TECHNOLOGY,Python,ORG,64
+France,GPE,Primary Exploratory Research,ORG,64
+Canada,GPE,New Zealand,GPE,64
+Large Language Model,TECHNOLOGY,Slack,PRODUCT,64
+Bing,PERSON,Google,ORG,64
+Large Language Model,TECHNOLOGY,United Kingdom,GPE,64
+France,GPE,SkyQuest Technology Consulting Pvt. Ltd.,ORG,64
+Iran,GPE,Saudi Arabia,GPE,64
+Elon Musk,PERSON,New York,GPE,64
+European Union,ORG,IP,ORG,64
+China,GPE,Poland,GPE,64
+Bloomberg Business,ORG,France,GPE,64
+Iran,GPE,United Kingdom,GPE,64
+Starlink,ORG,United States,GPE,64
+France,GPE,Market players & comparative,ORG,64
+France,GPE,SkyQuest Technology,ORG,64
+Netguru,GPE,SEO,ORG,64
+Google,ORG,Kubernetes,TECHNOLOGY,64
+California,GPE,The Associated Press,ORG,64
+France,GPE,Trelleborg,ORG,64
+LLC,ORG,Trump,PERSON,64
+Greenland,GPE,Trump,PERSON,64
+France,GPE,Validation & Publishing: Validation,ORG,64
+Factiva,ORG,France,GPE,64
+LA,GPE,United States,GPE,64
+India,GPE,the European Union,ORG,64
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Primary Exploratory Research,ORG,64
+Mark Zuckerberg,PERSON,Trump,PERSON,64
+Spain,GPE,Trump,PERSON,64
+Artificial Intelligence,TECHNOLOGY,GM,ORG,63
+Correlates,GPE,France,GPE,63
+Big Tech,ORG,Microsoft,ORG,63
+Artificial Intelligence,TECHNOLOGY,linear,ORG,63
+Texas,GPE,United Kingdom,GPE,63
+Beijing,GPE,the Center for Strategic and International Studies,ORG,63
+Data,ORG,France,GPE,63
+Artificial Intelligence,TECHNOLOGY,Dallas,GPE,63
+Joe Biden,PERSON,Ukraine,GPE,63
+Singapore,GPE,South Korea,GPE,63
+AP,ORG,America,GPE,63
+San Diego,GPE,United States,GPE,63
+AMD,ORG,China,GPE,63
+America,GPE,Australia,GPE,63
+Artificial Intelligence,TECHNOLOGY,GTM,ORG,63
+CRM,TECHNOLOGY,Large Language Model,TECHNOLOGY,63
+Moscow,GPE,NATO,ORG,63
+United Kingdom,GPE,YouTube,PRODUCT,63
+Florida,GPE,Iran,GPE,63
+Machine Learning,TECHNOLOGY,UI,ORG,63
+Microsoft,ORG,Oracle,ORG,63
+Gemini,MODEL,GitHub,PRODUCT,63
+Big Tech,ORG,OpenAI,ORG,63
+Knicks,ORG,Mets,ORG,63
+Gaza,GPE,New York,GPE,63
+Canada,GPE,TikTok,ORG,63
+Indiana,GPE,United States,GPE,63
+LinkedIn,PRODUCT,United Kingdom,GPE,63
+DevOps,ORG,United States,GPE,63
+Artificial Intelligence,TECHNOLOGY,Workday,GPE,63
+California,GPE,Sam Altman,PERSON,63
+California,GPE,Yankees,ORG,63
+California,GPE,Mets,ORG,63
+NLP,ORG,United States,GPE,63
+CBS News,ORG,Washington,GPE,63
+AWS,ORG,GCP,ORG,63
+China,GPE,Shanghai,GPE,63
+OpenAI,ORG,the European Union,ORG,63
+Google,ORG,Italy,GPE,63
+China,GPE,the United Arab Emirates,GPE,63
+Elon Musk,PERSON,San Francisco,GPE,63
+NFL,ORG,Yankees,ORG,63
+Trump,PERSON,the Department of Homeland Security,ORG,63
+Beijing,GPE,Moscow,GPE,63
+Business Information Services,ORG,India,GPE,63
+Artificial Intelligence,TECHNOLOGY,CIO Dive,ORG,63
+Collates,GPE,France,GPE,63
+API,TECHNOLOGY,HIPAA,ORG,63
+Artificial Intelligence,TECHNOLOGY,CRN,ORG,63
+GitHub,PRODUCT,Machine Learning,TECHNOLOGY,63
+China,GPE,Sweden,GPE,63
+Knicks,ORG,Yankees,ORG,63
+Digital,ORG,Microsoft,ORG,63
+Google,ORG,Vertex AI,ORG,63
+Fox News,ORG,United States,GPE,63
+Giants,ORG,Knicks,ORG,63
+China,GPE,FTC,REGULATOR,63
+United States,GPE,the State Department,ORG,62
+Meta,ORG,the White House,ORG,62
+The United States,GPE,the Privacy Policy and Terms of Use,ORG,62
+EU AI Act,LAW,France,GPE,62
+LangGraph,ORG,Large Language Model,TECHNOLOGY,62
+AI Overviews,ORG,SEJ,ORG,62
+Congress,ORG,Germany,GPE,62
+California,GPE,NY Post,ORG,62
+CRM,TECHNOLOGY,Meet Nutshell,PERSON,62
+Gmail,PERSON,Google,ORG,62
+Microsoft,ORG,Reuters,ORG,62
+Google,ORG,Joe Biden,PERSON,62
+Microsoft,ORG,Retrieval-Augmented Generation,TECHNOLOGY,62
+CI,ORG,LinkedIn,PRODUCT,62
+API,TECHNOLOGY,Android,PRODUCT,62
+Artificial Intelligence,TECHNOLOGY,Turkey,GPE,62
+Cursor,GPE,Microsoft,ORG,62
+European Commission,REGULATOR,Washington,GPE,62
+Singapore,GPE,Trump,PERSON,62
+LinkedIn,PRODUCT,YouTube,PRODUCT,62
+CI,ORG,United States,GPE,62
+Google,ORG,Wikipedia,ORG,62
+Business Information Services,ORG,France,GPE,62
+Israel,GPE,The United States,GPE,62
+Apple,ORG,Claude,MODEL,62
+Microsoft,ORG,Ukraine,GPE,62
+China,GPE,Digital,ORG,62
+Artificial Intelligence,TECHNOLOGY,max,PERSON,62
+The Associated Press,ORG,White House,ORG,62
+European Commission,REGULATOR,GDPR,LAW,62
+Trump,PERSON,the Supreme Court,ORG,62
+ARRwith,ORG,Jason Lemkin,PERSON,62
+California,GPE,Manhattan,GPE,62
+Jason Lemkin,PERSON,SaaStr,ORG,62
+France,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,62
+Dubai,GPE,United States,GPE,62
+Apple,ORG,Russia,GPE,62
+China,GPE,Hamas,ORG,62
+Pentagon,ORG,Senate,ORG,62
+D.C.,GPE,Japan,GPE,62
+Seattle,GPE,Washington,GPE,62
+Associated Press,ORG,United States,GPE,62
+New York,GPE,SpaceX,PERSON,62
+Germany,GPE,Ireland,GPE,62
+America,GPE,SpaceX,PERSON,62
+FTC,REGULATOR,OpenAI,ORG,62
+Elon Musk,PERSON,Texas,GPE,62
+OpenAI,ORG,Salesforce,ORG,62
+America,GPE,Post,ORG,62
+Canada,GPE,Spain,GPE,62
+NFL,ORG,New York City,GPE,62
+Tim Cook,PERSON,Trump,PERSON,62
+Anthropic,ORG,Large Language Model,TECHNOLOGY,62
+United States,GPE,Vance,PERSON,62
+Apple,ORG,Gemini,MODEL,62
+Apple,ORG,Nvidia,ORG,62
+IP,ORG,Large Language Model,TECHNOLOGY,62
+D.C.,GPE,New York,GPE,62
+DHS,ORG,Washington,GPE,62
+FBI,ORG,the White House,ORG,62
+Joe Biden,PERSON,New York,GPE,61
+Brussels,GPE,Washington,GPE,61
+Los Angeles,GPE,Post,ORG,61
+Japan,GPE,London,GPE,61
+Artificial Intelligence,TECHNOLOGY,Munich,GPE,61
+Google,ORG,Spain,GPE,61
+California,GPE,DHS,ORG,61
+Amazon,ORG,NASA,ORG,61
+GOP,ORG,Google,ORG,61
+New York City,GPE,Senate,ORG,61
+ServiceNow,ORG,United States,GPE,61
+Amazon,ORG,FBI,ORG,61
+Gemini,MODEL,LinkedIn,PRODUCT,61
+Artificial Intelligence,TECHNOLOGY,the University of California,ORG,61
+Florida,GPE,New York City,GPE,61
+UAVs,ORG,United States,GPE,61
+Meta,ORG,Russia,GPE,61
+Congress,ORG,New York City,GPE,61
+Brazil,GPE,Google,ORG,61
+IBM,ORG,United Kingdom,GPE,61
+CBS Interactive Inc.,ORG,Google,ORG,61
+NY Post,ORG,New York City,GPE,61
+The White House,ORG,White House,ORG,61
+API,TECHNOLOGY,MIT,ORG,61
+New York,GPE,Virginia,GPE,61
+Biden,PERSON,Nvidia,ORG,61
+Virginia,GPE,Washington,GPE,61
+Maryland,GPE,Senate,ORG,61
+Elon Musk,PERSON,Mark Zuckerberg,PERSON,61
+London,GPE,Wales,GPE,61
+Obama,PERSON,United States,GPE,61
+Arizona,GPE,China,GPE,61
+Artificial Intelligence,TECHNOLOGY,Founder,PERSON,61
+Immigration and Customs Enforcement,ORG,Trump,PERSON,61
+"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,South Korea,GPE,61
+Microsoft,ORG,ServiceNow,ORG,61
+Milan,GPE,United States,GPE,61
+India,GPE,Mexico,GPE,61
+Benjamin Netanyahu,PERSON,Russia,GPE,61
+AGI,ORG,China,GPE,61
+Artificial Intelligence,TECHNOLOGY,Portugal,GPE,61
+Barack Obama,PERSON,Trump,PERSON,61
+AR,ORG,Artificial Intelligence,TECHNOLOGY,61
+Artificial Intelligence,TECHNOLOGY,Midjourney,PERSON,61
+Italy,GPE,Trump,PERSON,61
+FTC,REGULATOR,House,ORG,61
+New York City,GPE,Russia,GPE,61
+Claude,MODEL,YouTube,PRODUCT,61
+Russia,GPE,The Associated Press,ORG,61
+Artificial Intelligence,TECHNOLOGY,KPI,ORG,61
+NASA,ORG,New York,GPE,61
+America,GPE,Hamas,ORG,61
+Artificial Intelligence,TECHNOLOGY,David Sacks,PERSON,61
+Miami,GPE,Trump,PERSON,61
+Brazil,GPE,Germany,GPE,61
+Japan,GPE,Spain,GPE,61
+Gaza,GPE,the White House,ORG,61
+Google,ORG,Taiwan,GPE,61
+CBS Interactive Inc.,ORG,California,GPE,61
+AMD,ORG,OpenAI,ORG,61
+Mets,ORG,NFL,ORG,61
+AMD,ORG,Intel,ORG,61
+Marco Rubio,PERSON,Russia,GPE,60
+AWS,ORG,CI,ORG,60
+CI,ORG,Google,ORG,60
+Trump,PERSON,Vance,PERSON,60
+Afghanistan,GPE,Trump,PERSON,60
+Microsoft,ORG,The New York Times,ORG,60
+Artificial Intelligence,TECHNOLOGY,Michigan,GPE,60
+GPU,TECHNOLOGY,Model Context Protocol,STANDARD,60
+D.C.,GPE,Germany,GPE,60
+Goldman Sachs,ORG,United States,GPE,60
+Google,ORG,Norway,GPE,60
+FREE,ORG,Internet of Things,TECHNOLOGY,60
+PayPal,ORG,United States,GPE,60
+Israel,GPE,State,ORG,60
+Artificial Intelligence,TECHNOLOGY,TensorFlow,ORG,60
+Anthropic’s Claude,PERSON,OpenAI,ORG,60
+United States,GPE,the Soviet Union,GPE,60
+France,GPE,Sweden,GPE,60
+Germany,GPE,NATO,ORG,60
+Florida,GPE,Los Angeles,GPE,60
+Model Context Protocol,STANDARD,RBAC,ORG,60
+Oregon,GPE,United States,GPE,60
+Supreme Court,ORG,United States,GPE,60
+Manhattan,GPE,Post,ORG,60
+Elon Musk,PERSON,Ukraine,GPE,60
+Microsoft,ORG,South Korea,GPE,60
+Canada,GPE,San Francisco,GPE,60
+Artificial Intelligence,TECHNOLOGY,Denmark,GPE,60
+New York,GPE,Paris,GPE,60
+AGI,ORG,Microsoft,ORG,60
+Artificial Intelligence,TECHNOLOGY,Medicaid,ORG,60
+Trump,PERSON,the New York Times,ORG,60
+Germany,GPE,San Francisco,GPE,60
+CPU,ORG,OpenAI,ORG,60
+Keir Starmer,PERSON,United States,GPE,60
+Elon Musk,PERSON,Senate,ORG,60
+China,GPE,Malaysia,GPE,60
+GEO,ORG,Search Engine Journal,ORG,60
+NBA,ORG,New York City,GPE,60
+Apple,ORG,Germany,GPE,60
+Senate,ORG,State,ORG,60
+Meta,ORG,Texas,GPE,60
+Taiwan,GPE,The United States,GPE,60
+India,GPE,Taiwan,GPE,60
+Germany,GPE,Internet of Things,TECHNOLOGY,60
+America,GPE,Chicago,GPE,60
+California,GPE,Giants,ORG,60
+Kathy Hochul,PERSON,New York,GPE,60
+Manhattan,GPE,New York City,GPE,60
+Artificial Intelligence,TECHNOLOGY,Blog Posts,PERSON,60
+Biden,PERSON,Gaza,GPE,60
+Biden,PERSON,The White House,ORG,60
+Congress,ORG,United Kingdom,GPE,60
+D.C.,GPE,OpenAI,ORG,60
+ARRwith,ORG,Blog Posts,PERSON,60
+Congress,ORG,Mexico,GPE,60
+CLI,ORG,Large Language Model,TECHNOLOGY,60
+Intel,ORG,OpenAI,ORG,60
+France,GPE,"SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,60
+Altman,PERSON,Artificial Intelligence,TECHNOLOGY,60
+Artificial Intelligence,TECHNOLOGY,CX,ORG,60
+Switzerland,GPE,United Kingdom,GPE,60
+Joe Biden,PERSON,Texas,GPE,60
+Model Context Protocol,STANDARD,SQL,TECHNOLOGY,60
+Navy,ORG,Trump,PERSON,60
+America,GPE,The White House,ORG,60
+Android,PRODUCT,Meta,ORG,60
+Los Angeles,GPE,NBA,ORG,60
+France,GPE,Singapore,GPE,60
+America,GPE,NASA,ORG,60
+Intel,ORG,Nvidia,ORG,60
+MAGA,ORG,Trump,PERSON,60
+South Africa,GPE,Trump,PERSON,60
+GPT,ORG,Gemini,MODEL,60
+Keir Starmer,PERSON,United Kingdom,GPE,60
+Claude,MODEL,Grok,PERSON,59
+Macau,GPE,Macau Business,ORG,59
+Artificial Intelligence,TECHNOLOGY,Google Maps,ORG,59
+Hollywood,GPE,Russia,GPE,59
+Large Language Model,TECHNOLOGY,RBAC,ORG,59
+CSIS,ORG,Iran,GPE,59
+Google,ORG,Tim Cook,PERSON,59
+TIME,ORG,United States,GPE,59
+Blog Posts,PERSON,SaaStr,ORG,59
+Blog Posts,PERSON,Jason Lemkin,PERSON,59
+API,TECHNOLOGY,Agentic AI,TECHNOLOGY,59
+Canada,GPE,FBI,ORG,59
+Artificial Intelligence,TECHNOLOGY,Pakistan,GPE,59
+CNBC,ORG,Microsoft,ORG,59
+Claude,MODEL,Sam Altman,PERSON,59
+OpenAI,ORG,SEO,ORG,59
+Biden,PERSON,Germany,GPE,59
+Artificial Intelligence,TECHNOLOGY,NWWashington,GPE,59
+Google,ORG,Ring,ORG,59
+China,GPE,New Zealand,GPE,59
+Amazon,ORG,Intel,ORG,59
+Kremlin,ORG,Trump,PERSON,59
+Artificial Intelligence,TECHNOLOGY,FinOps,ORG,59
+Beijing,GPE,the White House,ORG,59
+DeepSeek,PRODUCT,Washington,GPE,59
+Artificial Intelligence,TECHNOLOGY,Tennessee,GPE,59
+Google,ORG,HTML,ORG,59
+Claude,MODEL,Claude Code,PERSON,59
+Japan,GPE,the Center for Strategic and International Studies,ORG,59
+Russia,GPE,Xi Jinping,PERSON,59
+Artificial Intelligence,TECHNOLOGY,Trump’s,PERSON,59
+Hollywood,GPE,Washington,GPE,59
+China,GPE,Musk,PERSON,59
+European Union,ORG,Poland,GPE,59
+Treasury,ORG,Washington,GPE,59
+New York,GPE,Nvidia,ORG,59
+AP,ORG,California,GPE,59
+New Zealand,GPE,United Kingdom,GPE,59
+China,GPE,GPU,TECHNOLOGY,59
+Artificial Intelligence,TECHNOLOGY,RL,PERSON,59
+OpenAI,ORG,OpenAI’s,ORG,59
+Iran,GPE,Joe Biden,PERSON,59
+Fox News,ORG,Trump,PERSON,59
+Artificial Intelligence,TECHNOLOGY,Philippines,GPE,59
+Nigeria,GPE,United States,GPE,59
+D.C.,GPE,Senate,ORG,59
+Google Cloud,PRODUCT,OpenAI,ORG,59
+London,GPE,San Francisco,GPE,59
+Massachusetts,GPE,Trump,PERSON,59
+Claude,MODEL,GPT-4,PERSON,59
+China,GPE,Georgia,GPE,59
+UAE,ORG,United States,GPE,59
+Artificial Intelligence,TECHNOLOGY,RPA,ORG,59
+Artificial Intelligence,TECHNOLOGY,the United Arab Emirates,GPE,59
+Argentina,GPE,Artificial Intelligence,TECHNOLOGY,59
+EIN,ORG,United States,GPE,59
+Amazon,ORG,London,GPE,59
+Giants,ORG,New York City,GPE,59
+China,GPE,Navy,ORG,59
+California,GPE,Zohran Mamdani,PERSON,59
+ESPN,ORG,Russia,GPE,59
+China,GPE,South Africa,GPE,59
+Florida,GPE,Ukraine,GPE,59
+Chicago,GPE,China,GPE,59
+FTC,REGULATOR,WhatsApp,ORG,59
+France,GPE,The United States,GPE,59
+Iran,GPE,NBA,ORG,59
+GDPR,LAW,Meta,ORG,59
+Iran,GPE,NASA,ORG,59
+Chicago,GPE,Washington,GPE,59
+Artificial Intelligence,TECHNOLOGY,Belgium,GPE,59
+OpenAI,ORG,South Korea,GPE,59
+Biden,PERSON,Maryland,GPE,59
+AML,ORG,Artificial Intelligence,TECHNOLOGY,59
+Russia,GPE,Tehran,GPE,59
+Texas,GPE,White House,ORG,59
+Macau,GPE,Macau News Agency,ORG,59
+Macau,GPE,UTM Comments,ORG,59
+Macau Business,ORG,Macau News Agency,ORG,59
+Meta,ORG,Reuters,ORG,59
+Israel,GPE,NATO,ORG,59
+Android,PRODUCT,Gemini,MODEL,59
+Iran,GPE,Microsoft,ORG,59
+GPU,TECHNOLOGY,GitHub,PRODUCT,59
+Macau News Agency,ORG,UTM Comments,ORG,59
+Mets,ORG,New York City,GPE,59
+FP,ORG,Israel,GPE,59
+Macau Business,ORG,UTM Comments,ORG,59
+AGI,ORG,Sam Altman,PERSON,59
+Artificial Intelligence,TECHNOLOGY,The Wall Street Journal,ORG,59
+Mexico,GPE,Russia,GPE,59
+Congress,ORG,FTC,REGULATOR,59
+California,GPE,Virginia,GPE,59
+Amazon,ORG,New York City,GPE,59
+Amazon,ORG,GPU,TECHNOLOGY,59
+Japan,GPE,the European Union,ORG,59
+Ring,ORG,Trump,PERSON,59
+Google,ORG,Llama,PRODUCT,59
+EU AI Act,LAW,the European Union’s,ORG,59
+Biden,PERSON,India,GPE,59
+Alpha Brand Media,ORG,GEO,ORG,59
+Big Tech,GPE,United States,GPE,59
+Britain,GPE,Ukraine,GPE,59
+Docker,PERSON,Kubernetes,TECHNOLOGY,59
+Hamas,ORG,New York,GPE,59
+Graham Holdings Company,ORG,Israel,GPE,59
+Fed,ORG,Trump,PERSON,59
+Biden,PERSON,United Kingdom,GPE,59
+Australia,GPE,Beijing,GPE,58
+Hakeem Jeffries,PERSON,House,ORG,58
+Large Language Model,TECHNOLOGY,YouTube,PRODUCT,58
+Australia,GPE,New York,GPE,58
+AP,ORG,Russia,GPE,58
+Artificial Intelligence,TECHNOLOGY,Vercel,PERSON,58
+Pentagon,ORG,White House,ORG,58
+API,TECHNOLOGY,CTO,ORG,58
+David Sacks,PERSON,United States,GPE,58
+David Sacks,PERSON,Trump,PERSON,58
+France,GPE,Netherlands,GPE,58
+Trump,PERSON,the Oval Office,ORG,58
+America,GPE,ESPN,ORG,58
+Artificial Intelligence,TECHNOLOGY,Benjamin Netanyahu,PERSON,58
+IBM,ORG,India,GPE,58
+France,GPE,Meta,ORG,58
+Amazon,ORG,Internet of Things,TECHNOLOGY,58
+Altman,PERSON,OpenAI,ORG,58
+Altman,PERSON,Sam Altman,PERSON,58
+CBS News,ORG,New York,GPE,58
+Netherlands,GPE,United Kingdom,GPE,58
+Kremlin,ORG,Moscow,GPE,58
+GitHub,PRODUCT,Kubernetes,TECHNOLOGY,58
+GEO,ORG,PPC,ORG,58
+Claude,MODEL,Nvidia,ORG,58
+Palantir,ORG,United States,GPE,58
+France,GPE,NATO,ORG,58
+Science News,ORG,United States,GPE,58
+Russia,GPE,Turkey,GPE,58
+Knicks,ORG,New York City,GPE,58
+Hakeem Jeffries,PERSON,United States,GPE,58
+Hakeem Jeffries,PERSON,Trump,PERSON,58
+Microsoft,ORG,Oracle,PERSON,58
+China,GPE,NWWashington,GPE,58
+Qatar,GPE,Trump,PERSON,58
+Britain,GPE,Russia,GPE,58
+Russia,GPE,Syria,GPE,58
+the Center for Strategic and International Studies,ORG,the European Union,ORG,58
+Gavin Newsom,PERSON,New York,GPE,58
+Artificial Intelligence,TECHNOLOGY,Finland,GPE,58
+Post,ORG,Zohran Mamdani,PERSON,58
+GPT-4,PERSON,United States,GPE,58
+Dario Amodei,PERSON,Sam Altman,PERSON,58
+OpenAI,ORG,Sora,PERSON,58
+OpenAI,ORG,Samsung,ORG,58
+SQL,TECHNOLOGY,United States,GPE,58
+China,GPE,Turkey,GPE,58
+Iran,GPE,Post,ORG,58
+Iran,GPE,NFL,ORG,58
+Mexico,GPE,New York,GPE,58
+Maryland,GPE,Russia,GPE,58
+Congress,ORG,Gaza,GPE,58
+CRM,TECHNOLOGY,WebFX,ORG,58
+Artificial Intelligence,TECHNOLOGY,Palantir,ORG,58
+Ford,ORG,United States,GPE,58
+United States,GPE,the Defense Department,ORG,58
+FCC,ORG,United States,GPE,58
+MCPs & Agents,ORG,Model Context Protocol,STANDARD,58
+Gemini,MODEL,Trump,PERSON,58
+State,ORG,the White House,ORG,58
+Google,ORG,JSON,PERSON,58
+New York,GPE,Norway,GPE,58
+Twitter,PERSON,YouTube,PRODUCT,58
+Amazon,ORG,Twitter,PERSON,58
+Microsoft,ORG,Netflix,GPE,58
+Internet of Things,TECHNOLOGY,Luca Giovannini,PERSON,58
+Claude,MODEL,San Francisco,GPE,58
+Android,PRODUCT,United Kingdom,GPE,58
+Google Cloud,PRODUCT,Large Language Model,TECHNOLOGY,58
+Artificial Intelligence,TECHNOLOGY,Davos,GPE,58
+Data,ORG,Internet of Things,TECHNOLOGY,58
+New York,GPE,YouTube,PRODUCT,58
+House,ORG,Joe Biden,PERSON,58
+Adobe,ORG,Microsoft,ORG,58
+Meet Nutshell,PERSON,WebFX,ORG,58
+Gartner Hype Cycle,ORG,Model Context Protocol,STANDARD,58
+Internet of Things,TECHNOLOGY,Trelleborg,ORG,58
+Internet of Things,TECHNOLOGY,Skyquest Team,ORG,58
+Internet of Things,TECHNOLOGY,SkyQuest Technology Consulting Pvt. Ltd.,ORG,58
+Internet of Things,TECHNOLOGY,SkyQuest Technology,ORG,58
+Joe Biden,PERSON,White House,ORG,58
+Slack,PRODUCT,UI,ORG,58
+CSIS,ORG,Germany,GPE,58
+DHS,ORG,New York,GPE,58
+FBI,ORG,Florida,GPE,58
+ERP,TECHNOLOGY,Machine Learning,TECHNOLOGY,58
+China,GPE,Instagram,PRODUCT,58
+Kubernetes,TECHNOLOGY,Machine Learning,TECHNOLOGY,58
+America,GPE,Pete Hegseth,PERSON,58
+AP,ORG,the White House,ORG,58
+California,GPE,Knicks,ORG,58
+Biden,PERSON,DHS,ORG,58
+California,GPE,Joe Biden,PERSON,58
+Post,ORG,Texas,GPE,58
+Model Context Protocol,STANDARD,VAR & VAD,ORG,58
+Model Context Protocol,STANDARD,TrueFoundry,ORG,58
+Trump,PERSON,the United Nations,ORG,57
+China,GPE,Norway,GPE,57
+Afghanistan,GPE,Ukraine,GPE,57
+Model Context Protocol,STANDARD,RPS,ORG,57
+Meta,ORG,Twitter,PERSON,57
+Gravitee,ORG,Kafka,PERSON,57
+Internet of Things,TECHNOLOGY,Quality Assurance,ORG,57
+Artificial Intelligence,TECHNOLOGY,Flash,PERSON,57
+Joe Biden,PERSON,OpenAI,ORG,57
+Altman,GPE,OpenAI,ORG,57
+FBI,ORG,New York City,GPE,57
+Los Angeles,GPE,NY Post,ORG,57
+Factiva,ORG,Internet of Things,TECHNOLOGY,57
+Globally,ORG,Internet of Things,TECHNOLOGY,57
+Hoover,PERSON,Internet of Things,TECHNOLOGY,57
+Elon Musk,PERSON,European Union,ORG,57
+Internet of Things,TECHNOLOGY,Validation & Publishing: Validation,ORG,57
+Google,ORG,SAP,ORG,57
+Afghanistan,GPE,Russia,GPE,57
+DC,GPE,Russia,GPE,57
+America,GPE,NATO,ORG,57
+Google Cloud,PRODUCT,Machine Learning,TECHNOLOGY,57
+Trump,PERSON,U.N.,ORG,57
+Artificial Intelligence,TECHNOLOGY,Ford,ORG,57
+Amazon,ORG,Walmart,ORG,57
+Internet of Things,TECHNOLOGY,SkyQuest,ORG,57
+Internet of Things,TECHNOLOGY,Market players & comparative,ORG,57
+Google,ORG,Spotify,GPE,57
+Knicks,ORG,NFL,ORG,57
+Forbes,ORG,United States,GPE,57
+Israel,GPE,White House,ORG,57
+America,GPE,Marco Rubio,PERSON,57
+Amazon,ORG,Norway,GPE,57
+Artificial Intelligence,TECHNOLOGY,Denver,GPE,57
+California,GPE,Norway,GPE,57
+Internet of Things,TECHNOLOGY,Validation & re-validation,ORG,57
+LinkedIn,PRODUCT,Machine Learning,TECHNOLOGY,57
+Saudi Arabia,GPE,Ukraine,GPE,57
+Hollywood,GPE,Iran,GPE,57
+European Union,ORG,IBM,ORG,57
+Artificial Intelligence,TECHNOLOGY,Geneva,GPE,57
+AP,ORG,Google,ORG,57
+Florida,GPE,the White House,ORG,57
+FTC,REGULATOR,Meta,ORG,57
+Australia,GPE,Brazil,GPE,57
+New York,GPE,WhatsApp,ORG,57
+Italy,GPE,Russia,GPE,57
+Bloomberg Business,ORG,Internet of Things,TECHNOLOGY,57
+Artificial Intelligence,TECHNOLOGY,F1,GPE,57
+Georgia,GPE,Trump,PERSON,57
+Sam Altman,PERSON,Washington,GPE,57
+Google,ORG,U.K.,GPE,57
+Elon Musk,PERSON,TikTok,ORG,57
+Canada,GPE,Toronto,GPE,57
+Agentic,PERSON,Artificial Intelligence,TECHNOLOGY,57
+Internet of Things,TECHNOLOGY,Primary Exploratory Research,ORG,57
+Donald Trump’s,PERSON,Washington,GPE,57
+Kathy Hochul,PERSON,United States,GPE,57
+United States,GPE,the Society for Science,ORG,57
+Retrieval-Augmented Generation,TECHNOLOGY,United States,GPE,57
+AWS,ORG,LinkedIn,PRODUCT,57
+Congress,ORG,Los Angeles,GPE,57
+Canada,GPE,WhatsApp,ORG,57
+GitHub,PRODUCT,LangChain,ORG,57
+Artificial Intelligence,TECHNOLOGY,Fortune 500,PRODUCT,57
+Copilot,ORG,GitHub,PRODUCT,57
+GOP,ORG,Texas,GPE,57
+Model Context Protocol,STANDARD,SDK,ORG,57
+America,GPE,Pennsylvania,GPE,57
+Arizona,GPE,California,GPE,57
+D.C.,GPE,Israel,GPE,57
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Business Information Services,ORG,57
+America,GPE,Benjamin Netanyahu,PERSON,57
+Biden,PERSON,WhatsApp,ORG,57
+Israel,GPE,Lebanon,GPE,57
+United States,GPE,Wikipedia,ORG,57
+Agentic AI,TECHNOLOGY,United States,GPE,57
+OpenAI,ORG,Taiwan,GPE,57
+JD Vance,PERSON,the White House,ORG,57
+Brussels,GPE,European Commission,REGULATOR,57
+GEO,ORG,SEJ,ORG,57
+Iraq,GPE,Washington,GPE,57
+API,TECHNOLOGY,HTML,ORG,57
+Big Tech,ORG,Meta,ORG,57
+CRM,TECHNOLOGY,Model Context Protocol,STANDARD,57
+Amazon,ORG,White House,ORG,57
+America,GPE,Donald Trump’s,PERSON,57
+Large Language Model,TECHNOLOGY,Nvidia,ORG,57
+AWS,ORG,IBM,ORG,57
+Davos,GPE,United States,GPE,57
+AP,ORG,Associated Press,ORG,57
+GOP,ORG,White House,ORG,57
+MAGA,ORG,United States,GPE,57
+Success,ORG,United States,GPE,57
+API,TECHNOLOGY,NLP,ORG,57
+India,GPE,Pakistan,GPE,57
+Artificial Intelligence,TECHNOLOGY,Carnegie Mellon University,ORG,57
+Paris,GPE,Ukraine,GPE,57
+Microsoft,ORG,WhatsApp,ORG,57
+Canada,GPE,Taiwan,GPE,56
+New York City,GPE,Yankees,ORG,56
+Congress,ORG,France,GPE,56
+Alibaba,GPE,China,GPE,56
+North Carolina,GPE,Senate,ORG,56
+API,TECHNOLOGY,PDF,ORG,56
+CSIS,ORG,European Union,ORG,56
+Grok,PERSON,Microsoft,ORG,56
+DevOps,ORG,LinkedIn,PRODUCT,56
+Commerce,ORG,United States,GPE,56
+Adobe,ORG,Google,ORG,56
+China,GPE,Greenland,GPE,56
+Japan,GPE,Mexico,GPE,56
+Boston,GPE,New York,GPE,56
+Marco Rubio,PERSON,the White House,ORG,56
+California,GPE,the European Union,ORG,56
+Amazon,ORG,Pentagon,ORG,56
+Pakistan,GPE,Trump,PERSON,56
+Georgia,GPE,New York,GPE,56
+Sony,ORG,United States,GPE,56
+Los Angeles,GPE,Yankees,ORG,56
+Los Angeles,GPE,NFL,ORG,56
+Artificial Intelligence,TECHNOLOGY,EY,ORG,56
+Trump,PERSON,the State Department,ORG,56
+API,TECHNOLOGY,QA,ORG,56
+API,TECHNOLOGY,BigQuery,ORG,56
+FTC,REGULATOR,Microsoft,ORG,56
+Artificial Intelligence,TECHNOLOGY,Xi,PERSON,56
+South Korea,GPE,Ukraine,GPE,56
+Iran,GPE,Marco Rubio,PERSON,56
+Iran,GPE,San Francisco,GPE,56
+United States,GPE,Volodymyr Zelensky,PERSON,56
+Kathy Hochul,PERSON,Trump,PERSON,56
+Artificial Intelligence,TECHNOLOGY,iPad,ORG,56
+United States,GPE,WASHINGTON,GPE,56
+Claude,MODEL,GPU,TECHNOLOGY,56
+Israel,GPE,United Kingdom,GPE,56
+NASA,ORG,Senate,ORG,56
+Canada,GPE,Sweden,GPE,56
+CBS News,ORG,NASA,ORG,56
+Artificial Intelligence,TECHNOLOGY,CIO Dive's,PERSON,56
+Amazon,ORG,Hollywood,GPE,56
+China,GPE,Venezuela,GPE,56
+New Jersey,GPE,Washington,GPE,56
+Microsoft,ORG,Microsoft Copilot,ORG,56
+DevOps,ORG,Machine Learning,TECHNOLOGY,56
+OpenAI,ORG,Singapore,GPE,56
+EU AI Act,LAW,Washington,GPE,56
+LLC,ORG,TIME,ORG,56
+GPU,TECHNOLOGY,Google Cloud,PRODUCT,56
+Artificial Intelligence,TECHNOLOGY,Hegseth,PERSON,56
+Defense,ORG,Hegseth,PERSON,56
+Artificial Intelligence,TECHNOLOGY,Thailand,GPE,56
+Artificial Intelligence,TECHNOLOGY,OAuth,ORG,56
+Britain,GPE,France,GPE,56
+Claude,MODEL,Washington,GPE,56
+United Kingdom,GPE,WhatsApp,ORG,56
+Artificial Intelligence,TECHNOLOGY,Tehran,GPE,56
+United States,GPE,Yemen,GPE,56
+Brooklyn,GPE,Post,ORG,56
+Trump,PERSON,WASHINGTON,GPE,56
+API,TECHNOLOGY,Microsoft Edge,ORG,56
+Intel,ORG,Trump,PERSON,56
+Artificial Intelligence,TECHNOLOGY,Microsoft 365 Copilot,ORG,56
+Biden,PERSON,Taiwan,GPE,56
+Knicks,ORG,Los Angeles,GPE,56
+Association of International Certified Professional Accountants,ORG,the Journal of Accountancy,ORG,56
+China,GPE,Tehran,GPE,56
+Biden,PERSON,TikTok,ORG,56
+DEV,ORG,Email,PERSON,56
+Email,PERSON,Forem,PERSON,56
+House,ORG,NASA,ORG,56
+Artificial Intelligence,TECHNOLOGY,Philadelphia,GPE,56
+Share My Personal Information,ORG,TIME,ORG,56
+China,GPE,Grok,PERSON,56
+DHS,ORG,House,ORG,56
+Arizona,GPE,Washington,GPE,56
+Education,ORG,symposia,PERSON,56
+AWS,ORG,DevOps,ORG,56
+Los Angeles,GPE,United Kingdom,GPE,56
+California,GPE,Tesla,ORG,56
+Biden,PERSON,NASA,ORG,56
+Trump’s,ORG,Washington,GPE,56
+Grok,PERSON,Musk,PERSON,56
+Los Angeles,GPE,Mets,ORG,56
+JofA,PERSON,the Journal of Accountancy,ORG,56
+aicpa-cima.com,ORG,the Journal of Accountancy,ORG,56
+Florida,GPE,Google,ORG,56
+France,GPE,Senate,ORG,56
+Associated Press,ORG,The Associated Press,ORG,56
+Elon Musk,PERSON,Joe Biden,PERSON,56
+UN,ORG,the United Nations,ORG,56
+Congress,ORG,the European Union,ORG,56
+AWS,ORG,Claude,MODEL,56
+EU AI Act,LAW,Generative AI,TECHNOLOGY,56
+MarketBeat,ORG,MarketBeat All Access,ORG,56
+CPU,ORG,Large Language Model,TECHNOLOGY,56
+Artificial Intelligence,TECHNOLOGY,Nigeria,GPE,55
+Sam Altman,PERSON,San Francisco,GPE,55
+Artificial Intelligence,TECHNOLOGY,DeepSeek,LAW,55
+America,GPE,Norway,GPE,55
+House,ORG,New York City,GPE,55
+Dario Amodei,PERSON,Google,ORG,55
+NASA,ORG,Russia,GPE,55
+Artificial Intelligence,TECHNOLOGY,the University of Oxford,ORG,55
+CI,ORG,Microsoft,ORG,55
+API,TECHNOLOGY,MLOps,ORG,55
+KPMG LLP,ORG,United States,GPE,55
+Meta’s,ORG,United States,GPE,55
+Norway,GPE,United Kingdom,GPE,55
+Microsoft,ORG,the European Union,ORG,55
+Artificial Intelligence,TECHNOLOGY,Marco Rubio,PERSON,55
+Google,ORG,Meta’s,ORG,55
+Artificial Intelligence,TECHNOLOGY,Elon Musk's,PERSON,55
+Congress,ORG,Defense,ORG,55
+Artificial Intelligence,TECHNOLOGY,the Department of Homeland Security,ORG,55
+Navy,ORG,Washington,GPE,55
+OpenAI,ORG,Palantir,PERSON,55
+Japan,GPE,Meta,ORG,55
+Artificial Intelligence,TECHNOLOGY,Sydney,GPE,55
+EU AI Act,LAW,Machine Learning,TECHNOLOGY,55
+California,GPE,Ring,ORG,55
+Manhattan,GPE,Yankees,ORG,55
+Texas,GPE,TikTok,ORG,55
+CPU,ORG,Microsoft,ORG,55
+Artificial Intelligence,TECHNOLOGY,Vladimir Putin,PERSON,55
+Iran,GPE,Minnesota,GPE,55
+Internet of Things,TECHNOLOGY,etcCompany profileMarket dynamics & outlookRegion,ORG,55
+Artificial Intelligence,TECHNOLOGY,CRO,ORG,55
+Google,ORG,North Carolina,GPE,55
+Gemini,MODEL,Machine Learning,TECHNOLOGY,55
+Defense,ORG,Russia,GPE,55
+United States,GPE,the Oval Office,ORG,55
+France,GPE,Poland,GPE,55
+Gemini Enterprise,ORG,Google,ORG,55
+AWS,ORG,GitHub,PRODUCT,55
+European Union,ORG,Sweden,GPE,55
+ESPN,ORG,Iran,GPE,55
+House,ORG,Los Angeles,GPE,55
+ESPN,ORG,House,ORG,55
+API,TECHNOLOGY,Hugging Face,ORG,55
+China,GPE,Manhattan,GPE,55
+Benjamin Netanyahu,PERSON,New York,GPE,55
+China,GPE,GOP,ORG,55
+GM,ORG,United States,GPE,55
+DHS,ORG,Google,ORG,55
+Artificial Intelligence,TECHNOLOGY,San Diego,GPE,55
+Artificial Intelligence,TECHNOLOGY,Sundar Pichai,PERSON,55
+Los Angeles,GPE,Russia,GPE,55
+Beijing,GPE,Microsoft,ORG,55
+Artificial Intelligence,TECHNOLOGY,FCC,ORG,55
+China,GPE,Thailand,GPE,55
+Giants,ORG,Zohran Mamdani,PERSON,55
+the European Union,ORG,the United Kingdom,GPE,55
+Venezuela,GPE,Washington,GPE,55
+Trump,PERSON,Turkey,GPE,55
+Texas,GPE,Virginia,GPE,55
+European Union,ORG,NATO,ORG,55
+Google,ORG,iPhone,ORG,55
+Artificial Intelligence,TECHNOLOGY,TPU,ORG,55
+API,TECHNOLOGY,Gartner,ORG,55
+Iran,GPE,Vladimir Putin,PERSON,55
+ByteDance,ORG,China,GPE,55
+New York City,GPE,Zohran Mamdani,PERSON,55
+Biden,PERSON,Florida,GPE,55
+Artificial Intelligence,TECHNOLOGY,Target,ORG,55
+NHS,ORG,United Kingdom,GPE,55
+Gartner Hype Cycle,ORG,RBAC,ORG,55
+DeepSeek,PRODUCT,Gemini,MODEL,55
+Microsoft,ORG,Microsoft 365 Copilot,ORG,55
+MCPs & Agents,ORG,RBAC,ORG,55
+RBAC,ORG,TrueFoundry,ORG,55
+European Union,ORG,YouTube,PRODUCT,55
+Florida,GPE,Post,ORG,55
+Biden,PERSON,SpaceX,PERSON,55
+Google,ORG,IPO,ORG,55
+Tennessee,GPE,Trump,PERSON,55
+Google,ORG,the United Kingdom,GPE,55
+Portugal,GPE,United States,GPE,55
+Kubernetes,TECHNOLOGY,Linux,TECHNOLOGY,55
+Google,ORG,Sundar Pichai,PERSON,55
+NY Post,ORG,Zohran Mamdani,PERSON,55
+Machine Learning,TECHNOLOGY,Model Context Protocol,STANDARD,55
+Lebanon,GPE,Trump,PERSON,55
+Artificial Intelligence,TECHNOLOGY,S3,ORG,55
+China,GPE,Jensen Huang,PERSON,55
+House,ORG,State,ORG,55
+RBAC,ORG,VAR & VAD,ORG,55
+European Union,ORG,Ireland,GPE,54
+Artificial Intelligence,TECHNOLOGY,Google Analytics,ORG,54
+Digital Services Act,LAW,United States,GPE,54
+State,ORG,White House,ORG,54
+America,GPE,DeepSeek,PRODUCT,54
+Artificial Intelligence,TECHNOLOGY,the International Space Station,ORG,54
+Afghanistan,GPE,Washington,GPE,54
+CIO Dive,ORG,CIO Dive's,PERSON,54
+Stanford University,ORG,United States,GPE,54
+Manhattan,GPE,Mets,ORG,54
+Pete Hegseth,PERSON,Russia,GPE,54
+Australia,GPE,The United States,GPE,54
+LangChain,ORG,LangGraph,ORG,54
+Google,ORG,Oracle,PERSON,54
+3D,ORG,United States,GPE,54
+Canada,GPE,D.C.,GPE,54
+Minneapolis,GPE,Trump,PERSON,54
+Amazon,ORG,GOP,ORG,54
+Medicaid,ORG,Trump,PERSON,54
+Artificial Intelligence,TECHNOLOGY,Fed,ORG,54
+OpenAI,ORG,WhatsApp,ORG,54
+Artificial Intelligence,TECHNOLOGY,Nebraska,GPE,54
+Obama,PERSON,Trump,PERSON,54
+Giants,ORG,Manhattan,GPE,54
+ESPN,ORG,Senate,ORG,54
+Microsoft,ORG,New York City,GPE,54
+Artificial Intelligence,TECHNOLOGY,DoorDash,ORG,54
+California,GPE,The United States,GPE,54
+AP,ORG,White House,ORG,54
+GOP,ORG,Ukraine,GPE,54
+Artificial Intelligence,TECHNOLOGY,Boeing,ORG,54
+European Union,ORG,Netherlands,GPE,54
+CBS Interactive Inc.,ORG,Iran,GPE,54
+America,GPE,Defense,ORG,54
+AP,ORG,ERP,TECHNOLOGY,54
+Navy,ORG,Pentagon,ORG,54
+IPO,ORG,OpenAI,ORG,54
+Apple,ORG,Instagram,PRODUCT,54
+Supreme Court,ORG,Trump,PERSON,54
+Canada,GPE,Elon Musk,PERSON,54
+DeepSeek,ORG,United States,GPE,54
+Ohio,GPE,Washington,GPE,54
+Apple,ORG,Texas,GPE,54
+China,GPE,Pakistan,GPE,54
+Artificial Intelligence,TECHNOLOGY,ISO/IEC 42001,STANDARD,54
+Berlin,GPE,London,GPE,54
+ESPN,ORG,Google,ORG,54
+House,ORG,North Carolina,GPE,54
+Correlates,GPE,India,GPE,54
+Beijing,GPE,European Union,ORG,54
+Google Cloud,PRODUCT,Kubernetes,TECHNOLOGY,54
+Artificial Intelligence,TECHNOLOGY,Shanghai,GPE,54
+Israel,GPE,Saudi Arabia,GPE,54
+Elon Musk,PERSON,SpaceX,PERSON,54
+CNBC,ORG,Meta,ORG,54
+Artificial Intelligence,TECHNOLOGY,ByteDance,ORG,54
+RBAC,ORG,RPS,ORG,54
+China,GPE,LLC,ORG,54
+Biden,PERSON,North Carolina,GPE,54
+Artificial Intelligence,TECHNOLOGY,Red Hat OpenShift,ORG,54
+India,GPE,Texas,GPE,54
+Rangers,ORG,United States,GPE,54
+Adobe,ORG,United States,GPE,54
+Digital,ORG,India,GPE,54
+Google,ORG,The Associated Press,ORG,54
+Palantir,PERSON,Trump,PERSON,54
+Collates,GPE,India,GPE,54
+Britain,GPE,European Union,ORG,54
+CBS News,ORG,Russia,GPE,54
+Artificial Intelligence,TECHNOLOGY,Gemma,ORG,54
+Medicare,ORG,United States,GPE,54
+Google,ORG,Sony,ORG,54
+Altman,GPE,Artificial Intelligence,TECHNOLOGY,54
+Louisiana,GPE,United States,GPE,54
+ByteDance,ORG,TikTok,ORG,54
+Artificial Intelligence,TECHNOLOGY,Customer Success,ORG,54
+D.C.,GPE,Pentagon,ORG,54
+Manhattan,GPE,NBA,ORG,54
+Manhattan,GPE,NY Post,ORG,54
+API,TECHNOLOGY,Terraform,ORG,54
+Microsoft,ORG,White House,ORG,54
+Rangers,ORG,Trump,PERSON,54
+Scott Bessent,PERSON,Treasury,ORG,54
+Alphabet,ORG,Microsoft,ORG,54
+North Korea,GPE,Washington,GPE,54
+Andrew Ng,PERSON,Artificial Intelligence,TECHNOLOGY,54
+D.C.,GPE,Google,ORG,54
+Malaysia,GPE,Singapore,GPE,53
+Jensen Huang,PERSON,OpenAI,ORG,53
+DevOps,ORG,Large Language Model,TECHNOLOGY,53
+New York Times,ORG,United States,GPE,53
+Marco Rubio,PERSON,Ukraine,GPE,53
+Artificial Intelligence,TECHNOLOGY,Venezuela,GPE,53
+Johnson,PERSON,United States,GPE,53
+Iran,GPE,Knicks,ORG,53
+Forrest Hayes,PERSON,United States,GPE,53
+Germany,GPE,Nvidia,ORG,53
+Iran,GPE,NY Post,ORG,53
+Canada,GPE,Los Angeles,GPE,53
+Mark Zuckerberg,PERSON,Microsoft,ORG,53
+D.C.,GPE,India,GPE,53
+Ground News,ORG,ORCID,ORG,53
+CBS News,ORG,CBS News ',ORG,53
+Israel,GPE,Moscow,GPE,53
+Benjamin Netanyahu,PERSON,Israel,GPE,53
+"ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",ORG,Data,ORG,53
+The Wall Street Journal,ORG,United States,GPE,53
+CBS News,ORG,SpaceX,PERSON,53
+Email,PERSON,tim @ smarterarticles.co.uk Templates,PERSON,53
+Email,PERSON,ORCID,ORG,53
+California,GPE,The New York Times,ORG,53
+European Union,ORG,the European Union’s,ORG,53
+Mexico,GPE,United Kingdom,GPE,53
+TikTok,ORG,Ukraine,GPE,53
+Airbus,ORG,Artificial Intelligence,TECHNOLOGY,53
+Hakeem Jeffries,PERSON,Senate,ORG,53
+Internet of Things,TECHNOLOGY,Japan,GPE,53
+Hakeem Jeffries,PERSON,New York,GPE,53
+ORCID,ORG,tim @ smarterarticles.co.uk Templates,PERSON,53
+Amazon,ORG,Tesla,ORG,53
+CBS,ORG,United States,GPE,53
+CBS News ',ORG,United States,GPE,53
+CBS News ',ORG,NASA,ORG,53
+CBS News ',ORG,Trump,PERSON,53
+Claude,MODEL,DeepSeek,PRODUCT,53
+Forem,PERSON,Ground News,ORG,53
+ORCID,ORG,smarterarticles.co.uk,ORG,53
+CTO,ORG,Google,ORG,53
+Austin,PERSON,United States,GPE,53
+API,TECHNOLOGY,metadata,PERSON,53
+Trump,PERSON,the United Arab Emirates,GPE,53
+Generative AI,TECHNOLOGY,Retrieval-Augmented Generation,TECHNOLOGY,53
+LinkedIn,PRODUCT,Slack,PRODUCT,53
+Artificial Intelligence,TECHNOLOGY,ORCID,ORG,53
+Elon Musk,PERSON,YouTube,PRODUCT,53
+Israel,GPE,Pete Hegseth,PERSON,53
+Brooklyn,GPE,California,GPE,53
+London,GPE,New York City,GPE,53
+Trump,PERSON,Utah,GPE,53
+Italy,GPE,South Korea,GPE,53
+Cloud,PERSON,Microsoft,ORG,53
+America,GPE,DHS,ORG,53
+smarterarticles.co.uk,ORG,tim @ smarterarticles.co.uk Templates,PERSON,53
+Artificial Intelligence,TECHNOLOGY,the Apache 2.0 License,LAW,53
+ESG,ORG,KPMG,ORG,53
+Forem,PERSON,smarterarticles.co.uk,ORG,53
+Forem,PERSON,ORCID,ORG,53
+Artificial Intelligence,TECHNOLOGY,New Delhi,GPE,53
+China,GPE,the Department of Defense,ORG,53
+Artificial Intelligence,TECHNOLOGY,Morgan Stanley,ORG,53
+Senate,ORG,The Associated Press,ORG,53
+Email,PERSON,smarterarticles.co.uk,ORG,53
+U.K.,GPE,Washington,GPE,53
+America,GPE,Vladimir Putin,PERSON,53
+CNN,ORG,China,GPE,53
+Britain,GPE,Washington,GPE,53
+Jensen Huang,PERSON,Trump,PERSON,53
+Amazon,ORG,Tim Cook,PERSON,53
+Congress,ORG,San Francisco,GPE,53
+OpenAI,ORG,Stanford,ORG,53
+Artificial Intelligence,TECHNOLOGY,Associated Press,ORG,53
+CBS Interactive Inc.,ORG,NASA,ORG,53
+Canada,GPE,GOP,ORG,53
+Artificial Intelligence,TECHNOLOGY,SoftBank,ORG,53
+TSMC,ORG,United States,GPE,53
+Defense,ORG,Iran,GPE,53
+Washington,GPE,the Department of Defense,ORG,53
+Forem,PERSON,tim @ smarterarticles.co.uk Templates,PERSON,53
+Artificial Intelligence,TECHNOLOGY,ETL,ORG,53
+Iran,GPE,Yankees,ORG,53
+Israel,GPE,the Privacy Policy and Terms of Use,ORG,53
+Forrest Hayes,PERSON,Google,ORG,53
+Iraq,GPE,Russia,GPE,53
+Artificial Intelligence,TECHNOLOGY,Ground News,ORG,53
+Microsoft,ORG,Senate,ORG,53
+America,GPE,the European Union,ORG,53
+Singapore,GPE,Washington,GPE,53
+Artificial Intelligence,TECHNOLOGY,North Korea,GPE,53
+Mets,ORG,Zohran Mamdani,PERSON,53
+Ground News,ORG,tim @ smarterarticles.co.uk Templates,PERSON,53
+FTC,REGULATOR,Russia,GPE,53
+Ground News,ORG,smarterarticles.co.uk,ORG,53
+Japan,GPE,New Zealand,GPE,53
+House,ORG,Pentagon,ORG,53
+California,GPE,Forrest Hayes,PERSON,53
+Business Information Services,ORG,Internet of Things,TECHNOLOGY,53
+America,GPE,Sam Altman,PERSON,53
+Capitol Hill,ORG,United States,GPE,53
+Musk,PERSON,Tesla,ORG,53
+Florida,GPE,GOP,ORG,53
+California,GPE,Nvidia,ORG,53
+Brooklyn,GPE,New York City,GPE,53
+CBS Interactive Inc.,ORG,CBS News ',ORG,53
+Giants,ORG,Iran,GPE,53
+Excel,PRODUCT,Microsoft,ORG,53
+Nvidia,ORG,United Kingdom,GPE,53
+Berlin,GPE,United Kingdom,GPE,53
+DEV,ORG,tim @ smarterarticles.co.uk Templates,PERSON,53
+DEV,ORG,smarterarticles.co.uk,ORG,53
+Russia,GPE,Xi,PERSON,53
+Google,ORG,Oracle,ORG,53
+Amazon,ORG,Reuters,ORG,53
+NBA,ORG,Zohran Mamdani,PERSON,53
+Brazil,GPE,New York,GPE,53
+DEV,ORG,ORCID,ORG,53
+DEV,ORG,Ground News,ORG,53
+Claude,MODEL,Reddit,GPE,53
+Knicks,ORG,Manhattan,GPE,53
+Amazon,ORG,GDPR,LAW,53
+Microsoft,ORG,Perplexity,ORG,53
+Italy,GPE,Microsoft,ORG,53
+Artificial Intelligence,TECHNOLOGY,Markdown,ORG,53
+Germany,GPE,Taiwan,GPE,53
+Artificial Intelligence,TECHNOLOGY,the Creative Commons Attribution 4.0 License,ORG,53
+FBI,ORG,Hollywood,GPE,53
+Email,PERSON,Ground News,ORG,53
+CRM,TECHNOLOGY,OpenAI,ORG,53
+Colorado,GPE,New York,GPE,53
+API,TECHNOLOGY,Gateway,PERSON,53
+Artificial Intelligence,TECHNOLOGY,the Google Developers Site Policies,ORG,53
+Artificial Intelligence,TECHNOLOGY,CMO,ORG,53
+Apple,ORG,Twitter,PERSON,52
+Microsoft,ORG,Slack,PRODUCT,52
+Iran,GPE,Iraq,GPE,52
+DEV,ORG,Gemini,MODEL,52
+Forem,PERSON,Gemini,MODEL,52
+Christy Salters-Martin,PERSON,NASA,ORG,52
+Christy Salters-Martin,PERSON,Trump,PERSON,52
+Christy Salters-Martin,PERSON,United States,GPE,52
+Christy Salters-Martin,PERSON,SpaceX,PERSON,52
+Italy,GPE,Washington,GPE,52
+European Union,ORG,UN,ORG,52
+Altman,GPE,Sam Altman,PERSON,52
+API,TECHNOLOGY,California,GPE,52
+API,TECHNOLOGY,San Francisco,GPE,52
+CBS News ',ORG,Google,ORG,52
+Spain,GPE,Washington,GPE,52
+Chicago,GPE,San Francisco,GPE,52
+America,GPE,"Washington, DC",GPE,52
+CBS Interactive Inc.,ORG,Forrest Hayes,PERSON,52
+Rome,GPE,Trump,PERSON,52
+DEV,ORG,Tim,PERSON,52
+Artificial Intelligence,TECHNOLOGY,smarterarticles.co.uk,ORG,52
+Artificial Intelligence,TECHNOLOGY,tim @ smarterarticles.co.uk Templates,PERSON,52
+Congress,ORG,JD Vance,PERSON,52
+Apache 2.0,PRODUCT,Artificial Intelligence,TECHNOLOGY,52
+China,GPE,Kremlin,ORG,52
+Christy Salters-Martin,PERSON,Google,ORG,52
+Christy Salters-Martin,PERSON,Forrest Hayes,PERSON,52
+Artificial Intelligence,TECHNOLOGY,Bloomberg,ORG,52
+Congress,ORG,Ohio,GPE,52
+Manhattan,GPE,NFL,ORG,52
+Florida,GPE,White House,ORG,52
+Senate,ORG,SpaceX,PERSON,52
+China,GPE,Trump’s,PERSON,52
+California,GPE,Georgia,GPE,52
+GitHub,PRODUCT,GitHub Copilot,ORG,52
+COVID-19,ORG,New York,GPE,52
+America,GPE,NFL,ORG,52
+Alibaba,GPE,OpenAI,ORG,52
+Nebraska,GPE,United States,GPE,52
+Canada,GPE,Graham Holdings Company,ORG,52
+Google,ORG,Musk,PERSON,52
+Meta,ORG,Ukraine,GPE,52
+Hong Kong,GPE,United Kingdom,GPE,52
+Ground News,ORG,Tim,PERSON,52
+Artificial Intelligence,TECHNOLOGY,FinTech,ORG,52
+Cisco,GPE,Google,ORG,52
+CBS Interactive Inc.,ORG,Christy Salters-Martin,PERSON,52
+Large Language Model,TECHNOLOGY,SDK,ORG,52
+Artificial Intelligence,TECHNOLOGY,Chile,GPE,52
+Artificial Intelligence,TECHNOLOGY,Oxford,ORG,52
+Artificial Intelligence,TECHNOLOGY,CBS News ',ORG,52
+Artificial Intelligence,TECHNOLOGY,Christy Salters-Martin,PERSON,52
+Artificial Intelligence,TECHNOLOGY,PostgreSQL,GPE,52
+China,GPE,Iraq,GPE,52
+Coinbase,ORG,United States,GPE,52
+United Nations,ORG,United States,GPE,52
+API,TECHNOLOGY,GitHub Copilot,ORG,52
+IP,ORG,Machine Learning,TECHNOLOGY,52
+Russia,GPE,the Soviet Union,GPE,52
+D.C.,GPE,France,GPE,52
+Tim,PERSON,smarterarticles.co.uk,ORG,52
+Tim,PERSON,tim @ smarterarticles.co.uk Templates,PERSON,52
+America,GPE,Britain,GPE,52
+Amsterdam,GPE,United States,GPE,52
+Artificial Intelligence,TECHNOLOGY,the Financial Times,ORG,52
+Artificial Intelligence,TECHNOLOGY,Forrest Hayes,PERSON,52
+AP,ORG,Ardent Partners,ORG,52
+NBA,ORG,Texas,GPE,52
+Gemini,MODEL,United Kingdom,GPE,52
+U.N.,ORG,Washington,GPE,52
+Army,ORG,Artificial Intelligence,TECHNOLOGY,52
+Forrest Hayes,PERSON,NASA,ORG,52
+Congress,ORG,NATO,ORG,52
+AMD,ORG,Trump,PERSON,52
+CBS News,ORG,Forrest Hayes,PERSON,52
+Yankees,ORG,Zohran Mamdani,PERSON,52
+Artificial Intelligence,TECHNOLOGY,aicpa-cima.com,ORG,52
+Amazon,ORG,Singapore,GPE,52
+Phoenix,GPE,United States,GPE,52
+European Union,ORG,Gemini,MODEL,52
+CBS News,ORG,Christy Salters-Martin,PERSON,52
+Google,ORG,ServiceNow,ORG,52
+Forem,PERSON,Tim,PERSON,52
+Chicago,GPE,Texas,GPE,52
+AGI,ORG,Meta,ORG,52
+Claude,MODEL,TikTok,ORG,52
+Iran,GPE,Lebanon,GPE,52
+CBS Interactive Inc.,ORG,SpaceX,PERSON,52
+Brooklyn,GPE,Giants,ORG,52
+Email,PERSON,Tim,PERSON,52
+Tim,PERSON,United States,GPE,52
+CLI,ORG,Forem,PERSON,52
+Trump,PERSON,the Department of Defense,ORG,52
+API,TECHNOLOGY,India,GPE,52
+ESPN,ORG,GOP,ORG,52
+ORCID,ORG,Tim,PERSON,52
+Artificial Intelligence,TECHNOLOGY,Association of International Certified Professional Accountants,ORG,52
+Amazon,ORG,Australia,GPE,52
+Center for Strategic & International Studies,ORG,the European Union,ORG,52
+CBS News ',ORG,Christy Salters-Martin,PERSON,52
+Israel,GPE,Los Angeles,GPE,52
+California,GPE,Christy Salters-Martin,PERSON,52
+CBS News ',ORG,SpaceX,PERSON,52
+API,TECHNOLOGY,React,GPE,52
+Australia,GPE,Italy,GPE,52
+Hakeem Jeffries,PERSON,Washington,GPE,52
+Australia,GPE,Meta,ORG,52
+Forrest Hayes,PERSON,SpaceX,PERSON,52
+Large Language Model,TECHNOLOGY,Trump,PERSON,52
+Afghanistan,GPE,China,GPE,52
+European Union,ORG,Internet of Things,TECHNOLOGY,52
+TIME,ORG,Terms of Service,ORG,52
+Canada,GPE,New York City,GPE,52
+Artificial Intelligence,TECHNOLOGY,the Justice Department,ORG,52
+Biden,PERSON,The Associated Press,ORG,52
+Iran,GPE,Venezuela,GPE,52
+CBS News ',ORG,California,GPE,52
+Gemma,ORG,Google,ORG,52
+France,GPE,Ireland,GPE,52
+ESPN,ORG,FBI,ORG,52
+Twitter,PERSON,United Kingdom,GPE,52
+Gavin Newsom,PERSON,OpenAI,ORG,52
+Amazon Web Services,ORG,Google Cloud,PRODUCT,52
+Giants,ORG,Los Angeles,GPE,52
+Forrest Hayes,PERSON,Trump,PERSON,52
+JavaScript,ORG,Large Language Model,TECHNOLOGY,52
+FREE,ORG,United Kingdom,GPE,52
+Post,ORG,Russia,GPE,52
+Geneva,GPE,United States,GPE,52
+CBS News ',ORG,Forrest Hayes,PERSON,52
+Benjamin Netanyahu,PERSON,California,GPE,52
+Canada,GPE,U.K.,GPE,52
+China,GPE,the Soviet Union,GPE,52
+CSIS,ORG,NATO,ORG,52
+Artificial Intelligence,TECHNOLOGY,Gateway,GPE,51
+SkyQuest Technology,ORG,United Kingdom,GPE,51
+Britain,GPE,Germany,GPE,51
+GitHub Copilot,ORG,OpenAI,ORG,51
+CIA,ORG,Trump,PERSON,51
+The Washington Post,ORG,United States,GPE,51
+Australia,GPE,Biden,PERSON,51
+DHS,ORG,Senate,ORG,51
+Amazon,ORG,ESPN,ORG,51
+NY,GPE,United States,GPE,51
+Germany,GPE,Switzerland,GPE,51
+Biden,PERSON,ESPN,ORG,51
+Congress,ORG,Pete Hegseth,PERSON,51
+Brussels,GPE,Germany,GPE,51
+California,GPE,LA,GPE,51
+Canada,GPE,Paris,GPE,51
+Illinois,GPE,New York,GPE,51
+House,ORG,The Associated Press,ORG,51
+America,GPE,Paris,GPE,51
+ERP,TECHNOLOGY,Internet of Things,TECHNOLOGY,51
+Skyquest Team,ORG,United Kingdom,GPE,51
+NY Post,ORG,Texas,GPE,51
+API,TECHNOLOGY,LangGraph,ORG,51
+New York,GPE,Pennsylvania,GPE,51
+Biden,PERSON,San Francisco,GPE,51
+Factiva,ORG,United Kingdom,GPE,51
+Artificial Intelligence,TECHNOLOGY,CAD,ORG,51
+USAID,ORG,United States,GPE,51
+Los Angeles,GPE,the White House,ORG,51
+Beijing,GPE,New York,GPE,51
+Globally,ORG,United Kingdom,GPE,51
+CLI,ORG,DEV,ORG,51
+API,TECHNOLOGY,Gateway,GPE,51
+Gateway,GPE,Kafka,PERSON,51
+Alexa,ORG,Google,ORG,51
+Primary Exploratory Research,ORG,United Kingdom,GPE,51
+Defense,ORG,Ukraine,GPE,51
+Claude,MODEL,Copilot,ORG,51
+LinkedIn,PRODUCT,SEO,ORG,51
+Australia,GPE,Iran,GPE,51
+Colorado,GPE,Texas,GPE,51
+Copilot,ORG,Large Language Model,TECHNOLOGY,51
+Flash,PERSON,Google,ORG,51
+Anthropic,ORG,Model Context Protocol,STANDARD,51
+GPT,ORG,Machine Learning,TECHNOLOGY,51
+Army,ORG,Washington,GPE,51
+Apple,ORG,Australia,GPE,51
+India,GPE,Saudi Arabia,GPE,51
+Giants,ORG,Texas,GPE,51
+CSIS,ORG,France,GPE,51
+Share My Personal Information,ORG,United States,GPE,51
+Gemini Enterprise,ORG,Google Cloud,PRODUCT,51
+Congress,ORG,Virginia,GPE,51
+Iran,GPE,Manhattan,GPE,51
+Market players & comparative,ORG,United Kingdom,GPE,51
+Luca Giovannini,PERSON,United Kingdom,GPE,51
+App Store,PERSON,Artificial Intelligence,TECHNOLOGY,51
+China,GPE,Trump’s,ORG,51
+Norway,GPE,Ukraine,GPE,51
+America,GPE,Ohio,GPE,51
+Artificial Intelligence,TECHNOLOGY,XML,ORG,51
+Artificial Intelligence,TECHNOLOGY,GKE,ORG,51
+Microsoft,ORG,SQL,TECHNOLOGY,51
+Knicks,ORG,Zohran Mamdani,PERSON,51
+DeepSeek,ORG,OpenAI,ORG,51
+Brazil,GPE,Ukraine,GPE,51
+Center for Strategic & International Studies,ORG,Japan,GPE,51
+SEC,ORG,the Securities and Exchange Commission,ORG,51
+Trelleborg,ORG,United Kingdom,GPE,51
+United Kingdom,GPE,Validation & Publishing: Validation,ORG,51
+Gaza,GPE,State,ORG,51
+Artificial Intelligence,TECHNOLOGY,Claude Code,LAW,51
+Artificial Intelligence,TECHNOLOGY,MSP,ORG,51
+Kubernetes,TECHNOLOGY,Microsoft,ORG,51
+DEV,ORG,EU AI Act,LAW,51
+AI/ML,ORG,API,TECHNOLOGY,51
+Bloomberg Business,ORG,United Kingdom,GPE,51
+Claude,MODEL,Machine Learning,TECHNOLOGY,51
+Quality Assurance,ORG,United Kingdom,GPE,51
+Howick Place,PERSON,London,GPE,51
+Beijing,GPE,Joe Biden,PERSON,51
+Ukraine,GPE,the United Kingdom,GPE,51
+New York,GPE,Rangers,ORG,51
+NFL,ORG,Zohran Mamdani,PERSON,51
+European Commission,REGULATOR,OpenAI,ORG,51
+Ardent Partners,ORG,Artificial Intelligence,TECHNOLOGY,51
+Society for Science & the Public 2000–2026,ORG,United States,GPE,51
+NASA,ORG,Ring,ORG,51
+Anthropic,ORG,Gemini,MODEL,51
+Beijing,GPE,TikTok,ORG,51
+Artificial Intelligence,TECHNOLOGY,Phoenix,GPE,51
+Hoover,PERSON,United Kingdom,GPE,51
+Artificial Intelligence,TECHNOLOGY,Keir Starmer,PERSON,51
+Florida,GPE,Yankees,ORG,51
+Brooklyn,GPE,Yankees,ORG,51
+NFL,ORG,Texas,GPE,51
+The Associated Press,ORG,Ukraine,GPE,51
+Microsoft,ORG,The United States,GPE,51
+Cloudflare,ORG,Google,ORG,51
+API,TECHNOLOGY,Copilot,ORG,51
+America,GPE,Arizona,GPE,51
+Los Angeles,GPE,Manhattan,GPE,51
+Gemini,MODEL,TikTok,ORG,51
+Large Language Model,TECHNOLOGY,NLP,ORG,51
+OpenAI,ORG,The United States,GPE,51
+Russia,GPE,Volodymyr Zelensky,PERSON,51
+Moscow,GPE,Ukrainian,GPE,51
+Canada,GPE,FP,ORG,51
+The United States,GPE,the White House,ORG,51
+Brooklyn,GPE,NY Post,ORG,51
+Brooklyn,GPE,Mets,ORG,51
+DevOps,ORG,GitHub,PRODUCT,51
+SkyQuest,ORG,United Kingdom,GPE,51
+SkyQuest Technology Consulting Pvt. Ltd.,ORG,United Kingdom,GPE,51
+United States,GPE,the Wall Street Journal,ORG,51
+California,GPE,GDPR,LAW,51
+Digital,ORG,GDPR,LAW,51
+Iran,GPE,The Associated Press,ORG,51
+AP,ORG,Senate,ORG,51
+EU AI Act,LAW,Forem,PERSON,51
+Instagram,PRODUCT,Microsoft,ORG,51
+Bloomberg,ORG,United States,GPE,51
+Constitution,LAW,United States,GPE,51
+United Kingdom,GPE,Validation & re-validation,ORG,51
+Pentagon,ORG,Texas,GPE,51
+Google,ORG,LangChain,ORG,51
+Artificial Intelligence,TECHNOLOGY,Houston,GPE,51
+Graham Digital Holding Company,ORG,Trump,PERSON,51
+GOP,ORG,Israel,GPE,50
+Correlates,GPE,Internet of Things,TECHNOLOGY,50
+Artificial Intelligence,TECHNOLOGY,Harvard University,ORG,50
+American AI,ORG,United States,GPE,50
+JD Vance,PERSON,Ukraine,GPE,50
+Artificial Intelligence,TECHNOLOGY,Trump’s,ORG,50
+Airbus,ORG,United States,GPE,50
+United Kingdom,GPE,etcCompany profileMarket dynamics & outlookRegion,ORG,50
+GPT-4,PERSON,Microsoft,ORG,50
+Collates,GPE,Internet of Things,TECHNOLOGY,50
+Microsoft,ORG,NIST,REGULATOR,50
+Syria,GPE,Ukraine,GPE,50
+Kentucky,GPE,United States,GPE,50
+Artificial Intelligence,TECHNOLOGY,UAE,ORG,50
+Apple,ORG,IBM,ORG,50
+TikTok,ORG,the White House,ORG,50
+AWS,ORG,GPU,TECHNOLOGY,50
+Texas,GPE,Yankees,ORG,50
+Claude,MODEL,United Kingdom,GPE,50
+Ukraine,GPE,Xi Jinping,PERSON,50
+Artificial Intelligence,TECHNOLOGY,Teams,ORG,50
+DHS,ORG,Russia,GPE,50
+The United States,GPE,United Kingdom,GPE,50
+Brooklyn,GPE,NBA,ORG,50
+Canada,GPE,FTC,REGULATOR,50
+Instagram,PRODUCT,Iran,GPE,50
+America,GPE,Putin,PERSON,50
+House,ORG,SpaceX,PERSON,50
+EV,ORG,United Kingdom,GPE,50
+Senate,ORG,TikTok,ORG,50
+Microsoft Azure,ORG,United States,GPE,50
+Estonia,GPE,United States,GPE,50
+Israel,GPE,San Francisco,GPE,50
+FBI,ORG,Minnesota,GPE,50
+Elon Musk's,PERSON,United States,GPE,50
+IBM,ORG,Machine Learning,TECHNOLOGY,50
+American AI,ORG,Artificial Intelligence,TECHNOLOGY,50
+America,GPE,CBS Interactive Inc.,ORG,50
+Correlates,GPE,United Kingdom,GPE,50
+America,GPE,Graham Holdings Company,ORG,50
+China,GPE,MIT,ORG,50
+Illinois,GPE,Trump,PERSON,50
+Amazon,ORG,Brazil,GPE,50
+Amazon,ORG,Israel,GPE,50
+America,GPE,Minnesota,GPE,50
+Dario Amodei,PERSON,Pentagon,ORG,50
+NYSE,ORG,United States,GPE,50
+Collates,GPE,United Kingdom,GPE,50
+Iran,GPE,TikTok,ORG,50
+United States,GPE,the Department of Justice,ORG,50
+CTO,ORG,Large Language Model,TECHNOLOGY,50
+Artificial Intelligence,TECHNOLOGY,LA,GPE,50
+Reuters,ORG,United Kingdom,GPE,50
+United States,GPE,the Securities and Exchange Commission,ORG,50
+House,ORG,Microsoft,ORG,50
+LLC,ORG,Washington,GPE,50
+Graham Digital Holding Company,PERSON,The United States,GPE,50
+CLI,ORG,Claude,MODEL,50
+Andreessen Horowitz,PERSON,United States,GPE,50
+Artificial Intelligence,TECHNOLOGY,Palo Alto Networks,ORG,50
+Google,ORG,the Apache 2.0 License,LAW,50
+Google,ORG,the Creative Commons Attribution 4.0 License,ORG,50
+Google,ORG,the Google Developers Site Policies,ORG,50
+China,GPE,Post,ORG,50
+DeepSeek,ORG,DeepSeek,PRODUCT,50
+Congress,ORG,Treasury,ORG,50
+Artificial Intelligence,TECHNOLOGY,VPC,ORG,50
+Knicks,ORG,Texas,GPE,50
+Switzerland,GPE,Trump,PERSON,50
+Google,ORG,SDK,ORG,50
+Germany,GPE,Meta,ORG,50
+Atlanta,GPE,New York,GPE,50
+China,GPE,Scott Bessent,PERSON,50
+France,GPE,House,ORG,50
+Texas,GPE,The Associated Press,ORG,50
+Apple,ORG,France,GPE,50
+Apple,ORG,Intel,ORG,50
+Pennsylvania,GPE,Washington,GPE,50
+Elon Musk,PERSON,Nvidia,ORG,50
+Anthropic,ORG,Nvidia,ORG,50
+Congress,ORG,Marco Rubio,PERSON,50
+European Union,ORG,the European Parliament,ORG,50
+Anthropic’s,PERSON,OpenAI,ORG,50
+Artificial Intelligence,TECHNOLOGY,Zuckerberg,PERSON,50
+NASA,ORG,the International Space Station,ORG,50
+Israel,GPE,Post,ORG,50
+JD Vance,PERSON,New York,GPE,50
+America,GPE,Treasury,ORG,50
+America,GPE,Yankees,ORG,50
+API,TECHNOLOGY,IDE,ORG,50
+Minnesota,GPE,Washington,GPE,50
+Amazon,ORG,Big Tech,ORG,50
+United States,GPE,the World Bank,ORG,50
+Mets,ORG,Texas,GPE,50
+Cursor,GPE,UI,ORG,50
+Business Information Services,ORG,United Kingdom,GPE,50
+China,GPE,Dario Amodei,PERSON,50
+Taiwan,GPE,Xi Jinping,PERSON,50
+Israel,GPE,Taiwan,GPE,50
+Alexa,ORG,Amazon,ORG,50
+Hegseth,PERSON,Washington,GPE,50
+GitHub,PRODUCT,JavaScript,ORG,50
+Artificial Intelligence,TECHNOLOGY,the Google Privacy Policy and Terms of Service,ORG,50
+Artificial Intelligence,TECHNOLOGY,Frontier,ORG,50
+AP,ORG,Medius,PERSON,50
+Google,ORG,TPU,ORG,50
+Beijing,GPE,Huawei,ORG,50
+Canada,GPE,Meta,ORG,50
+Columbia University,ORG,United States,GPE,50
+GOP,ORG,Maryland,GPE,50
+Machine Learning,TECHNOLOGY,Retrieval-Augmented Generation,TECHNOLOGY,50
+United States,GPE,the International Space Station,ORG,50
+AIOps,ORG,Artificial Intelligence,TECHNOLOGY,50
+Ring,ORG,SpaceX,PERSON,50
+OpenAI,ORG,Wikipedia,ORG,50
+Austin,GPE,Google,ORG,50
+Artificial Intelligence,TECHNOLOGY,RL,ORG,50
+Artificial Intelligence,TECHNOLOGY,Yankees,ORG,50
+LA,GPE,Los Angeles,GPE,50
+Microsoft,ORG,Sony,ORG,50
+Biden,PERSON,Hollywood,GPE,50
+Spotify,GPE,United States,GPE,50
+FBI,ORG,White House,ORG,50
+Russia,GPE,The White House,ORG,50
+Amazon,ORG,North Carolina,GPE,50
+China,GPE,Philippines,GPE,50
+Gavin Newsom,PERSON,Los Angeles,GPE,50
+CCP,ORG,United States,GPE,50
+AI/ML,ORG,United States,GPE,50
+Google,ORG,Linux,TECHNOLOGY,50
+Artificial Intelligence,TECHNOLOGY,Baidu,ORG,50
+Artificial Intelligence,TECHNOLOGY,eBay,ORG,50
+Pete Hegseth,PERSON,the White House,ORG,50
+Alaska,GPE,United States,GPE,50

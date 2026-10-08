@@ -1,0 +1,91 @@
+{
+  "node_identifier": "TYPE::NAME",
+  "node_types": {
+    "ORG": "Companies, organisations and institutions",
+    "PERSON": "Individuals",
+    "GPE": "Countries, cities and geopolitical entities",
+    "LAW": "Laws and regulations",
+    "STANDARD": "Governance standards, frameworks and protocols",
+    "REGULATOR": "Regulatory and standard-setting authorities",
+    "MODEL": "AI models",
+    "PRODUCT": "Products and platforms",
+    "TECHNOLOGY": "Technologies and technical concepts",
+    "GOVERNANCE_THEME": "One of the four Governance dimensions"
+  },
+  "node_attributes": {
+    "name": "Normalized entity name",
+    "entity_type": "Node type",
+    "article_frequency": "Number of Governance-related articles containing the entity"
+  },
+  "relation_types": {
+    "CO_MENTIONED_WITH": {
+      "source": "co-occurrence",
+      "direction": "undirected",
+      "weight": "Number of Governance-related articles in which both entities occur"
+    },
+    "ASSOCIATED_WITH_THEME": {
+      "source": "tag mapping",
+      "direction": "undirected",
+      "weight": "Number of articles in which the entity occurs together with the Governance theme"
+    },
+    "REGULATES": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject regulates or restricts the object"
+    },
+    "INVESTIGATES": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject investigates or audits the object"
+    },
+    "FINES": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject imposes a fine or penalty on the object"
+    },
+    "SUES": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject takes legal action against the object"
+    },
+    "COMPLIES_WITH": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject complies with or aligns to the object"
+    },
+    "ADOPTS": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject adopts, passes or implements the object"
+    },
+    "PROPOSES": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject proposes or drafts the object"
+    },
+    "DEVELOPS": {
+      "source": "LLM extraction",
+      "direction": "directed",
+      "meaning": "Subject develops or releases the object"
+    },
+    "PARTNERS_WITH": {
+      "source": "LLM extraction",
+      "direction": "directed (symmetric meaning)",
+      "meaning": "Subject collaborates with the object"
+    }
+  },
+  "extracted_edge_attributes": {
+    "record_id": "Source article in the AI Media Dataset",
+    "date": "Publication date of the source article",
+    "evidence": "Exact text span stating the relation"
+  },
+  "graph_files": {
+    "ai_governance_knowledge_graph.graphml": "Entities with CO_MENTIONED_WITH edges",
+    "ai_governance_knowledge_graph_enriched.graphml": "Additionally Governance themes with ASSOCIATED_WITH_THEME edges",
+    "ai_governance_relation_graph.graphml": "Entities with LLM-extracted, directed and source-linked relations"
+  },
+  "parameters": {
+    "minimum_entity_frequency": 20,
+    "minimum_cooccurrence": 50
+  }
+}
