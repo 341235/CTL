@@ -1,10 +1,19 @@
-# Raw and processed datasets
+# Raw dataset (download from Kaggle, see README)
 data/raw/*
-data/processed/*
 
 # Keep folder structure
 !data/raw/.gitkeep
-!data/processed/.gitkeep
+
+# Processed data is shared with the team (Stage 1 outputs reused in Stage 2/3),
+# except temporary extraction checkpoints and local review exports
+data/processed/**/*_checkpoint.pkl
+data/processed/**/*.tmp
+data/processed/**/~$*
+
+# Large processed files (> GitHub's 100 MB limit) are shared via the team
+# OneDrive folder instead of Git, see README
+data/processed/corpus/ai_media_clean.pkl.gz
+data/processed/entities/governance_entities_fulltext.pkl
 
 # Python
 __pycache__/
@@ -23,6 +32,10 @@ Thumbs.db
 # Secrets / API keys
 .env
 
-# Large model files
+# Large model files (Stage 2); the small Stage 1 topic model is versioned
 outputs/models/*
 !outputs/models/.gitkeep
+!outputs/models/stage1/
+
+# IDE settings
+.idea/
