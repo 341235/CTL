@@ -7,7 +7,7 @@ The project brief is in [`docs/CLT_AI_Trend_Project.pdf`](docs/CLT_AI_Trend_Proj
 
 | Stage | Notebook | Status |
 |---|---|---|
-| 1 – Cleaning, EDA, entities, Knowledge Graph, topics | [`notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb`](notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb) | in review, open items in [`docs/STAGE1_TODO.md`](docs/STAGE1_TODO.md) |
+| 1 – Cleaning, EDA, entities, Knowledge Graph, topics | [`notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb`](notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb) | reviewed and extended |
 | 2 – Embeddings and fine-tuning | `notebooks/stage2_embeddings/` | not started |
 | 3 – RAG question answering | `notebooks/stage3_rag/` | not started |
 
@@ -26,7 +26,7 @@ ProjectCTL/
 │   ├── models/stage1/           NMF topic model and TF-IDF vectorizer
 │   └── figures/stage1/          all Stage 1 figures as PNG
 ├── notebooks/                   one folder per stage
-├── docs/                        project brief and Stage 1 to-do list
+├── docs/                        project brief
 ├── src/                         shared code for later stages
 └── requirements.txt
 ```

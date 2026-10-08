@@ -39,3 +39,7 @@ outputs/models/*
 
 # IDE settings
 .idea/
+
+# Personal notes (kept locally only)
+docs/STAGE1_ERKLAERUNG.md
+docs/STAGE1_TODO.md
