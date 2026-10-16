@@ -1,3 +1,5 @@
+# PyTorch with CUDA 12.8 (GPU); remove this line for a CPU-only installation
+--extra-index-url https://download.pytorch.org/whl/cu128
 pandas
 numpy
 matplotlib
@@ -14,3 +16,11 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 scipy
 langextract
 python-dotenv
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
+gensim
+umap-learn

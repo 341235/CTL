@@ -1,0 +1,10 @@
+{
+  "config_id": "{\"batch_size\": 4, \"epochs\": 1, \"gradient_accumulation\": 4, \"learning_rate\": 0.0002, \"lora_alpha\": 32, \"lora_dropout\": 0.05, \"lora_r\": 16, \"max_length\": 256, \"model\": \"Qwen/Qwen3-4B\", \"target_modules\": [\"q_proj\", \"k_proj\", \"v_proj\", \"o_proj\", \"gate_proj\", \"up_proj\", \"down_proj\"], \"warmup_ratio\": 0.05}",
+  "model_id": "Qwen/Qwen3-4B",
+  "total_parameters": 2238860800,
+  "trainable_parameters": 33040384,
+  "training_minutes": 150.8,
+  "peak_gpu_memory_gb": 5.16,
+  "inference_seconds_per_1000": 1152.7,
+  "final_training_loss": 0.6669
+}

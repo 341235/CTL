@@ -1,0 +1,6 @@
+,Security,Accountability,Bias / Fairness,Regulation,Micro-F1,Macro-F1
+TF-IDF (full) + LogReg,0.776,0.833,0.641,0.683,0.774,0.733
+TF-IDF + SVD + LogReg,0.749,0.818,0.572,0.646,0.74,0.696
+Word2Vec (mean) + LogReg,0.744,0.819,0.582,0.55,0.738,0.674
+FastText (mean) + LogReg,0.735,0.818,0.584,0.541,0.729,0.67
+Doc2Vec + LogReg,0.755,0.832,0.564,0.571,0.745,0.68

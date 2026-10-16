@@ -1,0 +1,8 @@
+Model,Hardware,Parameters (millions),Trained parameters (millions),Training time (min),Peak GPU memory (GB),"Inference (s per 1,000 articles)",Macro-F1
+TF-IDF (full) + LogReg,CPU,0.2,0.2,0.1,0.0,0.8,0.733
+TF-IDF + SVD + LogReg,CPU,10.0,10.0,0.0,0.0,1.1,0.696
+Word2Vec (mean) + LogReg,CPU,24.6,24.6,18.7,0.0,3.1,0.674
+FastText (mean) + LogReg,CPU,424.6,424.6,59.4,0.0,4.9,0.67
+Doc2Vec + LogReg,CPU,33.7,33.7,7.6,0.0,71.7,0.68
+Qwen3-1.7B (QLoRA),GPU (8 GB),1721.0,17.4,117.7,2.59,232.8,0.675
+Qwen3-4B (QLoRA),GPU (8 GB),4022.0,33.0,150.8,5.16,1152.7,0.664

@@ -43,3 +43,7 @@ outputs/models/*
 # Personal notes (kept locally only)
 docs/STAGE1_ERKLAERUNG.md
 docs/STAGE1_TODO.md
+docs/STAGE2_ERKLAERUNG.md
+
+# Large Stage 2 caches
+data/processed/stage2/tokenized_corpus.pkl
