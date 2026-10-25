@@ -1,0 +1,5 @@
+Input policy,Mean article coverage (%),Token-weighted coverage (%),Sequences per article
+Prefix 256,14.955852759475228,10.999243103751207,1.0
+Prefix 512,29.911705518950455,21.998486207502413,1.0
+Up to four 256-token chunks,56.79443212500724,42.619083383575145,4.0
+All 256-token chunks,100.0,100.0,10.74725784025954

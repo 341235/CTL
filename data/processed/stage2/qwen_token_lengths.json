@@ -1,0 +1,8 @@
+{
+  "data_fingerprint": "57ae5bd459001f151a37fb1342badd47ed4a929fe9f39fe1a0c4dc977c48f15e",
+  "tokenizer": "Qwen/Qwen3-1.7B",
+  "prefix_max_length": 256,
+  "max_length": 256,
+  "overlap": 32,
+  "max_chunks": 4
+}

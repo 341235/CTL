@@ -46,4 +46,4 @@ docs/STAGE1_TODO.md
 docs/STAGE2_ERKLAERUNG.md
 
 # Large Stage 2 caches
-data/processed/stage2/tokenized_corpus.pkl
+data/processed/stage2/tokenized_corpus*.pkl

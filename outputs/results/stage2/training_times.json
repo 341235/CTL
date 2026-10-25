@@ -1,5 +1,8 @@
 {
-  "Word2Vec": 1120.5,
-  "FastText": 3561.6,
-  "Doc2Vec": 455.8
+  "embedding_cache_id": "df7049374b50",
+  "Word2Vec": 230.3,
+  "FastText": 604.7,
+  "Doc2Vec": 136.4,
+  "TF-IDF": 2.8,
+  "SVD": 7.0
 }

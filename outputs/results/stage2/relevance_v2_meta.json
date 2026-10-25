@@ -1,0 +1,35 @@
+{
+  "fingerprint": "d3c0a50e48cbb4686b5094e1dad4fbb1cb40b9e903ede8a401e0850547095356",
+  "data_fingerprint": "57ae5bd459001f151a37fb1342badd47ed4a929fe9f39fe1a0c4dc977c48f15e",
+  "config": {
+    "version": 2,
+    "seed": 42,
+    "negative_split": [
+      0.7,
+      0.15,
+      0.15
+    ],
+    "oof_folds": 5,
+    "tfidf": {
+      "ngram_range": [
+        1,
+        2
+      ],
+      "min_df": 5,
+      "max_df": 0.8,
+      "max_features": 50000,
+      "sublinear_tf": true,
+      "stop_words": "english"
+    },
+    "logreg": {
+      "max_iter": 3000,
+      "class_weight": "balanced",
+      "C": 4.0
+    }
+  },
+  "negative_counts": {
+    "train": 24313,
+    "validation": 5210,
+    "test": 5210
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "data_fingerprint": "57ae5bd459001f151a37fb1342badd47ed4a929fe9f39fe1a0c4dc977c48f15e",
+  "fields": [
+    "record_id",
+    "title",
+    "content_text",
+    "date",
+    "split",
+    "security",
+    "accountability",
+    "bias_fairness",
+    "regulation"
+  ],
+  "provenance": "Input snapshot bound during this review; original GPU caches had no content hash. Original article split and order checked against supplied repository split."
+}

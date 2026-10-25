@@ -1,5 +1,7 @@
 ,"Silhouette (Governance themes, test split)"
 TF-IDF + SVD,0.024
+Word2Vec (mean),0.064
+FastText (mean),0.071
 Doc2Vec,0.018
 Qwen3-1.7B (original),-0.007
 Qwen3-1.7B (fine-tuned),0.068

@@ -56,15 +56,25 @@ ProjectCTL/
    |---|---|---|
    | `ai_media_clean.pkl.gz` | `data/processed/corpus/` | Stage 2 (cleaned full corpus) |
    | `governance_entities_fulltext.pkl` | `data/processed/entities/` | Re-running Stage 1 without repeating NER (~50 min) |
-   | `stage2/` (about 2.7 GB) | `outputs/models/` | Re-running Stage 2 without retraining the embeddings (optional) |
+   | `stage2/` (about 2.7 GB) | `outputs/models/` | Original model caches (optional); the revised protocol uses separate matching caches, see step 4 |
 
    Without the Stage 1 files, the Stage 1 notebook recreates them (about two hours in total).
-4. **Stage 2 caches:** the QLoRA predictions, relevance scores and candidate predictions are cached in
-   `outputs/results/stage2/`, so re-running the notebook does **not** repeat the fine-tuning (about 4.5 hours
-   on an 8 GB laptop GPU). Without the models from OneDrive, the notebook retrains the classical embeddings
-   (Word2Vec, FastText, Doc2Vec and the two period models, roughly 1.5–2 hours on a CPU); their numbers can
-   then differ slightly from the reported ones.
-5. **Optional – Gemini API key:** the LLM relation extraction in Stage 1 uses Google Gemini via LangExtract.
+4. **Stage 2 caches and evaluation:** the saved QLoRA predictions in `outputs/results/stage2/` are earlier
+   GPU runs. Their reference split and reviewed input snapshot are checked before reuse; evaluating these
+   results does not repeat fine-tuning. The revised classical protocol excludes both validation and test
+   articles from phrase/embedding training. Its models are stored separately in
+   `outputs/models/stage2/train_only_<fingerprint>/`; the older models directly under `stage2/` belong to
+   the previous protocol and are not reused. Matching input/configuration caches skip CPU retraining;
+   actual training times are reported in the notebook. Model selection uses validation Macro-F1 across
+   all families, and the selected model is used for the Governance insights.
+5. **Optional – Qwen chunking:** Section 4 measures input coverage with the real tokenizer. The saved
+   Qwen scores use the 256-token prefix. `RUN_CHUNKING_EXPERIMENT = False` keeps a separate four-window
+   inference experiment disabled; enabling it requires CUDA and the saved LoRA adapters. Its pooling and
+   thresholds are selected on validation, and no chunking F1 is claimed before that experiment runs.
+   The local macOS run uses Python 3.12.4 and a Gensim 4.4.0 build with the
+   [dot-wrapper correction](https://github.com/piskvorky/gensim/pull/3668); its wheel and build notes are
+   retained locally in `.venv/ctl-fixes/`.
+6. **Optional – Gemini API key:** the LLM relation extraction in Stage 1 uses Google Gemini via LangExtract.
    Its results are cached in `data/processed/entities/governance_relations_langextract.jsonl`, so the notebook
    runs without a key. To extract new relations, create a file `.env` in the project root:
    ```
