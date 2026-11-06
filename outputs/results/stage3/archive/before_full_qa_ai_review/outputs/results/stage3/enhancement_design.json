@@ -1,0 +1,11 @@
+{
+  "selection_split": "development",
+  "selection_metric": "MRR@4, then Recall@4, deterministic name tie-break",
+  "selected_text_retriever": "hybrid",
+  "development_recall_at_4": 0.3870967741935484,
+  "development_candidate_recall_at_20": 0.6451612903225806,
+  "candidate_context_recall_gap": 0.25806451612903225,
+  "enhancement": "cross-encoder reranking of the same capped 20-candidate graph-aware pool",
+  "rationale": "Evaluate whether relevant evidence already present in the candidate pool is promoted into the four-passage answer context; reranking cannot recover evidence outside that pool.",
+  "test_used_for_selection": false
+}

@@ -1,0 +1,88 @@
+sample_group,dimension,value,population_count,sample_count
+tagged_stratified,month,2026-05,1007,7
+tagged_stratified,month,2026-06,782,5
+tagged_stratified,month,2026-04,745,9
+tagged_stratified,month,2026-01,721,5
+tagged_stratified,month,2026-07,633,7
+tagged_stratified,month,2025-01,595,4
+tagged_stratified,month,2026-03,587,7
+tagged_stratified,month,2025-03,564,7
+tagged_stratified,month,2026-02,546,4
+tagged_stratified,month,2024-10,541,4
+tagged_stratified,month,2025-06,531,8
+tagged_stratified,month,2025-12,526,7
+tagged_stratified,month,2025-04,514,2
+tagged_stratified,month,2025-05,500,6
+tagged_stratified,month,2025-11,492,5
+tagged_stratified,month,2025-07,481,1
+tagged_stratified,month,2025-08,481,5
+tagged_stratified,month,2025-02,465,4
+tagged_stratified,month,2025-10,452,7
+tagged_stratified,month,2024-11,384,4
+tagged_stratified,month,2025-09,382,2
+tagged_stratified,month,2024-12,362,5
+tagged_stratified,month,2026-08,326,2
+tagged_stratified,month,2024-09,242,3
+tagged_stratified,source,Other sources,9206,79
+tagged_stratified,source,builtin,824,9
+tagged_stratified,source,aijourn,625,8
+tagged_stratified,source,dev,405,3
+tagged_stratified,source,theconversation,338,5
+tagged_stratified,source,thenewstack,302,3
+tagged_stratified,source,csis,289,5
+tagged_stratified,source,kpmg,236,3
+tagged_stratified,source,aithority,216,1
+tagged_stratified,source,foreignpolicy,211,2
+tagged_stratified,source,apnews,207,2
+tagged_stratified,nmf_topic,"Business, Markets & Investment",2715,27
+tagged_stratified,nmf_topic,Geopolitics & Public Policy,2454,20
+tagged_stratified,nmf_topic,"LLMs, Model Training & Safety",2091,21
+tagged_stratified,nmf_topic,"Data Governance, Privacy & Compliance",1643,18
+tagged_stratified,nmf_topic,"Search, Digital Media & Marketing",1327,10
+tagged_stratified,nmf_topic,"AI Agents, MCP & Enterprise Tooling",1217,9
+tagged_stratified,nmf_topic,Cybersecurity & Cloud Security,1146,14
+tagged_stratified,nmf_topic,Software Engineering & DevSecOps,266,1
+tagged_stratified,theme,security,4431,41
+tagged_stratified,theme,accountability,7540,74
+tagged_stratified,theme,bias_fairness,2640,24
+tagged_stratified,theme,regulation,1366,16
+stage2_candidates,month,2026-05,186,7
+stage2_candidates,month,2026-04,167,1
+stage2_candidates,month,2026-06,156,1
+stage2_candidates,month,2025-03,146,2
+stage2_candidates,month,2026-01,132,1
+stage2_candidates,month,2025-11,127,2
+stage2_candidates,month,2025-04,125,1
+stage2_candidates,month,2025-06,124,3
+stage2_candidates,month,2026-03,122,1
+stage2_candidates,month,2026-07,114,4
+stage2_candidates,month,2025-01,113,0
+stage2_candidates,month,2025-05,112,1
+stage2_candidates,month,2024-10,112,1
+stage2_candidates,month,2025-08,110,1
+stage2_candidates,month,2025-12,100,3
+stage2_candidates,month,2024-11,97,2
+stage2_candidates,month,2026-02,97,4
+stage2_candidates,month,2025-07,95,1
+stage2_candidates,month,2025-02,94,0
+stage2_candidates,month,2025-10,91,2
+stage2_candidates,month,2025-09,84,1
+stage2_candidates,month,2026-08,62,0
+stage2_candidates,month,2024-09,47,0
+stage2_candidates,month,2024-12,47,1
+stage2_candidates,source,Other sources,1858,24
+stage2_candidates,source,builtin,138,2
+stage2_candidates,source,aijourn,117,2
+stage2_candidates,source,foreignpolicy,105,3
+stage2_candidates,source,csis,93,1
+stage2_candidates,source,dev,73,4
+stage2_candidates,source,thenewstack,62,2
+stage2_candidates,source,theconversation,61,1
+stage2_candidates,source,apnews,57,0
+stage2_candidates,source,technologyreview,51,1
+stage2_candidates,source,nypost,45,0
+stage2_candidates,nmf_topic,No Stage 1 NMF assignment,2660,40
+stage2_candidates,theme,security,0,0
+stage2_candidates,theme,accountability,0,0
+stage2_candidates,theme,bias_fairness,0,0
+stage2_candidates,theme,regulation,0,0

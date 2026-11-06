@@ -1,0 +1,33 @@
+{
+  "reason": "Snapshot before applying the user-approved Q&A corrections and refreshing evaluation. The input CSV records238 approved entries and2 needs_revision entries; the user explicitly approved both corrected versions in chat.",
+  "files_sha256": {
+    "outputs/results/stage3/live_demo.json": "899e6c06451bff8000b56dab7c05121117bbdb5fd29dfedf6b3e14d891f4b54b",
+    "outputs/results/stage3/development_retrieval_per_question.csv": "1f225640d1bc8bb5bdd58666d101791a039b3841ed7243ff00456f7184133db0",
+    "outputs/results/stage3/answer_summary.csv": "e56a5c1b3518161493dab82d756505b16e6e26af31714c5a4e1275abde792790",
+    "outputs/results/stage3/retrieval_runtime.csv": "ed989f4471fb8555fe51280367b717b272ef597bbbcac617e75b7380c4a59291",
+    "outputs/results/stage3/answer_per_question.csv": "264cc1afd3fd41e86d1c15966d71868c070d2c8757bc00a4d5bddc19e15bfb5a",
+    "outputs/results/stage3/test_retrieval_summary.csv": "07dfdcc5160c41042e6407f0a5b645942bfe7d3dd3af76bba2419205f9a7ed11",
+    "outputs/results/stage3/answer_runs.json": "2b6ee01e98ec3affa109ad1448e3cd100d2d87c206239b575f96cb85f92b6e48",
+    "outputs/results/stage3/retrieval_manifest.json": "5787a79da1c9f74ff5570e4c0bcc1beed5d60f9ba906dfd33d62a551e176b67c",
+    "outputs/results/stage3/test_retrieval_per_question.csv": "172218a89a4e451cd8107e63041a514c81fb0644acde9a94595fb39e8e1fe87d",
+    "outputs/results/stage3/enhancement_design.json": "a32cd571258e0540f40d61e6edc325ca3f617cc0e4507db823c8ad9929d022f4",
+    "outputs/results/stage3/test_retrieval_runs.json": "681a76de3eed1fb7b38671b3acbb497bce030f4aa6219d007c206964f8429abe",
+    "outputs/results/stage3/index_summary.json": "89249e82749441a8fe27613bb81bd9dd1c67af95379427d94eab8597076852a9",
+    "outputs/results/stage3/qa_ai_review_summary.json": "75746410ffe07ae31cc6943a2d6b77d6c34869d4e415f2d4a41016ed63cec8c7",
+    "outputs/results/stage3/project_requirement_coverage.csv": "fa50538ab52c819adff901f8e3bb3dfac36bd3de0784d6d67e10489a10995a12",
+    "outputs/results/stage3/development_retrieval_runs.json": "30a34545e08a40f1ec926f15962e60ac61ecbf12624d76cc93f6584981d3cedf",
+    "outputs/results/stage3/qa_review_packet.html": "442968a78776c79bf722dadda8db6dc8b35ee82ef040774d0291e91f9ccf719b",
+    "outputs/results/stage3/development_candidate_coverage.csv": "037beb0fa4f1da92b7bb10a310f41091e72e843b9e0be0d63b9fe2dd3e5030c8",
+    "outputs/results/stage3/answer_manifest.json": "4caa2f215a350b819b0b6dac968515e43052134b49bdbcb68387d6cb2ffbd623",
+    "outputs/results/stage3/environment.json": "f67dd0cf5f1991da21d646d2df179532ee4614c17a6352a4cc8d46ad5611d11f",
+    "outputs/results/stage3/development_retrieval_summary.csv": "57927e5cc58333dd53b7f85278f5bc66be5688168862246be5765b74ecbfa604",
+    "outputs/results/stage3/development_retriever_comparison.csv": "1d54babcd2db3573ba19d491b0b36f4f47b68d70be821dc9e64b34ca0af351ae",
+    "data/processed/stage3/qa_dataset.jsonl": "bbd500142fb500b6a0505a0e2ac56611e9012e8a245d65699659a7f06aee4cc7",
+    "data/processed/stage3/qa_dataset_manifest.json": "2b56f2447325e129f2b11e67ec0414ea6d4f437b5097fc45bfd31e5660d171db",
+    "data/processed/stage3/qa_manual_review.csv": "6322c0e527d7f4eae8ddf17b10338d793cbf71d551f48347ac623fdaed74e625",
+    "data/processed/stage3/answer_evaluation_sample.jsonl": "ebf16a9c2fbb3356d81110ec01fcf7d4b4f1a22b0c12fcc8ca8abb85940845a9",
+    "data/processed/stage3/judge_evaluation_sample.jsonl": "ff20d3cd4bc37cbcabe6c29f7ef72093cb0f18bbf1cb3adfcf245a1d4d6f88c5",
+    "data/processed/stage3/answer_manual_review.csv": "551f57d3970ea387cc4873b83139d00c7e705235f0298d4ad9ffe36f01322745",
+    "notebooks/stage3_rag/Stage3_RAG.ipynb": "f85aed7e00cd6546a252258dfc219aabdf874501e265fb1b1d00b248a3f5249b"
+  }
+}

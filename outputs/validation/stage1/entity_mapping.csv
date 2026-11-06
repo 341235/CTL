@@ -1,0 +1,1464 @@
+original_id,canonical_id,match_method,origins,in_cooccurrence_graph,in_relation_graph,type_conflict,conflicting_types
+GPE::AI Overviews,GPE::AI Overviews,exact,ner_cache,False,False,True,GPE;ORG
+GPE::AL,GPE::AL,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::ATLANTA,GPE::Atlanta,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::AUSTIN,GPE::Austin,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::Accenture,GPE::Accenture,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Afghanistan,GPE::Afghanistan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Al,GPE::Al,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Alaska,GPE::Alaska,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Alibaba,GPE::Alibaba,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Alphabet,GPE::Alphabet,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Altman,GPE::Altman,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::America,GPE::America,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Amsterdam,GPE::Amsterdam,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Argentina,GPE::Argentina,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Arizona,GPE::Arizona,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Atlanta,GPE::Atlanta,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Austin,GPE::Austin,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Australia,GPE::Australia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::BEIJING,GPE::Beijing,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::Beijing,GPE::Beijing,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Belgium,GPE::Belgium,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Berlin,GPE::Berlin,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Big Tech,GPE::Big Tech,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Bing,GPE::Bing,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Bloomberg,GPE::Bloomberg,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Boston,GPE::Boston,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Brazil,GPE::Brazil,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Britain,GPE::Britain,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Broadcom,GPE::Broadcom,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Brooklyn,GPE::Brooklyn,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Brussels,GPE::Brussels,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::CAMBRIDGE,GPE::Cambridge,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::CANADA,GPE::Canada,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::CHICAGO,GPE::Chicago,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::CHINA,GPE::China,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::CI,GPE::CI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::COVID-19,GPE::COVID-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Calif.,GPE::Calif.,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::California,GPE::California,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,GPE
+GPE::Cambridge,GPE::Cambridge,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Canada,GPE::Canada,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,GPE
+GPE::Chicago,GPE::Chicago,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Chile,GPE::Chile,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::China,GPE::China,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Chrome,GPE::Chrome,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Cisco,GPE::Cisco,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Cloud,GPE::Cloud,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Cloudflare,GPE::Cloudflare,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Collates,GPE::Collates,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Colombia,GPE::Colombia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Colorado,GPE::Colorado,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,GPE
+GPE::Connecticut,GPE::Connecticut,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Copilot,GPE::Copilot,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Correlates,GPE::Correlates,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Cursor,GPE::Cursor,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::D.C.,GPE::D.C.,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::DALLAS,GPE::Dallas,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::DC,GPE::DC,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::DUBAI,GPE::Dubai,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::Dallas,GPE::Dallas,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Data,GPE::Data,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Databricks,GPE::Databricks,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Davos,GPE::Davos,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Defense,GPE::Defense,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Delaware,GPE::Delaware,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Denmark,GPE::Denmark,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Denver,GPE::Denver,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Discord,GPE::Discord,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Docker,GPE::Docker,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Dubai,GPE::Dubai,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Duolingo,GPE::Duolingo,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+GPE::EY,GPE::EY,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Egypt,GPE::Egypt,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Email,GPE::Email,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::England,GPE::England,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Estonia,GPE::Estonia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::F1,GPE::F1,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PRODUCT
+GPE::FP,GPE::FP,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Figma,GPE::Figma,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Finland,GPE::Finland,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Finops,GPE::Finops,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+GPE::Fintech,GPE::Fintech,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Florida,GPE::Florida,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Forbes,GPE::Forbes,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Ford,GPE::Ford,exact,ner_cache,False,False,True,GPE;ORG
+GPE::France,GPE::France,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Gateway,GPE::Gateway,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Gaza,GPE::Gaza,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Gen AI,GPE::Gen AI,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Generative Ai,GPE::Generative Ai,exact,ner_cache,False,False,True,GPE;PERSON;TECHNOLOGY
+GPE::Geneva,GPE::Geneva,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Georgia,GPE::Georgia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Germany,GPE::Germany,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Git,GPE::Git,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Github,GPE::Github,exact,ner_cache,False,False,True,GPE;PERSON;PRODUCT
+GPE::Globally,GPE::Globally,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Gmail,GPE::Gmail,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Google Gemini,GPE::Google Gemini,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Google Maps,GPE::Google Maps,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Greenland,GPE::Greenland,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::HOUSTON,GPE::Houston,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::HPC,GPE::HPC,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Hollywood,GPE::Hollywood,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Hong Kong,GPE::Hong Kong,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Hoover,GPE::Hoover,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Houston,GPE::Houston,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::IP,GPE::IP,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Illinois,GPE::Illinois,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::India,GPE::India,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Indiana,GPE::Indiana,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Individuals,GPE::Individuals,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Indonesia,GPE::Indonesia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Iran,GPE::Iran,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Iraq,GPE::Iraq,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Ireland,GPE::Ireland,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Israel,GPE::Israel,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Italy,GPE::Italy,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::JSON,GPE::JSON,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Japan,GPE::Japan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Jest,GPE::Jest,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Jira,GPE::Jira,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Kentucky,GPE::Kentucky,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Kenya,GPE::Kenya,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Keymakr,GPE::Keymakr,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Kling,GPE::Kling,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Kremlin,GPE::Kremlin,exact,ner_cache,False,False,True,GPE;ORG
+GPE::LA,GPE::LA,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::LAS VEGAS,GPE::Las Vegas,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::LONDON,GPE::London,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::LOS ANGELES,GPE::Los Angeles,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::La,GPE::LA,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::Las Vegas,GPE::Las Vegas,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Lebanon,GPE::Lebanon,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Linkedin,GPE::Linkedin,exact,ner_cache,False,False,True,GPE;PRODUCT
+GPE::London,GPE::London,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Los Angeles,GPE::Los Angeles,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Louisiana,GPE::Louisiana,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::MARYLAND,GPE::Maryland,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::MINNEAPOLIS,GPE::Minneapolis,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::MUNICH,GPE::Munich,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::Macau,GPE::Macau,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Malaysia,GPE::Malaysia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Manhattan,GPE::Manhattan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Markdown,GPE::Markdown,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Marriott,GPE::Marriott,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Maryland,GPE::Maryland,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Massachusetts,GPE::Massachusetts,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::McKinsey,GPE::McKinsey,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Media,GPE::Media,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Mexico,GPE::Mexico,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Miami,GPE::Miami,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Michigan,GPE::Michigan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Midjourney,GPE::Midjourney,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Milan,GPE::Milan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Minneapolis,GPE::Minneapolis,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Minnesota,GPE::Minnesota,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Mobley,GPE::Mobley,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Moscow,GPE::Moscow,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Munich,GPE::Munich,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::NEW DELHI,GPE::New Delhi,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::NEW YORK,GPE::New York,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::NHS,GPE::NHS,exact,ner_cache,False,False,True,GPE;ORG
+GPE::NWWashington,GPE::NWWashington,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::NY,GPE::NY,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Nebraska,GPE::Nebraska,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Netflix,GPE::Netflix,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Netguru,GPE::Netguru,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Netherlands,GPE::Netherlands,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::New Delhi,GPE::New Delhi,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::New Jersey,GPE::New Jersey,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::New York,GPE::New York,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,GPE
+GPE::New York City,GPE::New York City,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::New Zealand,GPE::New Zealand,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::New york,GPE::New York,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::Nigeria,GPE::Nigeria,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::North Carolina,GPE::North Carolina,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::North Korea,GPE::North Korea,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Norway,GPE::Norway,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::OAuth,GPE::OAuth,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Ohio,GPE::Ohio,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::OpenClaw,GPE::OpenClaw,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Oracle,GPE::Oracle,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Oregon,GPE::Oregon,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Oxford,GPE::Oxford,exact,ner_cache,False,False,True,GPE;ORG
+GPE::PARIS,GPE::Paris,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::PHILADELPHIA,GPE::Philadelphia,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::Pakistan,GPE::Pakistan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Palantir,GPE::Palantir,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Palo Alto Networks,GPE::Palo Alto Networks,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Paris,GPE::Paris,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Pennsylvania,GPE::Pennsylvania,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Perplexity,GPE::Perplexity,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Philadelphia,GPE::Philadelphia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Philippines,GPE::Philippines,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Phoenix,GPE::Phoenix,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Platform,GPE::Platform,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Poland,GPE::Poland,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Portugal,GPE::Portugal,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::PostgreSQL,GPE::PostgreSQL,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Putin,GPE::Putin,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Python,GPE::Python,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::QA,GPE::QA,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Qatar,GPE::Qatar,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::RL,GPE::RL,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::ROME,GPE::Rome,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::RPA,GPE::RPA,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::ReAct,GPE::React,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::React,GPE::React,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Reddit,GPE::Reddit,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Rome,GPE::Rome,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Runway,GPE::Runway,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Russia,GPE::Russia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::SAN DIEGO,GPE::San Diego,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::SAN FRANCISCO,GPE::San Francisco,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::SAP,GPE::SAP,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::SHANGHAI,GPE::Shanghai,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::SINGAPORE,GPE::Singapore,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::SYDNEY,GPE::Sydney,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::Samsung,GPE::Samsung,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::San Diego,GPE::San Diego,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::San Francisco,GPE::San Francisco,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Saudi Arabia,GPE::Saudi Arabia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Seattle,GPE::Seattle,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Security,GPE::Security,exact,ner_cache,False,False,True,GPE;ORG;THEME
+GPE::ServiceNow,GPE::ServiceNow,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Shanghai,GPE::Shanghai,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Shopify,GPE::Shopify,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Singapore,GPE::Singapore,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Siri,GPE::Siri,exact,ner_cache,False,False,True,GPE;ORG;PERSON;TECHNOLOGY
+GPE::Software,GPE::Software,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Sora,GPE::Sora,exact,ner_cache,False,False,True,GPE;MODEL;PERSON
+GPE::South Africa,GPE::South Africa,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::South Korea,GPE::South Korea,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::SpaceX,GPE::SpaceX,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::Spain,GPE::Spain,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Spotify,GPE::Spotify,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Stanford,GPE::Stanford,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Starlink,GPE::Starlink,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Strands,GPE::Strands,exact,ner_cache,False,False,True,GPE;TECHNOLOGY
+GPE::Sweden,GPE::Sweden,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Switzerland,GPE::Switzerland,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Sydney,GPE::Sydney,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::Syria,GPE::Syria,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::TORONTO,GPE::Toronto,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::TSMC,GPE::TSMC,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Taiwan,GPE::Taiwan,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Teams,GPE::Teams,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Tech,GPE::Tech,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Tehran,GPE::Tehran,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Telegram,GPE::Telegram,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Tennessee,GPE::Tennessee,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Tesla,GPE::Tesla,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::Texas,GPE::Texas,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Thailand,GPE::Thailand,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::The Soviet Union,GPE::the Soviet Union,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::The United Arab Emirates,GPE::the United Arab Emirates,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::The United Kingdom,GPE::the United Kingdom,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::The United States,GPE::The United States,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Tokyo,GPE::Tokyo,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Toronto,GPE::Toronto,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Truth Social,GPE::Truth Social,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Turkey,GPE::Turkey,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::U.K.,GPE::U.K.,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::UAE,GPE::UAE,exact,ner_cache,False,False,True,GPE;ORG
+GPE::UI,GPE::UI,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::USA,GPE::USA,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+GPE::Ukraine,GPE::Ukraine,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Ukrainian,GPE::Ukrainian,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::United Kingdom,GPE::United Kingdom,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::United States,GPE::United States,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Utah,GPE::Utah,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::VC,GPE::VC,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Venezuela,GPE::Venezuela,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+GPE::VentureBeat,GPE::VentureBeat,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Vertex AI,GPE::Vertex AI,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Videos,GPE::Videos,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+GPE::Vietnam,GPE::Vietnam,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Virginia,GPE::Virginia,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::WASHINGTON,GPE::WASHINGTON,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Wales,GPE::Wales,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Washington,GPE::Washington,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+"GPE::Washington, DC","GPE::Washington, DC",exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Whatsapp,GPE::Whatsapp,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Wikipedia,GPE::Wikipedia,exact,ner_cache,False,False,True,GPE;ORG
+GPE::Workday,GPE::Workday,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+GPE::Yemen,GPE::Yemen,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::Youtube,GPE::Youtube,exact,ner_cache,False,False,True,GPE;PERSON;PRODUCT
+GPE::ZBrain,GPE::ZBrain,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::Zhipu,GPE::Zhipu,exact,ner_cache,False,False,True,GPE;ORG
+GPE::america,GPE::America,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::australia,GPE::Australia,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::california,GPE::California,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::chicago,GPE::Chicago,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::china,GPE::China,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::colorado,GPE::Colorado,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::covid-19,GPE::covid-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+GPE::cursor,GPE::Cursor,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::dallas,GPE::Dallas,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::dubai,GPE::Dubai,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::ein,GPE::ein,exact,ner_cache,False,False,True,GPE;ORG
+GPE::florida,GPE::Florida,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::france,GPE::France,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::gitlab,GPE::gitlab,exact,ner_cache,False,False,True,GPE;ORG
+GPE::gpu,GPE::gpu,exact,ner_cache,False,False,True,GPE;PERSON;TECHNOLOGY
+GPE::houston,GPE::Houston,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::iran,GPE::Iran,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::ireland,GPE::Ireland,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::israel,GPE::Israel,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::italy,GPE::Italy,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::json,GPE::json,exact,ner_cache,False,False,True,GPE;PERSON
+GPE::kenya,GPE::Kenya,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::la,GPE::LA,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+GPE::london,GPE::London,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::massachusetts,GPE::Massachusetts,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::new york,GPE::New York,exact+unique_same_type_casefold,ner_cache,True,True,False,GPE
+GPE::nigeria,GPE::Nigeria,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+GPE::nvidia,GPE::nvidia,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::paris,GPE::Paris,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::russia,GPE::Russia,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::syria,GPE::Syria,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::tech,GPE::tech,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+GPE::texas,GPE::Texas,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::the Soviet Union,GPE::the Soviet Union,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::the United Arab Emirates,GPE::the United Arab Emirates,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::the United Kingdom,GPE::the United Kingdom,exact,cooccurrence_graph;ner_cache,True,False,False,GPE
+GPE::the united states,GPE::The United States,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::virginia,GPE::Virginia,exact+unique_same_type_casefold,ner_cache,True,False,False,GPE
+GPE::xAI,GPE::xAI,exact,ner_cache,False,False,True,GPE;ORG
+LAW::AI Transparency Act,LAW::AI Transparency Act,exact,semantic_graph,False,True,False,LAW
+LAW::American Privacy Rights Act,LAW::American Privacy Rights Act,exact,ner_cache;semantic_graph,False,True,True,LAW;ORG
+LAW::Biometric Information Privacy Act,LAW::Biometric Information Privacy Act,exact,semantic_graph,False,True,False,LAW
+LAW::CCPA,LAW::CCPA,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,LAW
+LAW::Claude Code,LAW::Claude Code,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON;PRODUCT
+LAW::Constitution,LAW::Constitution,exact,cooccurrence_graph;ner_cache,True,False,False,LAW
+LAW::Corporate Sustainability Reporting Directive,LAW::Corporate Sustainability Reporting Directive,exact,semantic_graph,False,True,True,LAW;ORG
+LAW::Council of Europe Framework Convention,LAW::Council of Europe Framework Convention,exact,semantic_graph,False,True,True,LAW;ORG
+LAW::DeepSeek,LAW::DeepSeek,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON;PRODUCT
+LAW::Digital Markets Act,LAW::Digital Markets Act,exact,ner_cache;semantic_graph,False,True,False,LAW
+LAW::Digital Omnibus,LAW::Digital Omnibus,exact,semantic_graph,False,True,True,LAW;ORG
+LAW::Digital Omnibus on AI,LAW::Digital Omnibus on AI,exact,semantic_graph,False,True,False,LAW
+LAW::Digital Services Act,LAW::Digital Services Act,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,LAW
+LAW::EU AI Act,LAW::EU AI Act,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,LAW
+LAW::Fable 5,LAW::Fable 5,exact,ner_cache,False,False,True,LAW;MODEL;PRODUCT
+LAW::Fortune 500,LAW::Fortune 500,exact,ner_cache,False,False,True,LAW;PRODUCT
+LAW::GDPR,LAW::GDPR,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,LAW
+LAW::GENIUS Act,LAW::GENIUS Act,exact,semantic_graph,False,True,False,LAW
+LAW::Grok 4,LAW::Grok 4,exact,ner_cache,False,False,True,LAW;MODEL;PERSON
+LAW::Llama 4,LAW::Llama 4,exact,ner_cache,False,False,True,LAW;MODEL;PERSON;PRODUCT
+LAW::MIND Act,LAW::MIND Act,exact,semantic_graph,False,True,False,LAW
+LAW::Mythos 5,LAW::Mythos 5,exact,ner_cache,False,False,True,LAW;MODEL
+LAW::National AI Strategy 2024-2027,LAW::National AI Strategy 2024-2027,exact,semantic_graph,False,True,False,LAW
+LAW::No DeepSeek on Government Devices Act,LAW::No DeepSeek on Government Devices Act,exact,semantic_graph,False,True,False,LAW
+LAW::Online Safety Act,LAW::Online Safety Act,exact,ner_cache;semantic_graph,False,True,True,LAW;PRODUCT
+LAW::Player 01,LAW::Player 01,exact,ner_cache,False,False,True,LAW;MODEL
+LAW::Privacy Act of 1974,LAW::Privacy Act of 1974,exact,semantic_graph,False,True,False,LAW
+LAW::Protecting Americans’ Data from Foreign Adversaries Act of 2024,LAW::Protecting Americans’ Data from Foreign Adversaries Act of 2024,exact,semantic_graph,False,True,False,LAW
+LAW::PyTorch,LAW::PyTorch,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+LAW::RAISE Act,LAW::RAISE Act,exact,semantic_graph,False,True,False,LAW
+LAW::Responsible AI Safety and Education Act,LAW::Responsible AI Safety and Education Act,exact,semantic_graph,False,True,True,LAW;ORG
+LAW::Senate Bill 1047,LAW::Senate Bill 1047,exact,semantic_graph,False,True,False,LAW
+LAW::The Fortune 500,LAW::the Fortune 500,exact+unique_same_type_casefold,ner_cache,True,False,False,LAW
+LAW::Transparency in Frontier Artificial Intelligence Act,LAW::Transparency in Frontier Artificial Intelligence Act,exact,semantic_graph,False,True,False,LAW
+LAW::Trump’s,LAW::Trump’s,exact,ner_cache,False,False,True,LAW;ORG;PERSON
+LAW::section 10.37,LAW::section 10.37,exact,cooccurrence_graph;ner_cache,True,False,False,LAW
+LAW::the Apache 2.0 License,LAW::the Apache 2.0 License,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG
+LAW::the Fortune 500,LAW::the Fortune 500,exact,cooccurrence_graph;ner_cache,True,False,False,LAW
+MODEL::AI models,MODEL::AI models,exact,semantic_graph,False,True,True,MODEL;ORG
+MODEL::Anthropic AI models,MODEL::Anthropic AI models,exact,semantic_graph,False,True,False,MODEL
+MODEL::Character-3,MODEL::Character-3,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON
+MODEL::ChatGPT,MODEL::ChatGPT,exact,semantic_graph,False,True,True,MODEL;ORG;PRODUCT
+MODEL::Claude,MODEL::Claude,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,MODEL;PERSON
+MODEL::DeepSeek AI model,MODEL::DeepSeek AI model,exact,semantic_graph,False,True,False,MODEL
+MODEL::DeepSeek-R1,MODEL::DeepSeek-R1,exact,semantic_graph,False,True,True,MODEL;ORG;PRODUCT
+MODEL::Fable 5,MODEL::Fable 5,exact,semantic_graph,False,True,True,LAW;MODEL;PRODUCT
+MODEL::GLM 5.2,MODEL::GLM 5.2,exact,semantic_graph,False,True,True,MODEL;ORG
+MODEL::GPT,MODEL::GPT,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON
+MODEL::GPT-4o,MODEL::GPT-4o,exact,semantic_graph,False,True,False,MODEL
+MODEL::GPT-5,MODEL::GPT-5,exact,semantic_graph,False,True,False,MODEL
+MODEL::Gemini,MODEL::Gemini,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,MODEL
+MODEL::Gemini 2.5,MODEL::Gemini 2.5,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON;PRODUCT
+MODEL::Gemini 2.5 Pro,MODEL::Gemini 2.5 Pro,exact,semantic_graph,False,True,False,MODEL
+MODEL::Gemini 3,MODEL::Gemini 3,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON
+MODEL::Gemma,MODEL::Gemma,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON
+MODEL::Grok,MODEL::Grok,exact,semantic_graph,False,True,True,MODEL;PERSON
+MODEL::Grok 4,MODEL::Grok 4,exact,semantic_graph,False,True,True,LAW;MODEL;PERSON
+MODEL::IBM AI models,MODEL::IBM AI models,exact,semantic_graph,False,True,False,MODEL
+MODEL::Llama 3.2,MODEL::Llama 3.2,exact,semantic_graph,False,True,True,MODEL;PRODUCT
+MODEL::Llama 4,MODEL::Llama 4,exact,semantic_graph,False,True,True,LAW;MODEL;PERSON;PRODUCT
+MODEL::Mythos 5,MODEL::Mythos 5,exact,semantic_graph,False,True,True,LAW;MODEL
+MODEL::Player 01,MODEL::Player 01,exact,semantic_graph,False,True,True,LAW;MODEL
+MODEL::Sonnet 4,MODEL::Sonnet 4,exact,semantic_graph,False,True,False,MODEL
+MODEL::Sora,MODEL::Sora,exact,semantic_graph,False,True,True,GPE;MODEL;PERSON
+MODEL::Sora 2,MODEL::Sora 2,exact,semantic_graph,False,True,True,MODEL;PERSON
+MODEL::Veo 3,MODEL::Veo 3,exact,semantic_graph,False,True,True,MODEL;ORG;PERSON;PRODUCT
+MODEL::frontier models,MODEL::frontier models,exact,semantic_graph,False,True,True,MODEL;ORG
+MODEL::general-purpose AI models,MODEL::general-purpose AI models,exact,semantic_graph,False,True,False,MODEL
+ORG::3D,ORG::3D,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+"ORG::ABIRAW (Advanced Business Intelligence, Research & Analysis Wing","ORG::ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ACCOUNTABILITY,ORG::ACCOUNTABILITY,exact,ner_cache,False,False,True,ORG;THEME
+ORG::AGI,ORG::AGI,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::AI Agents,ORG::AI Agents,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;TECHNOLOGY
+ORG::AI Models,ORG::AI Models,exact,ner_cache,False,False,True,MODEL;ORG
+ORG::AI Overviews,ORG::AI Overviews,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::AI Systems,ORG::AI Systems,exact,ner_cache,False,False,True,ORG;TECHNOLOGY
+ORG::AI/ML,ORG::AI/ML,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::AI2,ORG::AI2,exact,ner_cache,False,False,False,ORG
+ORG::AIOps,ORG::AIOps,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::AL,ORG::AL,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::AMD,ORG::AMD,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::AML,ORG::AML,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::AMSTERDAM,ORG::AMSTERDAM,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::ANDREW NG,ORG::ANDREW NG,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::ANTHROPIC,ORG::Anthropic,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::AP,ORG::AP,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::APAC,ORG::APAC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::APEX-Agents,ORG::APEX-Agents,exact,ner_cache,False,False,True,ORG;STANDARD
+ORG::AR,ORG::AR,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::ARR,ORG::ARR,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ARRwith,ORG::ARRwith,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ASSERT,ORG::ASSERT,exact,ner_cache,False,False,True,ORG;PERSON;TECHNOLOGY
+ORG::AT&T,ORG::AT&T,exact,semantic_graph,False,True,False,ORG
+ORG::AWS,ORG::AWS,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Accenture,ORG::Accenture,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::Accountability,ORG::Accountability,exact,ner_cache,False,False,True,ORG;THEME
+ORG::Adobe,ORG::Adobe,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Agentic,ORG::Agentic,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Ai2,ORG::Ai2,exact,semantic_graph,False,True,False,ORG
+ORG::Airbus,ORG::Airbus,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Alexa,ORG::Alexa,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Alpha Brand Media,ORG::Alpha Brand Media,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Alphabet,ORG::Alphabet,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Altman,ORG::Altman,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Amazon,ORG::Amazon,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Amazon Web Services,ORG::Amazon Web Services,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::American AI,ORG::American AI,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::American Privacy Rights Act,ORG::American Privacy Rights Act,exact,ner_cache,False,False,True,LAW;ORG
+ORG::Amsterdam,ORG::Amsterdam,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Andreessen Horowitz,ORG::Andreessen Horowitz,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Anduril,ORG::Anduril,exact,ner_cache;semantic_graph,False,True,True,ORG;PERSON;PRODUCT
+ORG::Anthropic,ORG::Anthropic,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Anthropic’s,ORG::Anthropic’s,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Anthropic’s Claude,ORG::Anthropic’s Claude,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Apple,ORG::Apple,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Apurva.ai,ORG::Apurva.ai,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::Ardent Partners,ORG::Ardent Partners,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Armed Forces,ORG::Armed Forces,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Army,ORG::Army,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Artificial Intelligence (AI,ORG::Artificial Intelligence (AI,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Associated Press,ORG::Associated Press,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Association of International Certified Professional Accountants,ORG::Association of International Certified Professional Accountants,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::BBC,ORG::BBC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::BERLIN,ORG::BERLIN,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::BIAS,ORG::BIAS,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::BIDEN,ORG::BIDEN,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::BRUSSELS,ORG::BRUSSELS,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Baidu,ORG::Baidu,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Big Tech,ORG::Big Tech,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::BigQuery,ORG::BigQuery,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Bing,ORG::Bing,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Biometric Data,ORG::Biometric Data,exact,ner_cache,False,False,True,ORG;TECHNOLOGY
+ORG::Bloomberg,ORG::Bloomberg,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Bloomberg Business,ORG::Bloomberg Business,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Boeing,ORG::Boeing,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Broadcom,ORG::Broadcom,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::Business Information Services,ORG::Business Information Services,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ByteDance,ORG::ByteDance,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Bytedance,ORG::ByteDance,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::CAD,ORG::CAD,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CBS,ORG::CBS,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CBS Interactive Inc.,ORG::CBS Interactive Inc.,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CBS News,ORG::CBS News,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CBS News ',ORG::CBS News ',exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CCP,ORG::CCP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CFO,ORG::CFO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CI,ORG::CI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::CIA,ORG::CIA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CIO,ORG::CIO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CIO Dive,ORG::CIO Dive,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CIO Dive's,ORG::CIO Dive's,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::CISCO,ORG::CISCO,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::CLI,ORG::CLI,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CMO,ORG::CMO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CMS,ORG::CMS,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::CNBC,ORG::CNBC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CNN,ORG::CNN,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CONTENT,ORG::Content,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::COO,ORG::COO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::COVID-19,ORG::COVID-19,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::COmmission,ORG::Commission,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::CPU,ORG::CPU,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CRN,ORG::CRN,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CRO,ORG::CRO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CSIS,ORG::CSIS,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CSS,ORG::CSS,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CTO,ORG::CTO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::CX,ORG::CX,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Capitol Hill,ORG::Capitol Hill,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Carnegie Mellon University,ORG::Carnegie Mellon University,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Center for Strategic & International Studies,ORG::Center for Strategic & International Studies,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Character-3,ORG::Character-3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+ORG::ChatGPT,ORG::ChatGPT,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+ORG::ChatGpt,ORG::ChatGpt,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+ORG::Chatgpt,ORG::Chatgpt,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+ORG::Chrome,ORG::Chrome,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Cia,ORG::CIA,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Cisco,ORG::Cisco,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Claude Code,ORG::Claude Code,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+ORG::Claude Desktop,ORG::Claude Desktop,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::ClaudeBot,ORG::ClaudeBot,exact,ner_cache,False,False,True,ORG;TECHNOLOGY
+ORG::CloudFlare,ORG::Cloudflare,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+ORG::Cloudflare,ORG::Cloudflare,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::CoPilot,ORG::Copilot,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Coalition for Secure AI,ORG::Coalition for Secure AI,exact,semantic_graph,False,True,False,ORG
+ORG::Code Review,ORG::Code Review,exact,ner_cache,False,False,True,ORG;PRODUCT
+ORG::Cohere,ORG::Cohere,exact,ner_cache;semantic_graph,False,True,True,ORG;PERSON
+ORG::Coinbase,ORG::Coinbase,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Columbia University,ORG::Columbia University,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Commerce,ORG::Commerce,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Commission,ORG::Commission,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Congress,ORG::Congress,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Content,ORG::Content,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Copilot,ORG::Copilot,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Corporate Sustainability Reporting Directive,ORG::Corporate Sustainability Reporting Directive,exact,ner_cache,False,False,True,LAW;ORG
+ORG::Council of Europe Framework Convention,ORG::Council of Europe Framework Convention,exact,ner_cache,False,False,True,LAW;ORG
+ORG::Covid-19,ORG::COVID-19,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::CrowdStrike,ORG::CrowdStrike,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PERSON
+ORG::Cursor,ORG::Cursor,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Customer Success,ORG::Customer Success,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::DEI,ORG::DEI,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::DEV,ORG::DEV,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::DHS,ORG::DHS,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::DIGITAL,ORG::Digital,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::DOGE,ORG::DOGE,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::DORA,ORG::DORA,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Data,ORG::Data,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::DeepSeek,ORG::DeepSeek,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,LAW;ORG;PERSON;PRODUCT
+ORG::DeepSeek-R1,ORG::DeepSeek-R1,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+ORG::Deepseek,ORG::DeepSeek,exact+unique_same_type_casefold,ner_cache,True,True,True,LAW;ORG;PERSON;PRODUCT
+ORG::Deepseek-R1,ORG::Deepseek-R1,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+ORG::Defense,ORG::Defense,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Deloitte,ORG::Deloitte,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Delta Air Lines,ORG::Delta Air Lines,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::DevOps,ORG::DevOps,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Digital,ORG::Digital,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Digital Omnibus,ORG::Digital Omnibus,exact,ner_cache,False,False,True,LAW;ORG
+ORG::Discord,ORG::Discord,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Disney,ORG::Disney,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Docker,ORG::Docker,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::DoorDash,ORG::DoorDash,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Doordash,ORG::DoorDash,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::DuoLingo,ORG::DuoLingo,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+ORG::Duolingo,ORG::Duolingo,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PRODUCT
+ORG::EHR,ORG::EHR,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::EIN,ORG::EIN,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::EMEA,ORG::EMEA,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::ERP/GL,ORG::ERP/GL,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ESG,ORG::ESG,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ESPN,ORG::ESPN,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ETL,ORG::ETL,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::EV,ORG::EV,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::EY,ORG::EY,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Ebay,ORG::eBay,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Education,ORG::Education,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Elon Musk's,ORG::Elon Musk's,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Emerging Technologies,ORG::Emerging Technologies,exact,ner_cache,False,False,True,ORG;TECHNOLOGY
+ORG::Ernst & Young Global Limited,ORG::Ernst & Young Global Limited,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::European Parliament,ORG::European Parliament,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::European Union,ORG::European Union,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::FBI,ORG::FBI,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::FCC,ORG::FCC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::FDA,ORG::FDA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::FED,ORG::FED,exact,ner_cache,False,False,False,ORG
+ORG::FOX News,ORG::Fox News,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::FP,ORG::FP,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::FREE,ORG::FREE,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Factiva,ORG::Factiva,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Fed,ORG::Fed,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Figma,ORG::Figma,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::FinOps,ORG::FinOps,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PRODUCT
+ORG::FinTech,ORG::FinTech,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Finance,ORG::Finance,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Financial Services,ORG::Financial Services,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Fintech,ORG::FinTech,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Forbes,ORG::Forbes,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Ford,ORG::Ford,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Forem,ORG::Forem,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Fortune Media IP Limited,ORG::Fortune Media IP Limited,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Founder,ORG::Founder,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::Fox News,ORG::Fox News,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Frontier,ORG::Frontier,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::Frontier Models,ORG::Frontier Models,exact,ner_cache,False,False,True,MODEL;ORG
+ORG::GARTNER,ORG::Gartner,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::GCP,ORG::GCP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GEO,ORG::GEO,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::GIZMODO USA LLC,ORG::GIZMODO USA LLC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GKE,ORG::GKE,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GLM 5.2,ORG::GLM 5.2,exact,ner_cache,False,False,True,MODEL;ORG
+ORG::GM,ORG::GM,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GOOGLE,ORG::Google,exact+unique_same_type_casefold,ner_cache,True,True,True,ORG;PRODUCT
+ORG::GOP,ORG::GOP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GPT,ORG::GPT,exact,cooccurrence_graph;ner_cache,True,False,True,MODEL;ORG;PERSON
+ORG::GPT-3,ORG::GPT-3,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GTM,ORG::GTM,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Gartner,ORG::Gartner,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Gartner Hype Cycle,ORG::Gartner Hype Cycle,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Gemini 2.5,ORG::Gemini 2.5,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+ORG::Gemini 3,ORG::Gemini 3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+ORG::Gemini CLI,ORG::Gemini CLI,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::Gemini Enterprise,ORG::Gemini Enterprise,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Gemma,ORG::Gemma,exact,cooccurrence_graph;ner_cache,True,False,True,MODEL;ORG;PERSON
+ORG::Giants,ORG::Giants,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::GitHub CoPilot,ORG::GitHub Copilot,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::GitHub Copilot,ORG::GitHub Copilot,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::GitLab,ORG::GitLab,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Gitlab,ORG::GitLab,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+ORG::Globally,ORG::Globally,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Goldman Sachs,ORG::Goldman Sachs,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Google,ORG::Google,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PRODUCT
+ORG::Google Analytics,ORG::Google Analytics,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Google DeepMind,ORG::Google DeepMind,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PERSON;PRODUCT
+ORG::Google Deepmind,ORG::Google DeepMind,exact+unique_same_type_casefold,ner_cache,True,True,True,ORG;PERSON;PRODUCT
+ORG::Google Gemini,ORG::Google Gemini,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Google Maps,ORG::Google Maps,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Google Search,ORG::Google Search,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Google’s Gemini,ORG::Google’s Gemini,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Gpt,ORG::GPT,exact+unique_same_type_casefold,ner_cache,True,False,True,MODEL;ORG;PERSON
+ORG::Graham Digital Holding Company,ORG::Graham Digital Holding Company,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Graham Holdings Company,ORG::Graham Holdings Company,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Gravitee,ORG::Gravitee,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Ground News,ORG::Ground News,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Guardian,ORG::Guardian,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::HIPAA,ORG::HIPAA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::HPC,ORG::HPC,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::HTML,ORG::HTML,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::HTTPS,ORG::HTTPS,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Hakeem Jeffries,ORG::Hakeem Jeffries,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Hamas,ORG::Hamas,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Harvard,ORG::Harvard,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Harvard University,ORG::Harvard University,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Healthcare,ORG::Healthcare,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Hedra,ORG::Hedra,exact,semantic_graph,False,True,True,ORG;PERSON
+ORG::HiddenLayer,ORG::HiddenLayer,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Hollywood,ORG::Hollywood,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Homeland Security,ORG::Homeland Security,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::House,ORG::House,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Huawei,ORG::Huawei,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Hugging Face,ORG::Hugging Face,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PERSON
+ORG::IAM,ORG::IAM,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::IBM,ORG::IBM,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::IDE,ORG::IDE,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::IP,ORG::IP,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::IPO,ORG::IPO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ISO,ORG::ISO,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Immigration and Customs Enforcement,ORG::Immigration and Customs Enforcement,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Intel,ORG::Intel,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Invest,ORG::Invest,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::JavaScript,ORG::JavaScript,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Jest,ORG::Jest,exact,semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::KPI,ORG::KPI,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::KPMG,ORG::KPMG,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::KPMG International Limited,ORG::KPMG International Limited,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::KPMG LLP,ORG::KPMG LLP,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::KPMG LLP's,ORG::KPMG LLP's,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::KYC,ORG::KYC,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Keir Starmer,ORG::Keir Starmer,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Keymakr,ORG::Keymakr,exact,semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::Kling,ORG::Kling,exact,semantic_graph,False,True,True,GPE;ORG
+ORG::Knicks,ORG::Knicks,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Kremlin,ORG::Kremlin,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::LLC,ORG::LLC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::LangChain,ORG::LangChain,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::LangGraph,ORG::LangGraph,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Large Language Models,ORG::Large Language Models,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Linear,ORG::linear,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Llama,ORG::Llama,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::M & A,ORG::M & A,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MAGA,ORG::MAGA,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::MAX,ORG::MAX,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::MCP Server,ORG::MCP Server,exact,ner_cache,False,False,True,ORG;PERSON;TECHNOLOGY
+ORG::MCPs & Agents,ORG::MCPs & Agents,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::META,ORG::Meta,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::MFA,ORG::MFA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MIAMI,ORG::MIAMI,exact,ner_cache,False,False,True,GPE;ORG
+ORG::MIT,ORG::MIT,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MIT Technology Review,ORG::MIT Technology Review,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MLOps,ORG::MLOps,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MLops,ORG::MLOps,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::MSP,ORG::MSP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MUNICH,ORG::MUNICH,exact,ner_cache,False,False,True,GPE;ORG
+ORG::MVP,ORG::MVP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Macau Business,ORG::Macau Business,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Macau News Agency,ORG::Macau News Agency,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Markdown,ORG::Markdown,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Market players & comparative,ORG::Market players & comparative,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MarketBeat,ORG::MarketBeat,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MarketBeat All Access,ORG::MarketBeat All Access,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Marriott,ORG::Marriott,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::McKinsey,ORG::McKinsey,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Media,ORG::Media,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::MediaPipe Face Landmarker,ORG::MediaPipe Face Landmarker,exact,ner_cache,False,False,True,ORG;PRODUCT
+ORG::Medicaid,ORG::Medicaid,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Medicare,ORG::Medicare,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Medius,ORG::Medius,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::Mercor,ORG::Mercor,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::Meta,ORG::Meta,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Meta’s,ORG::Meta’s,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Mets,ORG::Mets,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft,ORG::Microsoft,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Microsoft 365,ORG::Microsoft 365,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft 365 Copilot,ORG::Microsoft 365 Copilot,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft Azure,ORG::Microsoft Azure,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft CoPilot,ORG::Microsoft Copilot,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Microsoft Copilot,ORG::Microsoft Copilot,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft Edge,ORG::Microsoft Edge,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Microsoft Fabric,ORG::Microsoft Fabric,exact,ner_cache,False,False,True,ORG;PRODUCT
+ORG::Microsoft Teams,ORG::Microsoft Teams,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::MidJourney,ORG::MidJourney,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Midjourney,ORG::Midjourney,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Mistral,ORG::Mistral,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Mit,ORG::MIT,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Mobley,ORG::Mobley,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Morgan Stanley,ORG::Morgan Stanley,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NASA,ORG::NASA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NATO,ORG::NATO,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::NBA,ORG::NBA,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NFL,ORG::NFL,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NHS,ORG::NHS,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::NLP,ORG::NLP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NVIDIA,ORG::NVIDIA,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,GPE;ORG;PERSON
+ORG::NVidia,ORG::NVidia,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::NY,ORG::NY,exact,ner_cache,False,False,True,GPE;ORG
+ORG::NY Post,ORG::NY Post,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NYSE,ORG::NYSE,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Nasa,ORG::NASA,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Nato,ORG::NATO,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::Navy,ORG::Navy,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Nebraska,ORG::Nebraska,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Netflix,ORG::Netflix,exact,ner_cache,False,False,True,GPE;ORG
+ORG::New Longevity BrAIn,ORG::New Longevity BrAIn,exact,ner_cache,False,False,True,ORG;TECHNOLOGY
+ORG::New York Times,ORG::New York Times,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::NlP,ORG::NLP,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Nvidia,ORG::Nvidia,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::OAuth,ORG::OAuth,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::OCR,ORG::OCR,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::OECD,ORG::OECD,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ORCID,ORG::ORCID,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::OWASP,ORG::OWASP,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::OpenAI,ORG::OpenAI,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PERSON
+ORG::OpenAI’s,ORG::OpenAI’s,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::OpenClaw,ORG::OpenClaw,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::OpenTelemetry,ORG::OpenTelemetry,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::Openai,ORG::OpenAI,exact+unique_same_type_casefold,ner_cache,True,True,True,ORG;PERSON
+ORG::Oracle,ORG::Oracle,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Oxford,ORG::Oxford,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::PDF,ORG::PDF,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::PHOENIX,ORG::PHOENIX,exact,ner_cache,False,False,True,GPE;ORG
+ORG::PII,ORG::PII,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::POST,ORG::Post,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::PPC,ORG::PPC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::PWC,ORG::PwC,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Palantir,ORG::Palantir,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Palo Alto Networks,ORG::Palo Alto Networks,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::PayPal,ORG::PayPal,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Pentagon,ORG::Pentagon,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Perplexity,ORG::Perplexity,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Platform,ORG::Platform,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Post,ORG::Post,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Press Office,ORG::Press Office,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Primary Exploratory Research,ORG::Primary Exploratory Research,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Purple AI,ORG::Purple AI,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::Purple AI Athena,ORG::Purple AI Athena,exact,ner_cache,False,False,True,ORG;PRODUCT
+ORG::PwC,ORG::PwC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::PyTorch,ORG::PyTorch,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON;PRODUCT
+ORG::Python,ORG::Python,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::QA,ORG::QA,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::QUANTUM,ORG::Quantum,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Quality Assurance,ORG::Quality Assurance,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::QuantUM,ORG::Quantum,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Quantum,ORG::Quantum,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::RAM,ORG::RAM,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::RBAC,ORG::RBAC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::REUTERS,ORG::Reuters,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::RL,ORG::RL,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::ROME,ORG::ROME,exact,ner_cache,False,False,True,GPE;ORG
+ORG::RPA,ORG::RPA,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::RPS,ORG::RPS,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Rangers,ORG::Rangers,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ReAct,ORG::ReAct,exact,ner_cache,False,False,True,GPE;ORG
+ORG::React,ORG::React,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Recruitment Privacy Policy,ORG::Recruitment Privacy Policy,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Red Hat,ORG::Red Hat,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,ORG;PERSON;PRODUCT
+ORG::Red Hat OpenShift,ORG::Red Hat OpenShift,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Reddit,ORG::Reddit,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Regulation,ORG::Regulation,exact,ner_cache,False,False,True,ORG;THEME
+ORG::Responsible AI Safety and Education Act,ORG::Responsible AI Safety and Education Act,exact,ner_cache,False,False,True,LAW;ORG
+ORG::Responsible AI Standard,ORG::Responsible AI Standard,exact,ner_cache,False,False,True,ORG;STANDARD
+ORG::Reuters,ORG::Reuters,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Ring,ORG::Ring,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Rome,ORG::Rome,exact,ner_cache,False,False,True,GPE;ORG
+ORG::Runway,ORG::Runway,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG
+ORG::S3,ORG::S3,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::SAP,ORG::SAP,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::SDK,ORG::SDK,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SEC,ORG::SEC,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::SECURITY,ORG::SECURITY,exact,ner_cache,False,False,True,GPE;ORG;THEME
+ORG::SEJ,ORG::SEJ,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SEO,ORG::SEO,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SIGNAL,ORG::Signal,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::SMART,ORG::Smart,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::SMS,ORG::SMS,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::SOC,ORG::SOC,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::SOC 2,ORG::SOC 2,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::SRE,ORG::SRE,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::STEM,ORG::STEM,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::SUCCESS,ORG::Success,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::SaaStr,ORG::SaaStr,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Salesforce,ORG::Salesforce,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,ORG
+ORG::Samsung,ORG::Samsung,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Science News,ORG::Science News,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Search Engine Journal,ORG::Search Engine Journal,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Sec,ORG::SEC,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::Security,ORG::Security,exact,ner_cache,False,False,True,GPE;ORG;THEME
+ORG::Senate,ORG::Senate,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SentinelOne,ORG::SentinelOne,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::ServiceNow,ORG::ServiceNow,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Share My Personal Information,ORG::Share My Personal Information,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Shopify,ORG::Shopify,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Signal,ORG::Signal,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Siri,ORG::Siri,exact,ner_cache,False,False,True,GPE;ORG;PERSON;TECHNOLOGY
+ORG::SkyQuest,ORG::SkyQuest,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SkyQuest Technology,ORG::SkyQuest Technology,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SkyQuest Technology Consulting Pvt. Ltd.,ORG::SkyQuest Technology Consulting Pvt. Ltd.,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+"ORG::SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing","ORG::SkyQuest’s ABIRAW (Advanced Business Intelligence, Research & Analysis Wing",exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Skyquest Team,ORG::Skyquest Team,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Skyquest Technology,ORG::SkyQuest Technology,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Smart,ORG::Smart,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::SoC,ORG::SOC,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+ORG::Society for Science & the Public 2000–2026,ORG::Society for Science & the Public 2000–2026,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::SoftBank,ORG::SoftBank,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::Softbank,ORG::SoftBank,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PRODUCT
+ORG::Software,ORG::Software,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Sony,ORG::Sony,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Spotify,ORG::Spotify,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Stanford,ORG::Stanford,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Stanford University,ORG::Stanford University,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Starlink,ORG::Starlink,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::State,ORG::State,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Stem,ORG::STEM,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::Success,ORG::Success,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Sundar Pichai,ORG::Sundar Pichai,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::Supreme Court,ORG::Supreme Court,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::THE EUROPEAN PARLIAMENT,ORG::the European Parliament,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::TIM,ORG::TIM,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::TIME,ORG::TIME,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::TORONTO,ORG::TORONTO,exact,ner_cache,False,False,True,GPE;ORG
+ORG::TPU,ORG::TPU,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::TRUMP,ORG::TRUMP,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::TSMC,ORG::TSMC,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Target,ORG::Target,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Teams,ORG::Teams,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Tech,ORG::Tech,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::TechCrunch,ORG::TechCrunch,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Techcrunch,ORG::TechCrunch,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Telegram,ORG::Telegram,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::TensorFlow,ORG::TensorFlow,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Tensorflow,ORG::TensorFlow,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::Terms of Service,ORG::Terms of Service,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Terraform,ORG::Terraform,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::Tesla,ORG::Tesla,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::Thailand,ORG::Thailand,exact,ner_cache,False,False,True,GPE;ORG
+ORG::The Associated Press,ORG::The Associated Press,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The Center for Strategic and International Studies,ORG::the Center for Strategic and International Studies,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Chinese Communist Party,ORG::the Chinese Communist Party,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Defense Department,ORG::the Defense Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Department of Defense,ORG::the Department of Defense,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Department of Homeland Security,ORG::the Department of Homeland Security,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Department of Justice,ORG::the Department of Justice,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The European Parliament,ORG::the European Parliament,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The European Union,ORG::The European Union,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The European Union’s,ORG::the European Union’s,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Financial Times,ORG::the Financial Times,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The International Space Station,ORG::the International Space Station,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Justice Department,ORG::the Justice Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Linux Foundation,ORG::the Linux Foundation,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The New York Times,ORG::The New York Times,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The Securities and Exchange Commission,ORG::the Securities and Exchange Commission,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The State Department,ORG::the State Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Supreme Court,ORG::the Supreme Court,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The United Nations,ORG::the United Nations,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The University of California,ORG::the University of California,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The University of Oxford,ORG::the University of Oxford,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The Wall Street Journal,ORG::The Wall Street Journal,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The Washington Post,ORG::The Washington Post,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The White House,ORG::The White House,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::The World Bank,ORG::the World Bank,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The World Economic Forum,ORG::the World Economic Forum,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The justice department,ORG::the Justice Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::The supreme court,ORG::the Supreme Court,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::TikTok,ORG::TikTok,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Time,ORG::Time,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Treasury,ORG::Treasury,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Treasury Department Circular,ORG::Treasury Department Circular,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Trelleborg,ORG::Trelleborg,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::TrueFoundry,ORG::TrueFoundry,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::Truefoundry,ORG::TrueFoundry,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PRODUCT
+ORG::Trump’s,ORG::Trump’s,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON
+ORG::Truth Social,ORG::Truth Social,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Twitter,ORG::Twitter,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+ORG::TypeScript,ORG::TypeScript,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Typescript,ORG::TypeScript,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::U.N.,ORG::U.N.,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::U.S. Government,ORG::U.S. Government,exact,ner_cache,False,False,False,ORG
+ORG::U.S. government,ORG::U.S. government,exact,semantic_graph,False,True,False,ORG
+ORG::UAE,ORG::UAE,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::UAVS,ORG::UAVs,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PRODUCT
+ORG::UAVs,ORG::UAVs,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::UI,ORG::UI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::UN,ORG::UN,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::US Congress,ORG::US Congress,exact,ner_cache;semantic_graph,False,True,False,ORG
+ORG::USA,ORG::USA,exact,ner_cache,False,False,True,GPE;ORG
+ORG::USAID,ORG::USAID,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::UTM Comments,ORG::UTM Comments,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Un,ORG::UN,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::United Nations,ORG::United Nations,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::VAR & VAD,ORG::VAR & VAD,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::VB Daily,ORG::VB Daily,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::VC,ORG::VC,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::VPC,ORG::VPC,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Validation & Publishing: Validation,ORG::Validation & Publishing: Validation,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Validation & re-validation,ORG::Validation & re-validation,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Vance,ORG::Vance,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::VentureBeat,ORG::VentureBeat,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Veo 3,ORG::Veo 3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+ORG::Vertex AI,ORG::Vertex AI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Videos,ORG::Videos,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+ORG::WASHINGTON,ORG::WASHINGTON,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Wales,ORG::Wales,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::Walmart,ORG::Walmart,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Washington,ORG::Washington,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::WebFX,ORG::WebFX,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::WhatsApp,ORG::WhatsApp,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::White House,ORG::White House,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::Wikipedia,ORG::Wikipedia,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG
+ORG::Workday,ORG::Workday,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PERSON
+ORG::Workday Digital ID,ORG::Workday Digital ID,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::XAI,ORG::XAI,exact,ner_cache,False,False,True,GPE;ORG
+ORG::XML,ORG::XML,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+ORG::YANKEES,ORG::Yankees,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::Yankees,ORG::Yankees,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+ORG::ZBrain,ORG::ZBrain,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+ORG::Zhipu,ORG::Zhipu,exact,semantic_graph,False,True,True,GPE;ORG
+ORG::Ziff Davis,ORG::Ziff Davis,exact,semantic_graph,False,True,True,ORG;PERSON
+ORG::Zuckerberg,ORG::Zuckerberg,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::agentic,ORG::agentic,exact,ner_cache,False,False,True,ORG;PERSON
+ORG::aicpa-cima.com,ORG::aicpa-cima.com,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::al,ORG::al,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+ORG::android,ORG::android,exact,ner_cache,False,False,True,ORG;PRODUCT
+ORG::apple,ORG::Apple,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::banking sector in Romania,ORG::banking sector in Romania,exact,semantic_graph,False,True,False,ORG
+ORG::commerce,ORG::Commerce,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::companies,ORG::companies,exact,semantic_graph,False,True,False,ORG
+ORG::congress,ORG::Congress,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::data brokers,ORG::data brokers,exact,semantic_graph,False,True,False,ORG
+ORG::digital,ORG::Digital,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::eBay,ORG::eBay,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::etcCompany profileMarket dynamics & outlookRegion,ORG::etcCompany profileMarket dynamics & outlookRegion,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::fbi,ORG::FBI,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::fda,ORG::FDA,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::fed,ORG::fed,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::ford,ORG::Ford,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+ORG::gcp,ORG::GCP,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::geo,ORG::GEO,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PRODUCT
+ORG::giants,ORG::Giants,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::gm,ORG::GM,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::google,ORG::Google,exact+unique_same_type_casefold,ner_cache,True,True,True,ORG;PRODUCT
+ORG::gpt,ORG::GPT,exact+unique_same_type_casefold,ner_cache,True,False,True,MODEL;ORG;PERSON
+ORG::healthcare,ORG::Healthcare,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::iPad,ORG::iPad,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::iPhone,ORG::iPhone,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::intel,ORG::Intel,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::jargon,ORG::jargon,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::linear,ORG::linear,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::medicare,ORG::Medicare,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::microsoft,ORG::Microsoft,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::navy,ORG::Navy,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::neurotech industry,ORG::neurotech industry,exact,semantic_graph,False,True,False,ORG
+ORG::nigeria,ORG::nigeria,exact,ner_cache,False,False,True,GPE;ORG
+ORG::online platforms and search engines,ORG::online platforms and search engines,exact,semantic_graph,False,True,False,ORG
+ORG::openAI,ORG::OpenAI,exact+unique_same_type_casefold,ner_cache,True,True,True,ORG;PERSON
+ORG::organisations,ORG::organisations,exact,semantic_graph,False,True,False,ORG
+ORG::organizations,ORG::organizations,exact,semantic_graph,False,True,False,ORG
+ORG::oxford,ORG::Oxford,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG
+ORG::pentagon,ORG::Pentagon,exact+unique_same_type_casefold,ner_cache,True,True,False,ORG
+ORG::quantum,ORG::Quantum,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::sec,ORG::SEC,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::senate,ORG::Senate,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::smart,ORG::Smart,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::smarterarticles.co.uk,ORG::smarterarticles.co.uk,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::state,ORG::State,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::supreme court,ORG::Supreme Court,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::target,ORG::Target,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::tech,ORG::Tech,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG;PERSON
+ORG::the Apache 2.0 License,ORG::the Apache 2.0 License,exact,ner_cache,False,False,True,LAW;ORG
+ORG::the Associated Press,ORG::The Associated Press,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the Center for Strategic and International Studies,ORG::the Center for Strategic and International Studies,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Chinese Communist Party,ORG::the Chinese Communist Party,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Chinese Communist party,ORG::the Chinese Communist Party,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the Creative Commons Attribution 4.0 License,ORG::the Creative Commons Attribution 4.0 License,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Defense Department,ORG::the Defense Department,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Department of Defense,ORG::the Department of Defense,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Department of Homeland Security,ORG::the Department of Homeland Security,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Department of Justice,ORG::the Department of Justice,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the European Parliament,ORG::the European Parliament,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the European Union,ORG::the European Union,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the European Union’s,ORG::the European Union’s,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Financial Times,ORG::the Financial Times,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Google Developers Site Policies,ORG::the Google Developers Site Policies,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Google Privacy Policy and Terms of Service,ORG::the Google Privacy Policy and Terms of Service,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Intelligent Orchestration Platform,ORG::the Intelligent Orchestration Platform,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the International Space Station,ORG::the International Space Station,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Journal of Accountancy,ORG::the Journal of Accountancy,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Justice Department,ORG::the Justice Department,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Large Language Model (LLM,ORG::the Large Language Model (LLM,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Linux Foundation,ORG::the Linux Foundation,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the New York Times,ORG::the New York Times,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Oval Office,ORG::the Oval Office,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Privacy Policy,ORG::the Privacy Policy,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Privacy Policy and Terms of Use,ORG::the Privacy Policy and Terms of Use,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Red Hat®,ORG::the Red Hat®,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Securities and Exchange Commission,ORG::the Securities and Exchange Commission,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Society for Science,ORG::the Society for Science,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the State Department,ORG::the State Department,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Supreme Court,ORG::the Supreme Court,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the United Nations,ORG::the United Nations,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the University of California,ORG::the University of California,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the University of Oxford,ORG::the University of Oxford,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Wall Street Journal,ORG::the Wall Street Journal,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the Washington Post,ORG::The Washington Post,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the White House,ORG::the White House,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the World Bank,ORG::the World Bank,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the World Economic Forum,ORG::the World Economic Forum,exact,cooccurrence_graph;ner_cache,True,False,False,ORG
+ORG::the justice department,ORG::the Justice Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the state department,ORG::the State Department,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the supreme court,ORG::the Supreme Court,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::the white house,ORG::the white house,exact,ner_cache,False,False,False,ORG
+ORG::treasury,ORG::Treasury,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::un,ORG::UN,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+ORG::white House,ORG::White House,exact+unique_same_type_casefold,ner_cache,True,False,False,ORG
+ORG::xAI,ORG::xAI,exact,semantic_graph,False,True,True,GPE;ORG
+PERSON::AIOps,PERSON::AIOps,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::AR,PERSON::AR,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Accenture,PERSON::Accenture,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Adobe,PERSON::Adobe,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Agentic,PERSON::Agentic,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Agentic Ai,PERSON::Agentic Ai,exact,ner_cache,False,False,True,PERSON;TECHNOLOGY
+PERSON::Al,PERSON::Al,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Alphabet,PERSON::Alphabet,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Altman,PERSON::Altman,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Amsterdam,PERSON::Amsterdam,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Andreessen Horowitz,PERSON::Andreessen Horowitz,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Andrew Ng,PERSON::Andrew Ng,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Anduril,PERSON::Anduril,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Anthropic’s,PERSON::Anthropic’s,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Anthropic’s Claude,PERSON::Anthropic’s Claude,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::App Store,PERSON::App Store,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Assert,PERSON::Assert,exact,ner_cache,False,False,True,ORG;PERSON;TECHNOLOGY
+PERSON::Austin,PERSON::Austin,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::BARACK OBAMA,PERSON::Barack Obama,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::Baidu,PERSON::Baidu,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Barack Obama,PERSON::Barack Obama,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Benjamin Netanyahu,PERSON::Benjamin Netanyahu,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Berlin,PERSON::Berlin,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Bias,PERSON::Bias,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Biden,PERSON::Biden,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Bing,PERSON::Bing,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Blog Posts,PERSON::Blog Posts,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Bloomberg,PERSON::Bloomberg,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Broadcom,PERSON::Broadcom,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::CI,PERSON::CI,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::CIO Dive's,PERSON::CIO Dive's,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::CLAUDE,PERSON::CLAUDE,exact,ner_cache,False,False,True,MODEL;PERSON
+PERSON::COVID-19,PERSON::COVID-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Character-3,PERSON::Character-3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+PERSON::Chile,PERSON::Chile,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Christy Salters-Martin,PERSON::Christy Salters-Martin,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Chrome,PERSON::Chrome,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Chuck Schumer,PERSON::Chuck Schumer,exact,ner_cache;semantic_graph,False,True,False,PERSON
+PERSON::Cisco,PERSON::Cisco,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Claude Code,PERSON::Claude Code,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON;PRODUCT
+PERSON::Claude Desktop,PERSON::Claude Desktop,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Cloud,PERSON::Cloud,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Cloud Console,PERSON::Cloud Console,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::CoPilot,PERSON::CoPilot,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Cohere,PERSON::Cohere,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Coinbase,PERSON::Coinbase,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Content,PERSON::Content,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Cookie Policy,PERSON::Cookie Policy,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Copilot,PERSON::Copilot,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Covid-19,PERSON::Covid-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Crowdstrike,PERSON::Crowdstrike,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Customer Success,PERSON::Customer Success,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::DARIO AMODEI,PERSON::Dario Amodei,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::DEI,PERSON::DEI,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::DENVER,PERSON::DENVER,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Dario Amodei,PERSON::Dario Amodei,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Data,PERSON::Data,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::David Sacks,PERSON::David Sacks,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Deepseek,PERSON::Deepseek,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+PERSON::Denmark,PERSON::Denmark,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Dev,PERSON::Dev,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Devs,PERSON::devs,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::Disney,PERSON::Disney,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Docker,PERSON::Docker,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Doge,PERSON::Doge,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Donald Trump’s,PERSON::Donald Trump’s,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Doordash,PERSON::Doordash,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Dora,PERSON::Dora,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::EMAIL,PERSON::Email,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+PERSON::EMEA,PERSON::EMEA,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::ETL,PERSON::ETL,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::EY,PERSON::EY,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Elon Musk,PERSON::Elon Musk,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,PERSON
+PERSON::Elon Musk's,PERSON::Elon Musk's,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Elon Musk’s,PERSON::Elon Musk’s,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Email,PERSON::Email,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::England,PERSON::England,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Erika Balla,PERSON::Erika Balla,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Fintech,PERSON::Fintech,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Flash,PERSON::Flash,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Forbes,PERSON::Forbes,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Forem,PERSON::Forem,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Forrest Hayes,PERSON::Forrest Hayes,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Founder,PERSON::Founder,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::Free,PERSON::Free,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::GIT,PERSON::Git,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+PERSON::GPT-4,PERSON::GPT-4,exact,cooccurrence_graph;ner_cache,True,False,True,PERSON;PRODUCT
+PERSON::Gartner,PERSON::Gartner,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Gartner Hype Cycle,PERSON::Gartner Hype Cycle,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Gateway,PERSON::Gateway,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Gavin Newsom,PERSON::Gavin Newsom,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,PERSON
+PERSON::Gemini 2.5,PERSON::Gemini 2.5,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+PERSON::Gemini 3,PERSON::Gemini 3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+PERSON::Gemini CLI,PERSON::Gemini CLI,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Gemma,PERSON::Gemma,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+PERSON::Gen AI,PERSON::Gen AI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Generative Ai,PERSON::Generative Ai,exact,ner_cache,False,False,True,GPE;PERSON;TECHNOLOGY
+PERSON::Git,PERSON::Git,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Github,PERSON::Github,exact,ner_cache,False,False,True,GPE;PERSON;PRODUCT
+PERSON::Github Copilot,PERSON::Github Copilot,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Gmail,PERSON::Gmail,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Google DeepMind,PERSON::Google DeepMind,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Google Maps,PERSON::Google Maps,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Gpt,PERSON::Gpt,exact,ner_cache,False,False,True,MODEL;ORG;PERSON
+PERSON::Graham Digital Holding Company,PERSON::Graham Digital Holding Company,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Grok,PERSON::Grok,exact,cooccurrence_graph;ner_cache,True,False,True,MODEL;PERSON
+PERSON::Grok 4,PERSON::Grok 4,exact,ner_cache,False,False,True,LAW;MODEL;PERSON
+PERSON::HTML,PERSON::HTML,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Hakeem Jeffries,PERSON::Hakeem Jeffries,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Healthcare,PERSON::Healthcare,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Hedra,PERSON::Hedra,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Hegseth,PERSON::Hegseth,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Hoover,PERSON::Hoover,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Howick Place,PERSON::Howick Place,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Hugging Face,PERSON::Hugging Face,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::IP,PERSON::IP,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::ISO,PERSON::ISO,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Invest,PERSON::Invest,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Ireland,PERSON::Ireland,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::JD Vance,PERSON::JD Vance,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::JOE BIDEN,PERSON::Joe Biden,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::JSON,PERSON::JSON,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Jason Lemkin,PERSON::Jason Lemkin,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Java,PERSON::Java,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::JavaScript,PERSON::JavaScript,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Javascript,PERSON::Javascript,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Jensen Huang,PERSON::Jensen Huang,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Jest,PERSON::Jest,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Jira,PERSON::Jira,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Joe Biden,PERSON::Joe Biden,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::JofA,PERSON::JofA,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Johnson,PERSON::Johnson,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Josh Gottheimer and Darin LaHood,PERSON::Josh Gottheimer and Darin LaHood,exact,semantic_graph,False,True,False,PERSON
+PERSON::Json,PERSON::JSON,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;PERSON
+PERSON::KPMG LLP,PERSON::KPMG LLP,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::KYC,PERSON::KYC,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Kafka,PERSON::Kafka,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Kamala Harris,PERSON::Kamala Harris,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Kathy Hochul,PERSON::Kathy Hochul,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Keir Starmer,PERSON::Keir Starmer,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Keymakr,PERSON::Keymakr,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Knicks,PERSON::Knicks,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::La,PERSON::La,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::LangGraph,PERSON::LangGraph,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Langchain,PERSON::Langchain,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Langgraph,PERSON::Langgraph,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Large Language Models,PERSON::Large Language Models,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Llama,PERSON::Llama,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Llama 4,PERSON::Llama 4,exact,ner_cache,False,False,True,LAW;MODEL;PERSON;PRODUCT
+PERSON::Luca Giovannini,PERSON::Luca Giovannini,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::MAGA,PERSON::MAGA,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::MCP Server,PERSON::MCP Server,exact,ner_cache,False,False,True,ORG;PERSON;TECHNOLOGY
+PERSON::Maga,PERSON::Maga,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Marco Rubio,PERSON::Marco Rubio,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Mark Zuckerberg,PERSON::Mark Zuckerberg,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Markdown,PERSON::Markdown,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Marriott,PERSON::Marriott,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Max,PERSON::max,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::McKinsey,PERSON::McKinsey,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Mckinsey,PERSON::McKinsey,exact+unique_same_type_casefold,ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Media,PERSON::Media,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Medius,PERSON::Medius,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Meet Nutshell,PERSON::Meet Nutshell,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Metadata,PERSON::metadata,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::Meta’s,PERSON::Meta’s,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Midjourney,PERSON::Midjourney,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Mobley,PERSON::Mobley,exact,ner_cache;semantic_graph,False,True,True,GPE;ORG;PERSON
+PERSON::Musk,PERSON::Musk,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::NVIDIA,PERSON::NVIDIA,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Netherlands,PERSON::Netherlands,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Newsletters,PERSON::Newsletters,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::OAuth,PERSON::OAuth,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Obama,PERSON::Obama,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Oculus Rift,PERSON::Oculus Rift,exact,ner_cache,False,False,True,PERSON;PRODUCT
+PERSON::Opal,PERSON::Opal,exact,ner_cache,False,False,True,PERSON;PRODUCT
+PERSON::OpenAI’s,PERSON::OpenAI’s,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::OpenClaw,PERSON::OpenClaw,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Openclaw,PERSON::Openclaw,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Oracle,PERSON::Oracle,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::PETE HEGSETH,PERSON::Pete Hegseth,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::PII,PERSON::PII,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Palantir,PERSON::Palantir,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Palmer Luckey,PERSON::Palmer Luckey,exact,ner_cache;semantic_graph,False,True,False,PERSON
+PERSON::Paypal,PERSON::Paypal,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Pete Hegseth,PERSON::Pete Hegseth,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Platform,PERSON::Platform,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::PostgreSQL,PERSON::PostgreSQL,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Purple AI,PERSON::Purple AI,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Putin,PERSON::Putin,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::PyTorch,PERSON::PyTorch,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+PERSON::Python,PERSON::Python,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::Pytorch,PERSON::Pytorch,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+PERSON::RL,PERSON::RL,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::RPA,PERSON::RPA,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Ram,PERSON::Ram,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Raúl Torrez,PERSON::Raúl Torrez,exact,ner_cache;semantic_graph,False,True,False,PERSON
+PERSON::Red Hat,PERSON::Red Hat,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::Replit,PERSON::Replit,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Reuters,PERSON::Reuters,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Ring,PERSON::Ring,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::SAP,PERSON::SAP,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::STEM,PERSON::STEM,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Sam Altman,PERSON::Sam Altman,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,PERSON
+PERSON::Samsung,PERSON::Samsung,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::San Diego,PERSON::San Diego,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Scott Bessent,PERSON::Scott Bessent,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Sec,PERSON::Sec,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Shopify,PERSON::Shopify,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Siri,PERSON::Siri,exact,ner_cache,False,False,True,GPE;ORG;PERSON;TECHNOLOGY
+PERSON::Smart,PERSON::Smart,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::SoC,PERSON::SoC,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::Sora,PERSON::Sora,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;MODEL;PERSON
+PERSON::Sora 2,PERSON::Sora 2,exact,ner_cache,False,False,True,MODEL;PERSON
+PERSON::SpaceX,PERSON::SpaceX,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON
+PERSON::Sundar Pichai,PERSON::Sundar Pichai,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::Sydney,PERSON::Sydney,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::TIM,PERSON::Tim,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+PERSON::TRUMP,PERSON::Trump,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON
+PERSON::Teams,PERSON::Teams,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Tech,PERSON::Tech,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Telegram,PERSON::Telegram,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Terraform,PERSON::Terraform,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Tesla,PERSON::Tesla,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Tim,PERSON::Tim,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Tim Cook,PERSON::Tim Cook,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Tour ZBrain,PERSON::Tour ZBrain,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Trump,PERSON::Trump,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Trump’s,PERSON::Trump’s,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON
+PERSON::Twitter,PERSON::Twitter,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::UI,PERSON::UI,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Un,PERSON::Un,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::VC,PERSON::VC,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Vance,PERSON::Vance,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::Venezuela,PERSON::Venezuela,exact,ner_cache,False,False,True,GPE;PERSON
+PERSON::Veo 3,PERSON::Veo 3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+PERSON::Vercel,PERSON::Vercel,exact,cooccurrence_graph;ner_cache,True,False,True,PERSON;PRODUCT
+PERSON::Vladimir Putin,PERSON::Vladimir Putin,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Volodymyr Zelensky,PERSON::Volodymyr Zelensky,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Wales,PERSON::Wales,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Washington,PERSON::Washington,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::WebFX,PERSON::WebFX,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Workday,PERSON::Workday,exact,ner_cache,False,False,True,GPE;ORG;PERSON
+PERSON::Xi,PERSON::Xi,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Xi JinPing,PERSON::Xi Jinping,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PERSON::Xi Jinping,PERSON::Xi Jinping,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Yankees,PERSON::Yankees,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Youtube,PERSON::Youtube,exact,ner_cache,False,False,True,GPE;PERSON;PRODUCT
+PERSON::ZBrain,PERSON::ZBrain,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::Ziff Davis,PERSON::Ziff Davis,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::Zohran Mamdani,PERSON::Zohran Mamdani,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::Zuckerberg,PERSON::Zuckerberg,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::al,PERSON::al,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON
+PERSON::covid-19,PERSON::covid-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PERSON::devs,PERSON::devs,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::gpu,PERSON::gpu,exact,ner_cache,False,False,True,GPE;PERSON;TECHNOLOGY
+PERSON::grok,PERSON::Grok,exact+unique_same_type_casefold,ner_cache,True,False,True,MODEL;PERSON
+PERSON::https,PERSON::https,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON
+PERSON::individuals,PERSON::individuals,exact,semantic_graph,False,True,True,GPE;PERSON
+PERSON::langGraph,PERSON::langGraph,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PERSON::max,PERSON::max,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PERSON::metadata,PERSON::metadata,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::mobile apps,PERSON::mobile apps,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::openAI,PERSON::openAI,exact,ner_cache,False,False,True,ORG;PERSON
+PERSON::symposia,PERSON::symposia,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::tim @ smarterarticles.co.uk Templates,PERSON::tim @ smarterarticles.co.uk Templates,exact,cooccurrence_graph;ner_cache,True,False,False,PERSON
+PERSON::tim cook,PERSON::Tim Cook,exact+unique_same_type_casefold,ner_cache,True,False,False,PERSON
+PRODUCT::AGI,PRODUCT::AGI,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::AI Energy Score,PRODUCT::AI Energy Score,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::AP,PRODUCT::AP,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::Android,PRODUCT::Android,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PRODUCT
+PRODUCT::Anduril,PRODUCT::Anduril,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Apache 2.0,PRODUCT::Apache 2.0,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::CMS,PRODUCT::CMS,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::ChatGPT,PRODUCT::ChatGPT,exact,semantic_graph,False,True,True,MODEL;ORG;PRODUCT
+PRODUCT::Chrome,PRODUCT::Chrome,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Claude Code,PRODUCT::Claude Code,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+PRODUCT::Claude Desktop,PRODUCT::Claude Desktop,exact,semantic_graph,False,True,True,ORG;PERSON;PRODUCT
+PRODUCT::Code Review,PRODUCT::Code Review,exact,semantic_graph,False,True,True,ORG;PRODUCT
+PRODUCT::Content,PRODUCT::Content,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Cowork,PRODUCT::Cowork,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::DAX Copilot,PRODUCT::DAX Copilot,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::DeepSeek,PRODUCT::DeepSeek,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;ORG;PERSON;PRODUCT
+PRODUCT::DeepSeek-R1,PRODUCT::DeepSeek-R1,exact,ner_cache,False,False,True,MODEL;ORG;PRODUCT
+PRODUCT::Discovery,PRODUCT::Discovery,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::DoorDash,PRODUCT::DoorDash,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Duolingo,PRODUCT::Duolingo,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+PRODUCT::Dynamics 365 Sales Copilot,PRODUCT::Dynamics 365 Sales Copilot,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::EHR,PRODUCT::EHR,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::Excel,PRODUCT::Excel,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::F1,PRODUCT::F1,exact,ner_cache,False,False,True,GPE;PRODUCT
+PRODUCT::Fable 5,PRODUCT::Fable 5,exact,ner_cache,False,False,True,LAW;MODEL;PRODUCT
+PRODUCT::FinOps,PRODUCT::FinOps,exact,ner_cache,False,False,True,GPE;ORG;PRODUCT
+PRODUCT::Fortune 500,PRODUCT::Fortune 500,exact,cooccurrence_graph;ner_cache,True,False,True,LAW;PRODUCT
+PRODUCT::Founder,PRODUCT::Founder,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Frontier,PRODUCT::Frontier,exact,semantic_graph,False,True,True,ORG;PRODUCT
+PRODUCT::GEO,PRODUCT::GEO,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::GPT-4,PRODUCT::GPT-4,exact,ner_cache,False,False,True,PERSON;PRODUCT
+PRODUCT::Gartner Hype Cycle,PRODUCT::Gartner Hype Cycle,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Gemini 2.5,PRODUCT::Gemini 2.5,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+PRODUCT::Gemini CLI,PRODUCT::Gemini CLI,exact,semantic_graph,False,True,True,ORG;PERSON;PRODUCT
+PRODUCT::Geo,PRODUCT::Geo,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::GitHub,PRODUCT::GitHub,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,True,GPE;PERSON;PRODUCT
+PRODUCT::GitHub Copilot,PRODUCT::GitHub Copilot,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Google Cloud,PRODUCT::Google Cloud,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,PRODUCT
+PRODUCT::Google DeepMind,PRODUCT::Google DeepMind,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Google Maps,PRODUCT::Google Maps,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Instagram,PRODUCT::Instagram,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::JavaScript,PRODUCT::JavaScript,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LLAMA,PRODUCT::Llama,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LLaMA,PRODUCT::Llama,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LLaMa,PRODUCT::Llama,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LLama,PRODUCT::Llama,exact+unique_same_type_casefold,ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LangChain,PRODUCT::LangChain,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LangGraph,PRODUCT::LangGraph,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::LinkedIn,PRODUCT::LinkedIn,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PRODUCT
+PRODUCT::Llama,PRODUCT::Llama,exact,cooccurrence_graph;ner_cache,True,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Llama 3.2,PRODUCT::Llama 3.2,exact,ner_cache,False,False,True,MODEL;PRODUCT
+PRODUCT::Llama 4,PRODUCT::Llama 4,exact,ner_cache,False,False,True,LAW;MODEL;PERSON;PRODUCT
+PRODUCT::Max,PRODUCT::Max,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::MediaPipe Face Landmarker,PRODUCT::MediaPipe Face Landmarker,exact,semantic_graph,False,True,True,ORG;PRODUCT
+PRODUCT::Microsoft Fabric,PRODUCT::Microsoft Fabric,exact,ner_cache;semantic_graph,False,True,True,ORG;PRODUCT
+PRODUCT::Midjourney,PRODUCT::Midjourney,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Oculus Rift,PRODUCT::Oculus Rift,exact,semantic_graph,False,True,True,PERSON;PRODUCT
+PRODUCT::Oculus VR,PRODUCT::Oculus VR,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::Online Safety Act,PRODUCT::Online Safety Act,exact,ner_cache,False,False,True,LAW;PRODUCT
+PRODUCT::Opal,PRODUCT::Opal,exact,semantic_graph,False,True,True,PERSON;PRODUCT
+PRODUCT::OpenClaw,PRODUCT::OpenClaw,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::OpenTelemetry,PRODUCT::OpenTelemetry,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::PayPal,PRODUCT::PayPal,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Platform,PRODUCT::Platform,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Purple AI,PRODUCT::Purple AI,exact,semantic_graph,False,True,True,ORG;PERSON;PRODUCT
+PRODUCT::Purple AI Athena,PRODUCT::Purple AI Athena,exact,semantic_graph,False,True,True,ORG;PRODUCT
+PRODUCT::PyTorch,PRODUCT::PyTorch,exact,ner_cache,False,False,True,LAW;ORG;PERSON;PRODUCT
+PRODUCT::Red Hat,PRODUCT::Red Hat,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::S3,PRODUCT::S3,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::SMs,PRODUCT::SMs,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::SOC 2,PRODUCT::SOC 2,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::Samsung,PRODUCT::Samsung,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Slack,PRODUCT::Slack,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::SoC,PRODUCT::SoC,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::SoftBank,PRODUCT::SoftBank,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::Sundar Pichai,PRODUCT::Sundar Pichai,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::Teams,PRODUCT::Teams,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::Telegram,PRODUCT::Telegram,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::TrueFoundry,PRODUCT::TrueFoundry,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::Twitter,PRODUCT::Twitter,exact,ner_cache,False,False,True,ORG;PERSON;PRODUCT
+PRODUCT::UAVs,PRODUCT::UAVs,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::VC,PRODUCT::VC,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::VS Code,PRODUCT::VS Code,exact,cooccurrence_graph;ner_cache,True,False,False,PRODUCT
+PRODUCT::Veo 3,PRODUCT::Veo 3,exact,ner_cache,False,False,True,MODEL;ORG;PERSON;PRODUCT
+PRODUCT::Vercel,PRODUCT::Vercel,exact,ner_cache,False,False,True,PERSON;PRODUCT
+PRODUCT::XML,PRODUCT::XML,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::YouTube,PRODUCT::YouTube,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON;PRODUCT
+PRODUCT::ZBrain,PRODUCT::ZBrain,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::covid-19,PRODUCT::covid-19,exact,ner_cache,False,False,True,GPE;ORG;PERSON;PRODUCT
+PRODUCT::discovery,PRODUCT::Discovery,exact+unique_same_type_casefold,ner_cache,True,False,False,PRODUCT
+PRODUCT::geo,PRODUCT::geo,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::google,PRODUCT::google,exact,ner_cache,False,False,True,ORG;PRODUCT
+PRODUCT::green claims,PRODUCT::green claims,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::pay or consent model,PRODUCT::pay or consent model,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::personality-driven interfaces,PRODUCT::personality-driven interfaces,exact,semantic_graph,False,True,False,PRODUCT
+PRODUCT::videos,PRODUCT::videos,exact,semantic_graph,False,True,True,GPE;ORG;PRODUCT
+REGULATOR::European Commission,REGULATOR::European Commission,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,REGULATOR
+REGULATOR::FTC,REGULATOR::FTC,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,REGULATOR
+REGULATOR::NIST,REGULATOR::NIST,exact,cooccurrence_graph;ner_cache,True,False,False,REGULATOR
+STANDARD::APEX-Agents,STANDARD::APEX-Agents,exact,semantic_graph,False,True,True,ORG;STANDARD
+STANDARD::ISO/IEC 42001,STANDARD::ISO/IEC 42001,exact,cooccurrence_graph;ner_cache,True,False,False,STANDARD
+STANDARD::Model Context Protocol,STANDARD::Model Context Protocol,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,STANDARD
+STANDARD::NIST AI RMF,STANDARD::NIST AI RMF,exact,cooccurrence_graph;ner_cache,True,False,False,STANDARD
+STANDARD::Responsible AI Standard,STANDARD::Responsible AI Standard,exact,semantic_graph,False,True,True,ORG;STANDARD
+STANDARD::Secure AI Framework,STANDARD::Secure AI Framework,exact,semantic_graph,False,True,False,STANDARD
+TECHNOLOGY::AI agents,TECHNOLOGY::AI agents,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::AI systems,TECHNOLOGY::AI systems,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::AI-based solutions,TECHNOLOGY::AI-based solutions,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::API,TECHNOLOGY::API,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::ASSERT,TECHNOLOGY::ASSERT,exact,semantic_graph,False,True,True,ORG;PERSON;TECHNOLOGY
+TECHNOLOGY::Agentic AI,TECHNOLOGY::Agentic AI,exact,cooccurrence_graph;ner_cache,True,True,True,PERSON;TECHNOLOGY
+TECHNOLOGY::Anthropic AI systems,TECHNOLOGY::Anthropic AI systems,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::Artificial Intelligence,TECHNOLOGY::Artificial Intelligence,exact,cooccurrence_graph;ner_cache;semantic_graph,True,True,False,TECHNOLOGY
+TECHNOLOGY::CRM,TECHNOLOGY::CRM,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::ClaudeBot,TECHNOLOGY::ClaudeBot,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::ERP,TECHNOLOGY::ERP,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::GPU,TECHNOLOGY::GPU,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON;TECHNOLOGY
+TECHNOLOGY::Generative AI,TECHNOLOGY::Generative AI,exact,cooccurrence_graph;ner_cache,True,False,True,GPE;PERSON;TECHNOLOGY
+TECHNOLOGY::Internet of Things,TECHNOLOGY::Internet of Things,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Kling AI video generator,TECHNOLOGY::Kling AI video generator,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::Kubernetes,TECHNOLOGY::Kubernetes,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Large Language Model,TECHNOLOGY::Large Language Model,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Linux,TECHNOLOGY::Linux,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::MCP server,TECHNOLOGY::MCP server,exact,semantic_graph,False,True,True,ORG;PERSON;TECHNOLOGY
+TECHNOLOGY::Machine Learning,TECHNOLOGY::Machine Learning,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Microsoft Security multi-model agentic scanning harness,TECHNOLOGY::Microsoft Security multi-model agentic scanning harness,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::New Longevity BrAIn,TECHNOLOGY::New Longevity BrAIn,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::Retrieval-Augmented Generation,TECHNOLOGY::Retrieval-Augmented Generation,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Runway AI video generator,TECHNOLOGY::Runway AI video generator,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::SQL,TECHNOLOGY::SQL,exact,cooccurrence_graph;ner_cache,True,False,False,TECHNOLOGY
+TECHNOLOGY::Siri,TECHNOLOGY::Siri,exact,semantic_graph,False,True,True,GPE;ORG;PERSON;TECHNOLOGY
+TECHNOLOGY::Strands,TECHNOLOGY::Strands,exact,semantic_graph,False,True,True,GPE;TECHNOLOGY
+"TECHNOLOGY::advanced, responsible AI","TECHNOLOGY::advanced, responsible AI",exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::agentic AI,TECHNOLOGY::Agentic AI,exact+unique_same_type_casefold,semantic_graph,True,True,True,PERSON;TECHNOLOGY
+TECHNOLOGY::artificial intelligence,TECHNOLOGY::Artificial Intelligence,exact+unique_same_type_casefold,semantic_graph,True,True,False,TECHNOLOGY
+TECHNOLOGY::automotive AI systems,TECHNOLOGY::automotive AI systems,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::autonomous weapons systems,TECHNOLOGY::autonomous weapons systems,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::biometric data,TECHNOLOGY::biometric data,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::emerging technologies,TECHNOLOGY::emerging technologies,exact,semantic_graph,False,True,True,ORG;TECHNOLOGY
+TECHNOLOGY::emotion recognition and biometric categorisation systems,TECHNOLOGY::emotion recognition and biometric categorisation systems,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::employment AI tools,TECHNOLOGY::employment AI tools,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::face geometry,TECHNOLOGY::face geometry,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::stablecoins,TECHNOLOGY::stablecoins,exact,semantic_graph,False,True,False,TECHNOLOGY
+TECHNOLOGY::transformative technology,TECHNOLOGY::transformative technology,exact,semantic_graph,False,True,False,TECHNOLOGY
+THEME::Accountability,THEME::Accountability,exact,cooccurrence_graph,True,False,True,ORG;THEME
+THEME::Bias / Fairness,THEME::Bias / Fairness,exact,cooccurrence_graph,True,False,False,THEME
+THEME::Regulation,THEME::Regulation,exact,cooccurrence_graph,True,False,True,ORG;THEME
+THEME::Security,THEME::Security,exact,cooccurrence_graph,True,False,True,GPE;ORG;THEME

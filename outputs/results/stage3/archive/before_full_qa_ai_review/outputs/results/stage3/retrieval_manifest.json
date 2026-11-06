@@ -1,0 +1,31 @@
+{
+  "experiment_fingerprint": "593e28fa9673059e6266e18d1332b62b1392b2277a6f22ca75df83133a4544bf",
+  "index_fingerprint": "e14e03aee3c536c52a51bc9a4bc37bb586884d80516648f8bca2c0ffc9cbbaed",
+  "qa_fingerprint": "f8535a9103cda473a6bca21a912b5bb8687051c262178e35ec9cf69fe5c01465",
+  "selected_text_mode": "hybrid",
+  "development_questions": 62,
+  "test_questions": 178,
+  "answer_questions": 60,
+  "judge_questions": 15,
+  "answer_sample_frozen_before_generation": true,
+  "candidate_budget": 20,
+  "answer_context_passages": 4,
+  "qa_dataset_sha256": "182eb0d0c452f19f40e368b3448ea3cb594bac9de3def4aa2903dfb66bedd3df",
+  "qa_dataset_manifest_sha256": "cfc443ba6e6199ea9cd274cbdb46532c214877d65edb36860076ebcacda7db84",
+  "qa_review_sha256": "3f56f91a78d826a27f63797638d2ef27e9ccc67984ca4ab6974189442b7bd47a",
+  "selected_passages_sha256": "75ef7e7fcc983dfe010355ee73d7dba25e64dff055d2150e15a1c70e89e28e2a",
+  "test_retrieval_runs_sha256": "f13c422c066b2a187c54c3ed3e800faa613ca97ae8527664ae7a879bf7ed06c7",
+  "answer_sample_sha256": "99c6f4af23d18106858f5c8e9eca96cb8b6c087bf9f93655bb3047a542b17e17",
+  "judge_sample_sha256": "9fdcf65f3d9e05f6ea304f267da6b3295768ec559bfe2a46bda8ecbf4259deb4",
+  "stage1_handoff_sha256": "bf57c87deb83a7138b90b0b1e9faf02e86fafc21f58c2cf61fa64a9b67795460",
+  "graph_sha256": "05a00b8c8fee981fcc1a15cbf8677831573afd117d279475de1a8450a27fd88c",
+  "retrieval_code_sha256": "8657cd1fe42fbb545498c166b51a9c5660fe7e89fd8dde389e9a94e5f6ba3d0e",
+  "chunk_cache_id": "048b0c7625cd930fc770d6fcb829f0b132fc81c16491b5b8195d3c75203624eb",
+  "variants": [
+    "text_only",
+    "graph",
+    "graph_rerank"
+  ],
+  "label_status": "provisional unless all effective QAs are human approved",
+  "source_definition": "authored gold evidence chunk; overlapping/alternative relevant chunks are not exhaustively labelled"
+}

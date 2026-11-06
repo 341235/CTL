@@ -9,6 +9,7 @@ networkx
 graphviz
 ftfy
 jupyter
+streamlit
 openpyxl
 joblib
 ipykernel
@@ -18,6 +19,7 @@ langextract
 python-dotenv
 torch
 transformers
+sentence-transformers
 peft
 accelerate
 bitsandbytes

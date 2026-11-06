@@ -1,0 +1,21 @@
+{
+  "passages": 120,
+  "source_articles": 66,
+  "retrieval_articles": 12805,
+  "split_counts": {
+    "test": 89,
+    "development": 31
+  },
+  "date_min": "2024-09-18",
+  "date_max": "2026-08-02",
+  "chunk_config": {
+    "body_wordpieces": 200,
+    "overlap_wordpieces": 32,
+    "title_wordpieces": 32,
+    "embedding_max_tokens": 256
+  },
+  "tokenizer": "sentence-transformers/all-MiniLM-L6-v2",
+  "stage1_handoff_sha256": "bf57c87deb83a7138b90b0b1e9faf02e86fafc21f58c2cf61fa64a9b67795460",
+  "source_review": "ai_assisted",
+  "selection_scope": "originally tagged, positively reviewed Stage1 sample only; no new corpus filter"
+}

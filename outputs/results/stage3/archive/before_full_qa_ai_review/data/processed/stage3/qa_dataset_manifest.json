@@ -1,0 +1,26 @@
+{
+  "draft_questions": 240,
+  "effective_questions": 240,
+  "human_approved": 0,
+  "human_rejected": 0,
+  "human_needs_revision": 0,
+  "human_pending": 240,
+  "assignment_manual_review_complete": false,
+  "generation_model": "ChatGPT / Codex",
+  "rag_model": "llama3.2:latest",
+  "categories": {
+    "factual": 56,
+    "analytical": 55,
+    "comparative": 49,
+    "relational": 47,
+    "temporal": 33
+  },
+  "splits": {
+    "test": 178,
+    "development": 62
+  },
+  "draft_sha256": "f82cf165d1cac00dec53cb9f562d0079646866f1cfbaabc5c142bba1fad3e2b9",
+  "review_sha256": "3f56f91a78d826a27f63797638d2ef27e9ccc67984ca4ab6974189442b7bd47a",
+  "effective_qa_fingerprint": "f8535a9103cda473a6bca21a912b5bb8687051c262178e35ec9cf69fe5c01465",
+  "evaluation_status": "provisional_on_ai_drafts"
+}

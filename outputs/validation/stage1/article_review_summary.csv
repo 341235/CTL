@@ -1,0 +1,3 @@
+sample_group,sample_size,reviewed,resolved,pending,uncertain,relevant,irrelevant,human_reviewed,ai_reviewed,review_completion,main_sample_complete,main_human_sample_complete,weighted_relevance_min,weighted_relevance_max,weighted_precision
+stage2_candidates,40,40,38,0,2,22,16,0,40,1.0,False,False,,,
+tagged_stratified,120,120,118,0,2,66,52,0,120,1.0,False,False,0.5452544144297001,0.5626741204721608,

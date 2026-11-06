@@ -1,0 +1,8 @@
+Requirement,Status,Evidence
+100–150 representative source passages,implemented,120 exact source chunks
+200–300 Q&A pairs from a different LLM,implemented,240 Q&A pairs; distinct generation and answer models
+Manual Q&A review/refinement,pending,qa_manual_review.csv
+Text retrieval and grounded local RAG,executed,60 paired test questions per variant
+Stage 1 graph integration,implemented and evaluated,Source-backed associations plus 22 reviewed semantic assertions
+Comparison across question categories,executed,178 retrieval queries; 60 answer queries; denominators reported
+One feasible enhancement,implemented and evaluated,Cross-encoder re-ranking with fixed candidate/context budgets

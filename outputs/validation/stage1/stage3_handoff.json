@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "status": "ai_reviewed_with_unresolved_cases",
+  "human_review_complete": false,
+  "all_required_source_reviews_recorded": true,
+  "review_methods": [
+    "ai_assisted"
+  ],
+  "required_reviews_complete": false,
+  "scope": {
+    "publication_start": "2024-09-01",
+    "publication_end": "2026-08-31"
+  },
+  "sampling": {
+    "seed": 42,
+    "primary_articles": 120,
+    "diagnostic_candidates": 40,
+    "relations": 40
+  },
+  "counts": {
+    "eligible_tagged_articles": 12807,
+    "primary_article_reviews_resolved": 118,
+    "relation_reviews_resolved": 40,
+    "retrieval_nodes": 855,
+    "retrieval_storage_edges": 14226,
+    "reviewed_semantic_facts": 22,
+    "primary_human_reviews": 0,
+    "primary_ai_reviews": 120,
+    "relation_human_reviews": 0,
+    "relation_ai_reviews": 40
+  },
+  "design_weighted_primary_relevance_rate": null,
+  "relevance_assessment_method": "AI-assisted source judgment unless a row explicitly records human review",
+  "relevance_bounds_definition": "uncertain labels assigned all irrelevant/all relevant; not a confidence interval",
+  "weighted_relevance_bounds_if_uncertain": [
+    0.5452544144297001,
+    0.5626741204721608
+  ],
+  "policy": {
+    "human_reviews_fabricated": false,
+    "unreviewed_semantic_facts_allowed": false,
+    "candidate_articles_automatically_added": false,
+    "unreviewed_article_relevance": "weak dataset labels, not validated",
+    "cooccurrence": "association only; original article evidence via index intersection",
+    "review_quote_offsets": "full title + '. ' + content_text",
+    "readiness_meaning": "attributed source review only; AI judgments are not human ground truth"
+  },
+  "inputs_sha256": {
+    "corpus": "a62ea35ac98579dbdff468282e330d486c3c348476ad2b61800c044362af2640",
+    "entities": "6eb7201d829b9f6e5f873b9725748be3b336f22978698c7e278e51a221a18e5b",
+    "topics": "fea612c36a3ad01ce476fb41d89e1aa269e70ca2b95e6377e14fb09cab5b97fe",
+    "candidates": "90bb118762e6322a3866ac5027bb0d7075570b4396c62c11b98f4404444fbbb5",
+    "co_graph": "7a2b6f3c450fad73fa312d9d1b890adff336346d6bfa4e157ec6a5ee3e01d59b",
+    "relations": "7ed501657b23232b6c8665dd86a600c74ebc058dfc7d6a67ab674b0012e68bca",
+    "schema": "7e6e72679022bd31f169e05c7dab98bdb32e41dc56f381622637999da18d73e7",
+    "stage1_notebook": "ab286bcd354cdd3225eddd8c2c22f7c140ff997bdb39022968c3dab2f2fadd37"
+  },
+  "review_sha256": {
+    "article_review.csv": "76240d47e95ace26ae98e647368c2394189460791976879ad579d9b64735f052",
+    "relation_review.csv": "7a3f3e67deeebd32cdefcfc9e287e9d7bfd5913f72559023df373fa96a86aaa7"
+  },
+  "code_sha256": {
+    "__init__.py": "1d44b2a5d1a7a975a6294064e5d918a4ce668372fa4457e50c97720b52674e19",
+    "articles.py": "2244a2911b42fde272bb03f6dcfe7c9bccfc146d8fc212a1578a0f13d9b55a24",
+    "common.py": "56538a60796e0724c7ee8a7ced633d2e8b1ac0b7d0a98a2204ef76cd01eea9f7",
+    "graphs.py": "da01341c9e8477ae9c1b1dc70c62eaa473dfc2473ab49c3ae9d2a4d614dfb74d"
+  },
+  "artifacts": {
+    "graph": "outputs/validation/stage1/audited_retrieval_graph.graphml",
+    "entity_articles": "outputs/validation/stage1/entity_articles.csv.gz",
+    "entity_mapping": "outputs/validation/stage1/entity_mapping.csv",
+    "eligible_articles": "outputs/validation/stage1/eligible_articles.csv",
+    "edge_audit": "outputs/validation/stage1/relation_edge_audit.csv"
+  },
+  "limitations": [
+    "A sample review does not validate every unreviewed article.",
+    "Candidate review cannot estimate full-corpus recall.",
+    "NER membership and same-article co-occurrence do not establish a semantic fact.",
+    "Exact evidence alignment does not itself establish relation correctness.",
+    "Publication dates are not event/effective dates.",
+    "AI-assisted labels are not independently established human ground truth.",
+    "No retrieval/QA quality improvement is claimed before Stage 3 evaluation."
+  ]
+}

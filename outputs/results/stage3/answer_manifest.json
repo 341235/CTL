@@ -1,0 +1,56 @@
+{
+  "generator": {
+    "requested_model": "llama3.2:latest",
+    "digest": "a80c4f17acd55265feec403c7aef86be0c25983ab279d83f3bcd3abbcb5b8b72",
+    "name": "llama3.2:latest",
+    "details": {
+      "parent_model": "",
+      "format": "gguf",
+      "family": "llama",
+      "families": [
+        "llama"
+      ],
+      "parameter_size": "3.2B",
+      "quantization_level": "Q4_K_M",
+      "context_length": 131072,
+      "embedding_length": 3072
+    }
+  },
+  "generation_config": {
+    "protocol_version": "stage3-ollama-json-v2-graph-facts",
+    "model": "llama3.2:latest",
+    "base_url": "http://127.0.0.1:11434",
+    "temperature": 0,
+    "seed": 42,
+    "max_new_tokens": 192,
+    "num_ctx": 4096,
+    "timeout": 180,
+    "max_context_passages": 4,
+    "max_context_words": 1100,
+    "max_passage_words": 260,
+    "max_context_chars": 12000,
+    "max_graph_facts": 5,
+    "format": "json_or_json_schema"
+  },
+  "questions_per_variant": 60,
+  "variants": [
+    "text_only",
+    "graph",
+    "graph_rerank"
+  ],
+  "judge_successes": {
+    "text_only": 15,
+    "graph": 15,
+    "graph_rerank": 15
+  },
+  "qa_generator": "ChatGPT / Codex",
+  "different_qa_and_answer_models": true,
+  "qa_label_status": "human_reviewed",
+  "answer_sample_sha256": "64055f7c93ba3081b84307d8fa9bfeda0e18aaebfc0ebce71dbf5f295659d0c0",
+  "retrieval_runs_sha256": "b851820c4c453d30ad0443b5e784c8ac2d7a5eb7dad4699ac4cdc62a7b4db6c1",
+  "answer_runs_sha256": "65e70c7912fa2825aa1042e9b6869898bc431a3c371af37204db2fc64aab48a0",
+  "answer_per_question_sha256": "264cc1afd3fd41e86d1c15966d71868c070d2c8757bc00a4d5bddc19e15bfb5a",
+  "answer_summary_sha256": "e56a5c1b3518161493dab82d756505b16e6e26af31714c5a4e1275abde792790",
+  "generation_code_sha256": "6a134fca15a4d21a40ad9ae421152a69f0ade54d7c52f5487e29b561c149b229",
+  "evaluation_code_sha256": "9a9b63081561b69e3f292e341f9509968cf487f9ddf25415c0dff668434411b0"
+}

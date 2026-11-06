@@ -1,0 +1,33 @@
+{
+  "reason": "Preserve original results and effective QAs before the full AI-assisted Q&A review requested on 2026-11-06. No human review is implied.",
+  "files_sha256": {
+    "outputs/results/stage3/development_retrieval_per_question.csv": "f6cf449160ee0e7e0ae89356b2795b0c21376ea1fb5048b32a8c0d1283e85797",
+    "outputs/results/stage3/answer_summary.csv": "7a34483cf608c9cf5452c7ee3408adf2798c9f5f87990a611838adacef367e59",
+    "outputs/results/stage3/retrieval_runtime.csv": "80e65d69b88f1b915ff4650ae169f4a967e37fe04bd02986ad71bd11274cc6d1",
+    "outputs/results/stage3/answer_per_question.csv": "c6819a89ff7ecdc1e167f1808847a115677f4fe9073336de70c9b93fac868978",
+    "outputs/results/stage3/test_retrieval_summary.csv": "51ad280439cb9fa2e9925f8e070d4d1411ed04aa6bf9996db18bd205bca07e04",
+    "outputs/results/stage3/answer_runs.json": "da4b412af28a8bc8b83aff5c6746c03534948c6646212bfe836fccf754852d40",
+    "outputs/results/stage3/retrieval_manifest.json": "3ea2d4e38ad9df66f55cc2cd471f474cab38421a90596fc46066eb24bd5d36a6",
+    "outputs/results/stage3/test_retrieval_per_question.csv": "da91da7f10b7072b8735d8fae0a66d5428298fe83115953f6626e20f9d4514a6",
+    "outputs/results/stage3/enhancement_design.json": "edf31c309f258395fd241196fa833af8e75603d691d3dfc493b042ce23fdfd95",
+    "outputs/results/stage3/test_retrieval_runs.json": "f13c422c066b2a187c54c3ed3e800faa613ca97ae8527664ae7a879bf7ed06c7",
+    "outputs/results/stage3/index_summary.json": "229d37377444b083ec0cd7e7b74ce046ae4c85b57b0f2893e81e3484290851be",
+    "outputs/results/stage3/project_requirement_coverage.csv": "e2b1e06a67459e17d556351c4bd57d20fcc5fa0375cc05a03c745493337b698f",
+    "outputs/results/stage3/development_retrieval_runs.json": "a1cf222697e0ae878ae952a0df653bfc15b66c7b64474c03187e4df00fc027a4",
+    "outputs/results/stage3/qa_review_packet.html": "b0e1b11391697f8a97398ea82f6c669096be6c34ce9c6cf8e1fab7de49e3f831",
+    "outputs/results/stage3/development_candidate_coverage.csv": "e2f9a17e2a312b8f7e0febaad94f003fdb1ca8c348fda78213648ac62f5e99f9",
+    "outputs/results/stage3/answer_manifest.json": "7cf01c574a04987e70d29502001754047a4edb7945e997cb6f2259ca8446f14b",
+    "outputs/results/stage3/environment.json": "f67dd0cf5f1991da21d646d2df179532ee4614c17a6352a4cc8d46ad5611d11f",
+    "outputs/results/stage3/development_retrieval_summary.csv": "9dc830514785382a6a50b7e4e3144d17060550ecb1efc06b4f8ac2d53df04609",
+    "outputs/results/stage3/development_retriever_comparison.csv": "3310513791fe5af8af6a92b0afc2e16893e689eb9dfda5cc362c76c96be64919",
+    "data/processed/stage3/selected_passages.jsonl": "75ef7e7fcc983dfe010355ee73d7dba25e64dff055d2150e15a1c70e89e28e2a",
+    "data/processed/stage3/qa_drafts_codex.jsonl": "f82cf165d1cac00dec53cb9f562d0079646866f1cfbaabc5c142bba1fad3e2b9",
+    "data/processed/stage3/qa_dataset.jsonl": "182eb0d0c452f19f40e368b3448ea3cb594bac9de3def4aa2903dfb66bedd3df",
+    "data/processed/stage3/qa_dataset_manifest.json": "cfc443ba6e6199ea9cd274cbdb46532c214877d65edb36860076ebcacda7db84",
+    "data/processed/stage3/qa_manual_review.csv": "3f56f91a78d826a27f63797638d2ef27e9ccc67984ca4ab6974189442b7bd47a",
+    "data/processed/stage3/answer_evaluation_sample.jsonl": "99c6f4af23d18106858f5c8e9eca96cb8b6c087bf9f93655bb3047a542b17e17",
+    "data/processed/stage3/judge_evaluation_sample.jsonl": "9fdcf65f3d9e05f6ea304f267da6b3295768ec559bfe2a46bda8ecbf4259deb4",
+    "data/processed/stage3/answer_manual_review.csv": "1bbe220307a49dbd990952023172805bf5e8336372cde39587b89a52b03d51f5",
+    "notebooks/stage3_rag/Stage3_RAG.ipynb": "df0999f547d4bcc4e004d195407859aeca9e222e0e3c9d7720a01dd3bc6f416b"
+  }
+}

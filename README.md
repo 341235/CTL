@@ -8,8 +8,9 @@ The project brief is in [`docs/CLT_AI_Trend_Project.pdf`](docs/CLT_AI_Trend_Proj
 | Stage | Notebook | Status |
 |---|---|---|
 | 1 – Cleaning, EDA, entities, Knowledge Graph, topics | [`notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb`](notebooks/stage1_ai_governance/Stage1_AI_Governance.ipynb) | completed |
+| 1 – Feedback: article relevance, edge evidence and graph linkage | [`notebooks/stage1_ai_governance/Stage1_AI_Governance_Validation.ipynb`](notebooks/stage1_ai_governance/Stage1_AI_Governance_Validation.ipynb) | source review and evidence audit; review method disclosed per row |
 | 2 – Embeddings (Word2Vec, FastText, Doc2Vec) and QLoRA fine-tuning (Qwen3-1.7B, Qwen3-4B) | [`notebooks/stage2_embeddings/Stage2_Embeddings.ipynb`](notebooks/stage2_embeddings/Stage2_Embeddings.ipynb) | completed |
-| 3 – RAG question answering | `notebooks/stage3_rag/` | not started |
+| 3 – RAG question answering | [`notebooks/stage3_rag/Stage3_RAG.ipynb`](notebooks/stage3_rag/Stage3_RAG.ipynb) | implemented, locally evaluated and Q&A reviewed |
 
 ## Folder structure
 
@@ -21,19 +22,26 @@ ProjectCTL/
 │       ├── corpus/              cleaned corpus, lemmatized Governance texts, tag review
 │       ├── entities/            NER results, co-occurrences, cached LLM relation extraction
 │       ├── topics/              topic keywords, topic per article, monthly topic shares
-│       └── stage2/              train/validation/test splits, document vectors (token cache not in Git)
+│       ├── stage2/              token lengths, document vectors (token cache not in Git)
+│       ├── stage3/              120 passages, 240 Q&A drafts, source splits and preserved manual review
+│       └── validation/stage1/   preserved article and relation review CSVs
 ├── outputs/
 │   ├── knowledge_graph/         Knowledge Graph (GraphML), schema (JSON), edges and metrics (CSV)  → Stage 3
 │   ├── models/stage1/           NMF topic model and TF-IDF vectorizer
 │   ├── models/stage2/           embedding models and QLoRA adapters (not in Git, see Setup)
 │   ├── results/stage2/          metric tables, cached QLoRA predictions, relevance scores
+│   ├── results/stage3/          retrieval/RAG comparisons, local outputs, AI judges and source review packet
+│   ├── validation/stage1/       evidence audit, source reading packets, entity/article index, handoff graph
 │   ├── figures/stage1/          all Stage 1 figures as PNG
-│   └── figures/stage2/          all Stage 2 figures as PNG
+│   ├── figures/stage2/          all Stage 2 figures as PNG
+│   └── figures/stage3/          dataset, retrieval, answer and graph figures as PNG
 ├── notebooks/                   one folder per stage
 ├── docs/                        project brief
 ├── src/                         shared code for later stages
 └── requirements.txt
 ```
+
+See the [CSV artifact map](docs/CSV_ARTIFACTS.md) for retained files and removed duplicates.
 
 ## Setup
 
@@ -84,6 +92,34 @@ ProjectCTL/
 
 ## Using the Stage 1 outputs
 
+Before Stage 3, run the supplementary [validation notebook](notebooks/stage1_ai_governance/Stage1_AI_Governance_Validation.ipynb).
+Its scope is the instructor's requested article/edge sample validation, documented limitations and
+reliable linkage of the two graph layers to source articles. The notebook's *Response to the Stage 1
+feedback* section maps each request to the implemented evidence. The measured weaknesses of the tag
+filter are reported as findings; filter redesign and further model training are separate tasks.
+It uses the local Stage 1/2 exports without model training or API calls. It selects 120 originally tagged
+Governance articles and 40 separate Stage 2 candidates, audits all extracted relation evidence, and prepares
+40 important/random relation reviews. The HTML source packets are in `outputs/validation/stage1/`;
+The user-requested Codex source assessments are recorded in the two CSVs under
+`data/processed/validation/stage1/` as `review_method=ai_assisted`, with exact source quotes and rationales.
+They are AI-assisted judgments, not human annotations. Human reviewers can replace individual decisions
+using `review_method=human` and their own identity/date. Original AI decisions are archived as JSONL.
+Reviewer fields are preserved; changed reviewed sources stop execution.
+
+The handoff files are `outputs/validation/stage1/stage3_handoff.json`,
+`audited_retrieval_graph.graphml` and `entity_articles.csv.gz`. The manifest remains
+`pending_review` while decisions are missing; AI-assisted completion is explicitly reported as
+`ai_reviewed` or `ai_reviewed_with_unresolved_cases`. The separate `human_review_complete` flag remains
+false until actual human assessment. Review completion does not validate every article: inspect the
+AI-assessed weighted relevance rate/bounds and topic failures before
+selecting Stage 3 passages. Unreviewed/uncertain articles keep their weak-label status; reviewed irrelevant
+articles and out-of-period articles are excluded. Only source-verified, supported semantic relations
+are exported as assertions with their review method attached. The remaining co-occurrence/theme edges represent associations with retrievable
+article support. Relation-only entities retain direct provenance on the accepted semantic edges.
+
+The original exports below remain available for reproducing Stage 1; they include unreviewed semantic
+relations and are not the reviewed Stage 3 handoff.
+
 ```python
 import pandas as pd
 import networkx as nx
@@ -96,6 +132,29 @@ relations = pd.read_csv("outputs/knowledge_graph/ai_governance_extracted_relatio
 The schema of all graph files (node types, relation types, attributes) is documented in
 `outputs/knowledge_graph/ai_governance_knowledge_graph_schema.json` and in the Stage 1 notebook
 (section *Knowledge Graph Schema and Data Dictionary*).
+
+Validation helpers live in `src/stage1_validation/`. Run their focused regression checks with:
+
+```bash
+python -m unittest discover -s tests -p 'test_stage1_validation*.py' -v
+```
+
+## Open the UI of stage 3
+
+If it is already running, open [http://127.0.0.1:8501](http://127.0.0.1:8501).
+Otherwise, from the project root:
+
+1. Start the Ollama application. The existing `llama3.2:latest` model is required.
+2. Start the UI with the project environment (including `streamlit`):
+
+   ```bash
+   .venv/bin/python -m streamlit run src/stage3_rag/ui.py --server.address 127.0.0.1 --server.port 8501 --browser.gatherUsageStats false
+   ```
+
+3. Open the link above, enter a question, choose a retrieval method and click **Ask question**.
+
+The first question loads the cached search indexes. Keep the terminal open; **Ctrl+C** stops the UI.
+The UI reuses the prepared Stage 3 data, cached models and retrieval configuration.
 
 ## Use of AI tools
 

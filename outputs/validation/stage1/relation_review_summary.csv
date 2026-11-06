@@ -1,0 +1,2 @@
+relations_available,sampled_relations,resolved_reviews,pending_or_unresolved_reviews,important_relations,important_pending_or_unresolved,supported_exact_source_in_sample,human_reviewed,ai_reviewed,human_review_complete,review_complete
+162,40,40,0,20,0,22,0,40,False,True

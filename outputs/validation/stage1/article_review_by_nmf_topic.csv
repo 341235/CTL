@@ -1,0 +1,9 @@
+dominant_topic_label,sample_size,reviewed,resolved,pending,uncertain,relevant,irrelevant,weighted_relevance_min,weighted_relevance_max,weighted_precision
+"AI Agents, MCP & Enterprise Tooling",9,9,9,0,0,5,4,0.5317274662283198,0.5317274662283198,
+"Business, Markets & Investment",27,27,26,0,1,12,14,0.43587959896640166,0.47700460613829193,
+Cybersecurity & Cloud Security,14,14,14,0,0,10,4,0.7159223940442164,0.7159223940442164,
+"Data Governance, Privacy & Compliance",18,18,17,0,1,11,6,0.6056679449952338,0.6616799195832077,
+Geopolitics & Public Policy,20,20,20,0,0,9,11,0.44733917621652297,0.44733917621652297,
+"LLMs, Model Training & Safety",21,21,21,0,0,14,7,0.661338203324686,0.661338203324686,
+"Search, Digital Media & Marketing",10,10,10,0,0,5,5,0.5051374287696011,0.5051374287696011,
+Software Engineering & DevSecOps,1,1,1,0,0,0,1,0.0,0.0,

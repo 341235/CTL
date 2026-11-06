@@ -1,0 +1,18 @@
+{
+  "fingerprint": "e14e03aee3c536c52a51bc9a4bc37bb586884d80516648f8bca2c0ffc9cbbaed",
+  "cache_hit": true,
+  "wall_seconds": 14.967816208023578,
+  "initial_index_build_seconds": 2013.7767086250242,
+  "coverage": {
+    "chunks": 188873,
+    "embedding_max_seq_length": 256,
+    "tokenizer_verified": true,
+    "embedding_truncated_chunks": 0,
+    "input_tokens_max": 238,
+    "coverage_cache_hit": true,
+    "encoding_scope": "passage embedding_text; encoder input can be shorter than the displayed source passage"
+  },
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_revision": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+  "sparse_model": "TF-IDF unigrams+bigrams, maximum 120000 features"
+}
